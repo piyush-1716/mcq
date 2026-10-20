@@ -1,0 +1,222 @@
+[
+  {
+    "q_no": "101",
+    "question": "A row in the table gives the correct connection between field situation and equipotential surface.\n<table class=\"gkaim-mcq-table\">\n<tr><th>Row</th><th>Field or source situation</th><th>Equipotential surface</th></tr>\n<tr><td>P</td><td>Single point charge</td><td>Concentric spheres centred at the charge</td></tr>\n<tr><td>Q</td><td>Uniform electric field</td><td>Spheres centred at every point of the field</td></tr>\n<tr><td>R</td><td>Single point charge</td><td>Planes parallel to the radial field everywhere</td></tr>\n<tr><td>S</td><td>Uniform electric field</td><td>Closed spheres around the negative side only</td></tr>\n</table>",
+    "opt_a": "Row Q",
+    "opt_b": "Row R",
+    "opt_c": "Row P",
+    "opt_d": "Row S",
+    "correct": "C",
+    "explanation": "For a single point charge, potential depends only on distance \\(r\\) from the charge. Constant \\(r\\) in three dimensions gives concentric spherical equipotential surfaces, so row P is correct. In a uniform electric field, equipotential surfaces are planes perpendicular to the field direction, not spheres. A point charge does not have equipotential planes parallel to the radial field. The sign of the charge changes the sign of potential but not the spherical nature of the equipotential surfaces. Correct surface shape is decided by how \\(V\\) varies in space.",
+    "source": "API"
+  },
+  {
+    "q_no": "102",
+    "question": "A positive charge is moved from point \\(P\\) to point \\(Q\\), both lying on the same equipotential surface. The electric field may be non-zero along the region, yet the electrostatic work is zero because:",
+    "opt_a": "The endpoints have no potential difference",
+    "opt_b": "Work is always zero for every motion of a positive charge",
+    "opt_c": "Electric field cannot exist near an equipotential surface",
+    "opt_d": "The charge becomes neutral during the motion",
+    "correct": "A",
+    "explanation": "If \\(P\\) and \\(Q\\) lie on the same equipotential surface, then \\(V_Q-V_P=0\\). The electrostatic work is \\(W_{\\text{field}}=q(V_P-V_Q)\\), so it becomes zero for movement between these points. This does not require the electric field itself to vanish in the surrounding region. For example, near a point charge, an equipotential sphere exists even though the radial electric field is non-zero. The charge does not become neutral; the zero work comes from zero potential difference. Work depends on the component of force along displacement, not merely on whether a field exists nearby.",
+    "source": "API"
+  },
+  {
+    "q_no": "103",
+    "question": "Read the graph description below.\n<div class=\"gkaim-mcq-graph-desc\">A two-dimensional drawing shows several curves representing equal potential values around a point charge. Curves farther from the charge are labelled with smaller magnitudes of \\(V\\), taking \\(V=0\\) at infinity.</div>\nWhat does each curve in this drawing represent?",
+    "opt_a": "A line on which force is zero at every point",
+    "opt_b": "An equipotential line in a plane drawing",
+    "opt_c": "A path along which potential changes most rapidly",
+    "opt_d": "A field line showing the direction of \\(\\vec{E}\\)",
+    "correct": "B",
+    "explanation": "In two-dimensional drawings, equipotential surfaces are often shown as equipotential lines or curves. Each curve represents points having the same potential value. Around a point charge, the full three-dimensional equipotential surfaces are spheres, while a plane drawing shows them as circles or curves. Field lines are different because they show the direction of \\(\\vec{E}\\), not constant \\(V\\). The path of most rapid potential change is along the electric field direction, not along an equipotential line. A line of constant potential can exist where the electric field is non-zero.",
+    "source": "API"
+  },
+  {
+    "q_no": "104",
+    "question": "Two points lie on the same equipotential surface of potential \\(40\\,\\text{V}\\). A charge \\(-3\\,\\text{C}\\) is moved slowly from one point to the other. The change in potential energy is:",
+    "opt_a": "\\(+120\\,\\text{J}\\)",
+    "opt_b": "\\(0\\,\\text{J}\\)",
+    "opt_c": "\\(-120\\,\\text{J}\\)",
+    "opt_d": "\\(-40\\,\\text{J}\\)",
+    "correct": "B",
+    "explanation": "\\( \\textbf{Given condition:} \\) Both points are on the same equipotential surface of \\(40\\,\\text{V}\\).\n\\( \\textbf{Initial and final potentials:} \\)\n\\[\nV_1=40\\,\\text{V},\\qquad V_2=40\\,\\text{V}\n\\]\n\\( \\textbf{Potential difference:} \\)\n\\[\n\\Delta V=V_2-V_1=0\n\\]\n\\( \\textbf{Potential-energy change:} \\)\n\\[\n\\Delta U=q\\Delta V\n\\]\n\\( \\textbf{Substitution:} \\)\n\\[\n\\Delta U=(-3\\,\\text{C})(0\\,\\text{V})\n\\]\n\\( \\textbf{Result:} \\)\n\\[\n\\Delta U=0\\,\\text{J}\n\\]\n\\( \\textbf{Final answer:} \\) The change in potential energy is \\(0\\,\\text{J}\\).\nEven for a negative charge, zero potential difference gives zero change in potential energy.",
+    "source": "API"
+  },
+  {
+    "q_no": "105",
+    "question": "Assertion: No work is done by the electrostatic field when a charge moves along an equipotential surface.\nReason: Along an equipotential surface, the potential difference between any two points is zero.",
+    "opt_a": "Both Assertion and Reason are true, and Reason explains Assertion",
+    "opt_b": "Assertion is true, but Reason is false",
+    "opt_c": "Assertion is false, but Reason is true",
+    "opt_d": "Both Assertion and Reason are true, but Reason does not explain Assertion",
+    "correct": "A",
+    "explanation": "The Assertion is true because electrostatic work between two points is linked with potential difference. For motion from point \\(1\\) to point \\(2\\), field work is \\(W_{\\text{field}}=q(V_1-V_2)\\). On an equipotential surface, \\(V_1=V_2\\). Therefore, the field work is zero. The Reason states exactly the condition that makes this work vanish. The result applies to positive and negative charges because the factor multiplying \\(q\\) is zero.",
+    "source": "API"
+  },
+  {
+    "q_no": "106",
+    "question": "Equipotential surfaces of different potential values cannot intersect because:",
+    "opt_a": "Electric field must be zero wherever two surfaces meet",
+    "opt_b": "Potential becomes a vector at the crossing point",
+    "opt_c": "Work is always positive at an intersection",
+    "opt_d": "One point cannot have two potential values",
+    "correct": "D",
+    "explanation": "If two equipotential surfaces with different potential values intersected, the point of intersection would belong to both surfaces. That would assign two different values of potential to the same point. A unique electrostatic potential cannot have two values at one point for the same reference choice. This is why equipotential surfaces of different \\(V\\) do not intersect. The reason is not that electric field must vanish there. The problem is the contradiction in the scalar value of \\(V\\) at a single point.",
+    "source": "API"
+  },
+  {
+    "q_no": "107",
+    "question": "The best comparison between an electric field line and an equipotential line in a two-dimensional drawing is:",
+    "opt_a": "Both always show the same curve with the same meaning",
+    "opt_b": "A field line shows direction of \\(\\vec{E}\\), while an equipotential line joins points of equal \\(V\\)",
+    "opt_c": "Both can intersect freely because they are only drawings",
+    "opt_d": "A field line joins equal potential points, while an equipotential line shows force direction",
+    "correct": "B",
+    "explanation": "An electric field line is drawn so that its tangent gives the direction of the electric field \\(\\vec{E}\\). An equipotential line is a two-dimensional representation of points having the same potential \\(V\\). These are different types of information about the same electrostatic region. Field lines are about direction of force on a positive test charge, while equipotential lines are about constant work-per-charge value. They should not be treated as two names for the same curve. In electrostatic diagrams, their relationship becomes especially useful because field direction is perpendicular to equipotentials.",
+    "source": "API"
+  },
+  {
+    "q_no": "108",
+    "question": "A region contains three marked surfaces \\(S_1\\), \\(S_2\\), and \\(S_3\\). A charge moved along \\(S_1\\) needs no electrostatic work, along \\(S_2\\) also needs no electrostatic work, and along \\(S_3\\) also needs no electrostatic work. The most reasonable classification is:",
+    "opt_a": "All three are equipotential surfaces",
+    "opt_b": "All three must have the same shape and same potential value",
+    "opt_c": "All three must be electric field lines",
+    "opt_d": "All three must be surfaces where electric field is zero",
+    "correct": "A",
+    "explanation": "If no electrostatic work is done while moving a charge along a surface, the potential difference between any two points on that surface is zero. That is the defining feature of an equipotential surface. Different equipotential surfaces may have different potential values, such as \\(20\\,\\text{V}\\), \\(10\\,\\text{V}\\), and \\(0\\,\\text{V}\\). They also need not always have the same shape; the shape depends on the source arrangement or field pattern. Zero work along the surface does not require zero electric field everywhere. The phrase “along the surface” is essential because moving from one surface to another may involve work.",
+    "source": "API"
+  },
+  {
+    "q_no": "109",
+    "question": "At any point on an equipotential surface, the electric field is directed:",
+    "opt_a": "Randomly because potential is scalar",
+    "opt_b": "Along the surface",
+    "opt_c": "Opposite to the surface only for negative charges",
+    "opt_d": "Perpendicular to the surface",
+    "correct": "D",
+    "explanation": "An equipotential surface has the same potential \\(V\\) at every point on it. If a charge is moved along this surface, the potential difference is zero and no electrostatic work is done. Work by the field would be non-zero if the field had a component along the displacement on the surface. Therefore, the tangential component of \\(\\vec{E}\\) along an equipotential surface must be zero. The only allowed direction of \\(\\vec{E}\\) at the surface is normal to it. Potential is scalar, but its spatial variation still fixes the direction of the electric field.",
+    "source": "API"
+  },
+  {
+    "q_no": "110",
+    "question": "A small positive test charge is placed between two nearby equipotential surfaces marked \\(80\\,\\text{V}\\) and \\(60\\,\\text{V}\\). The electric field direction is:",
+    "opt_a": "Along the \\(80\\,\\text{V}\\) surface",
+    "opt_b": "From the \\(80\\,\\text{V}\\) surface toward the \\(60\\,\\text{V}\\) surface",
+    "opt_c": "From the \\(60\\,\\text{V}\\) surface toward the \\(80\\,\\text{V}\\) surface",
+    "opt_d": "Along the \\(60\\,\\text{V}\\) surface",
+    "correct": "B",
+    "explanation": "Electric field direction is defined as the direction of force on a positive test charge. In electrostatics, a positive charge tends to move in the direction of decreasing potential if released freely. Therefore, \\(\\vec{E}\\) points from higher potential to lower potential. Between the \\(80\\,\\text{V}\\) and \\(60\\,\\text{V}\\) equipotential surfaces, the direction is from \\(80\\,\\text{V}\\) toward \\(60\\,\\text{V}\\). The field is also perpendicular to the equipotential surfaces, not along them. The sign convention is tied to a positive test charge, so reversing it would describe the force on a negative charge, not the field direction itself.",
+    "source": "API"
+  },
+  {
+    "q_no": "191",
+    "question": "Three equal charges \\(+q,+q,+q\\) are placed at the corners of an equilateral triangle of side \\(a\\). The electrostatic potential energy of the system is:",
+    "opt_a": "\\(\\frac{2kq^2}{a}\\)",
+    "opt_b": "\\(\\frac{6kq^2}{a}\\)",
+    "opt_c": "\\(\\frac{kq^2}{a}\\)",
+    "opt_d": "\\(\\frac{3kq^2}{a}\\)",
+    "correct": "D",
+    "explanation": "\\( \\textbf{Arrangement:} \\) Three equal charges occupy the corners of an equilateral triangle of side \\(a\\).\n\\( \\textbf{Number of distinct pairs:} \\)\n\\[\n\\text{Pairs}=(1,2),(1,3),(2,3)\n\\]\n\\( \\textbf{Energy of each pair:} \\)\n\\[\nU_{\\text{pair}}=\\frac{kq^2}{a}\n\\]\n\\( \\textbf{Total energy:} \\)\n\\[\nU=3\\left(\\frac{kq^2}{a}\\right)\n\\]\n\\( \\textbf{Final expression:} \\)\n\\[\nU=\\frac{3kq^2}{a}\n\\]\n\\( \\textbf{Final answer:} \\) The system energy is \\(\\frac{3kq^2}{a}\\).\nThe factor \\(3\\) comes from the number of distinct pairs, not from adding the three charges first.",
+    "source": "API"
+  },
+  {
+    "q_no": "192",
+    "question": "Charges \\(+q\\), \\(+q\\), and \\(-q\\) are placed at the corners of an equilateral triangle of side \\(a\\). The total electrostatic potential energy is:",
+    "opt_a": "\\(\\frac{3kq^2}{a}\\)",
+    "opt_b": "\\(-\\frac{3kq^2}{a}\\)",
+    "opt_c": "\\(-\\frac{kq^2}{a}\\)",
+    "opt_d": "\\(\\frac{kq^2}{a}\\)",
+    "correct": "C",
+    "explanation": "There are three distinct pairs in the triangle. The pair of the two positive charges contributes \\(+\\frac{kq^2}{a}\\). Each positive-negative pair contributes \\(-\\frac{kq^2}{a}\\). Since there are two positive-negative pairs, their total contribution is \\(-\\frac{2kq^2}{a}\\). Therefore,\n\\[\nU=\\frac{kq^2}{a}-\\frac{2kq^2}{a}\n\\]\n\\[\nU=-\\frac{kq^2}{a}\n\\]\nThe negative total shows that the attractive pair contributions dominate the one repulsive pair contribution.",
+    "source": "API"
+  },
+  {
+    "q_no": "193",
+    "question": "Three charges \\(+2\\,\\mu\\text{C}\\), \\(-2\\,\\mu\\text{C}\\), and \\(+2\\,\\mu\\text{C}\\) lie on a straight line at points \\(P\\), \\(Q\\), and \\(R\\), respectively, with \\(PQ=0.10\\,\\text{m}\\), \\(QR=0.10\\,\\text{m}\\), and \\(PR=0.20\\,\\text{m}\\). Taking \\(k=9.0\\times10^9\\,\\text{N m}^2\\text{C}^{-2}\\), the total potential energy is:",
+    "opt_a": "\\(+0.72\\,\\text{J}\\)",
+    "opt_b": "\\(-0.54\\,\\text{J}\\)",
+    "opt_c": "\\(+0.36\\,\\text{J}\\)",
+    "opt_d": "\\(-0.72\\,\\text{J}\\)",
+    "correct": "B",
+    "explanation": "\\( \\textbf{Charges:} \\) \\(q_P=+2\\times10^{-6}\\,\\text{C}\\), \\(q_Q=-2\\times10^{-6}\\,\\text{C}\\), and \\(q_R=+2\\times10^{-6}\\,\\text{C}\\).\n\\( \\textbf{Separations:} \\) \\(r_{PQ}=0.10\\,\\text{m}\\), \\(r_{QR}=0.10\\,\\text{m}\\), and \\(r_{PR}=0.20\\,\\text{m}\\).\n\\( \\textbf{Pairwise energy sum:} \\)\n\\[\nU=k\\left(\\frac{q_Pq_Q}{r_{PQ}}+\\frac{q_Qq_R}{r_{QR}}+\\frac{q_Pq_R}{r_{PR}}\\right)\n\\]\n\\( \\textbf{First pair:} \\)\n\\[\nU_{PQ}=\\frac{(9.0\\times10^9)(-4\\times10^{-12})}{0.10}=-0.36\\,\\text{J}\n\\]\n\\( \\textbf{Second pair:} \\)\n\\[\nU_{QR}=\\frac{(9.0\\times10^9)(-4\\times10^{-12})}{0.10}=-0.36\\,\\text{J}\n\\]\n\\( \\textbf{Third pair:} \\)\n\\[\nU_{PR}=\\frac{(9.0\\times10^9)(+4\\times10^{-12})}{0.20}=+0.18\\,\\text{J}\n\\]\n\\( \\textbf{Total:} \\)\n\\[\nU=-0.36\\,\\text{J}-0.36\\,\\text{J}+0.18\\,\\text{J}=-0.54\\,\\text{J}\n\\]\n\\( \\textbf{Final answer:} \\) The total potential energy is \\(-0.54\\,\\text{J}\\).\nThe two nearer attractive pairs dominate the one farther repulsive pair.",
+    "source": "API"
+  },
+  {
+    "q_no": "194",
+    "question": "A system of four point charges has pair energies \\(U_{12}\\), \\(U_{13}\\), \\(U_{14}\\), \\(U_{23}\\), \\(U_{24}\\), and \\(U_{34}\\). The total energy is written by adding these six terms once. This is done because:",
+    "opt_a": "Four charges form six distinct interacting pairs",
+    "opt_b": "Four charges form exactly four distinct interacting pairs",
+    "opt_c": "Potential energy is a vector and needs six components",
+    "opt_d": "Each pair must be counted twice for the two directions of force",
+    "correct": "A",
+    "explanation": "The mutual electrostatic energy of a system is obtained by summing over distinct pairs. For four charges, the number of distinct pairs is \\(\\frac{4(4-1)}{2}=6\\). These pairs are \\(12\\), \\(13\\), \\(14\\), \\(23\\), \\(24\\), and \\(34\\). Each pair contributes one scalar energy term of the form \\(\\frac{kq_iq_j}{r_{ij}}\\). Counting a pair twice would double the energy incorrectly. The pair labels identify interactions, not vector components.",
+    "source": "API"
+  },
+  {
+    "q_no": "195",
+    "question": "In calculating the electrostatic potential energy of a system of point charges, the term \\(\\frac{kq_1q_2}{r_{12}}\\) should be counted:",
+    "opt_a": "Once, as one mutual interaction between \\(q_1\\) and \\(q_2\\)",
+    "opt_b": "Zero times, because potential energy is not defined for two charges",
+    "opt_c": "Twice, because \\(q_1\\) exerts force on \\(q_2\\) and \\(q_2\\) exerts force on \\(q_1\\)",
+    "opt_d": "Once only when both charges are positive",
+    "correct": "A",
+    "explanation": "The energy term \\(\\frac{kq_1q_2}{r_{12}}\\) belongs to the pair interaction between \\(q_1\\) and \\(q_2\\). Although the forces on the two charges are equal and opposite, the mutual potential energy is a single scalar quantity associated with the pair. Counting both \\(\\frac{kq_1q_2}{r_{12}}\\) and \\(\\frac{kq_2q_1}{r_{21}}\\) would double count the same interaction. The sign of the term comes from the product \\(q_1q_2\\). This rule applies for like as well as unlike charges. Pair counting is about distinct interactions, not about the number of force arrows.",
+    "source": "API"
+  },
+  {
+    "q_no": "196",
+    "question": "Four equal charges \\(+q\\) are placed at the corners of a square of side \\(a\\). The total electrostatic potential energy of the system is:",
+    "opt_a": "\\(\\frac{6kq^2}{a}\\)",
+    "opt_b": "\\(\\frac{4kq^2}{a}\\)",
+    "opt_c": "\\(\\frac{kq^2}{a}\\left(4+2\\sqrt{2}\\right)\\)",
+    "opt_d": "\\(\\frac{kq^2}{a}\\left(4+\\sqrt{2}\\right)\\)",
+    "correct": "D",
+    "explanation": "\\( \\textbf{Arrangement:} \\) Four equal charges \\(+q\\) are fixed at the corners of a square of side \\(a\\).\n\\( \\textbf{Distinct pairs:} \\) A four-charge system has \\(6\\) interacting pairs.\n\\( \\textbf{Side pairs:} \\) The square has \\(4\\) side pairs, and each pair is separated by \\(a\\).\n\\[\nU_{\\text{side}}=4\\left(\\frac{kq^2}{a}\\right)\n\\]\n\\( \\textbf{Diagonal pairs:} \\) The square has \\(2\\) diagonal pairs, and each diagonal separation is \\(a\\sqrt{2}\\).\n\\[\nU_{\\text{diagonal}}=2\\left(\\frac{kq^2}{a\\sqrt{2}}\\right)\n\\]\n\\[\nU_{\\text{diagonal}}=\\frac{2}{\\sqrt{2}}\\frac{kq^2}{a}=\\frac{\\sqrt{2}kq^2}{a}\n\\]\n\\( \\textbf{Total energy:} \\)\n\\[\nU=U_{\\text{side}}+U_{\\text{diagonal}}\n\\]\n\\[\nU=\\frac{4kq^2}{a}+\\frac{\\sqrt{2}kq^2}{a}\n\\]\n\\[\nU=\\frac{kq^2}{a}\\left(4+\\sqrt{2}\\right)\n\\]\n\\( \\textbf{Final answer:} \\) The total electrostatic potential energy is \\(\\frac{kq^2}{a}\\left(4+\\sqrt{2}\\right)\\).\nThe side pairs and diagonal pairs must be counted separately because their separations are different.",
+    "source": "API"
+  },
+  {
+    "q_no": "197",
+    "question": "Three charges \\(+q\\), \\(+q\\), and \\(-2q\\) are placed at the corners of an equilateral triangle of side \\(a\\). The total electrostatic potential energy is:",
+    "opt_a": "\\(-\\frac{kq^2}{a}\\)",
+    "opt_b": "\\(-\\frac{3kq^2}{a}\\)",
+    "opt_c": "\\(\\frac{5kq^2}{a}\\)",
+    "opt_d": "\\(\\frac{kq^2}{a}\\)",
+    "correct": "B",
+    "explanation": "\\( \\textbf{Distinct pairs:} \\) The three charges form \\(3\\) distinct pairs.\n\\( \\textbf{Positive-positive pair:} \\)\n\\[\nU_{12}=\\frac{k(q)(q)}{a}=\\frac{kq^2}{a}\n\\]\n\\( \\textbf{First positive-negative pair:} \\)\n\\[\nU_{13}=\\frac{k(q)(-2q)}{a}=-\\frac{2kq^2}{a}\n\\]\n\\( \\textbf{Second positive-negative pair:} \\)\n\\[\nU_{23}=\\frac{k(q)(-2q)}{a}=-\\frac{2kq^2}{a}\n\\]\n\\( \\textbf{Total energy:} \\)\n\\[\nU=\\frac{kq^2}{a}-\\frac{2kq^2}{a}-\\frac{2kq^2}{a}\n\\]\n\\[\nU=-\\frac{3kq^2}{a}\n\\]\n\\( \\textbf{Final answer:} \\) The total energy is \\(-\\frac{3kq^2}{a}\\).\nThe single repulsive pair cannot overcome the two stronger attractive pair contributions.",
+    "source": "API"
+  },
+  {
+    "q_no": "198",
+    "question": "A system is assembled by bringing \\(q_1\\) first, then \\(q_2\\), then \\(q_3\\) from infinity. The energy added while bringing \\(q_3\\) is:",
+    "opt_a": "\\(k\\left(\\frac{q_1q_2}{r_{12}}+\\frac{q_1q_2}{r_{13}}\\right)\\)",
+    "opt_b": "\\(k\\left(\\frac{q_1q_2}{r_{12}}+\\frac{q_1q_3}{r_{13}}+\\frac{q_2q_3}{r_{23}}\\right)\\)",
+    "opt_c": "\\(k\\left(\\frac{q_1q_3}{r_{13}}+\\frac{q_2q_3}{r_{23}}\\right)\\)",
+    "opt_d": "\\(k\\left(\\frac{q_1q_3}{r_{12}}+\\frac{q_2q_3}{r_{13}}\\right)\\)",
+    "correct": "C",
+    "explanation": "When \\(q_1\\) is brought first from infinity, no mutual energy is added because no other system charge is already present. When \\(q_2\\) is brought, the pair energy \\(k\\frac{q_1q_2}{r_{12}}\\) is created. When \\(q_3\\) is brought, it interacts with both previously placed charges. Therefore, the added energy is \\(k\\frac{q_1q_3}{r_{13}}+k\\frac{q_2q_3}{r_{23}}\\). The old interaction between \\(q_1\\) and \\(q_2\\) is not created again. Assembly energy is built by adding new pair interactions with charges already in place.",
+    "source": "API"
+  },
+  {
+    "q_no": "199",
+    "question": "The row that correctly separates mutual potential energy from energy in an external potential is:\n<table class=\"gkaim-mcq-table\">\n<tr><th>Row</th><th>Situation</th><th>Energy expression</th></tr>\n<tr><td>P</td><td>Two charges interacting with each other</td><td>\\(U=\\frac{kq_1q_2}{r}\\)</td></tr>\n<tr><td>Q</td><td>One charge \\(q\\) in a pre-existing potential \\(V\\)</td><td>\\(U=\\frac{kq}{V}\\)</td></tr>\n<tr><td>R</td><td>Two charges interacting with each other</td><td>\\(U=q_1V_1+q_2V_2\\), where each \\(V_i\\) is produced by the same charge itself</td></tr>\n<tr><td>S</td><td>One charge \\(q\\) in a pre-existing potential \\(V\\)</td><td>\\(U=\\frac{V}{q}\\)</td></tr>\n</table>",
+    "opt_a": "Row S",
+    "opt_b": "Row Q",
+    "opt_c": "Row R",
+    "opt_d": "Row P",
+    "correct": "D",
+    "explanation": "Row P correctly gives the mutual potential energy of two interacting point charges as \\(U=\\frac{kq_1q_2}{r}\\). When a single charge is placed in an external potential, the energy is \\(U=qV\\), not \\(\\frac{kq}{V}\\) or \\(\\frac{V}{q}\\). In an external-potential expression, the potential must be produced by external sources, not by the same charge whose energy is being calculated. Mutual energy and energy in a pre-existing external potential are related but not identical uses of potential. The main distinction is whether the sources producing \\(V\\) are included in the system or treated as external. Mixing these two cases can lead to double counting.",
+    "source": "API"
+  },
+  {
+    "q_no": "200",
+    "question": "Two charges \\(q_1\\) and \\(q_2\\) are placed in a pre-existing external potential field. If the external potentials at their locations are \\(V(\\vec{r}_1)\\) and \\(V(\\vec{r}_2)\\), the energy of the two charges in that external potential is:",
+    "opt_a": "\\(\\frac{q_1+q_2}{V(\\vec{r}_1)+V(\\vec{r}_2)}\\)",
+    "opt_b": "\\(q_1q_2[V(\\vec{r}_1)-V(\\vec{r}_2)]\\)",
+    "opt_c": "\\(q_1V(\\vec{r}_1)+q_2V(\\vec{r}_2)\\)",
+    "opt_d": "\\(\\frac{kq_1q_2}{r_{12}}\\) only",
+    "correct": "C",
+    "explanation": "The energy of charges in a pre-existing external potential is found by multiplying each charge by the external potential at its own position. Therefore, the expression is \\(U=q_1V(\\vec{r}_1)+q_2V(\\vec{r}_2)\\). The potential \\(V(\\vec{r}_1)\\) and \\(V(\\vec{r}_2)\\) must be produced by external sources, not by \\(q_1\\) and \\(q_2\\) themselves. The term \\(\\frac{kq_1q_2}{r_{12}}\\) is the mutual energy between \\(q_1\\) and \\(q_2\\), which is a different contribution. If both mutual and external energies are needed, they must be identified separately. This prevents counting a charge’s interaction with its own potential.",
+    "source": "API"
+  }
+]

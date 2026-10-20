@@ -1,0 +1,1031 @@
+﻿Q_No,Status,Confidence,Question,Explanation
+1,SKIPPED,13.0%,Measurement in physics means,Measurement is the process of finding how many times a chosen standard unit is contained in a physical quantity. For exa...
+2,SKIPPED,14.0%,The statement “a measured quantity is expressed as ______” is completed by,"A measured physical quantity needs both a numerical value and a unit. In symbolic form, it may be written as Q = n u , w..."
+3,SKIPPED,5.0%,"In the statement “the length of a table is 1.2 m ”, the physical quantity being measured is","The physical quantity is the measurable property of the object, so here it is the length of the table. The number 1.2 is..."
+4,SKIPPED,3.0%,A road distance is written once as 2 km and once as 2000 m . The item that remains the same in both records is the,The same road distance is being described in both records. The numerical value changes from 2 to 2000 because km and m a...
+5,SKIPPED,10.0%,"A measuring tape gives the width of a notebook as 18 cm . In this record, the unit is","In 18 cm , the symbol cm is the unit used to express the measured width. The number 18 tells how many such units are cou..."
+6,SKIPPED,4.0%,Standard units are needed mainly because they,"A standard unit provides a common reference for measurement. If different people use different personal units, their res..."
+7,SKIPPED,30.0%,Two people measure the same stick using their own handspans and obtain different numbers. The best explanation is that,"A handspan varies from person to person, so it is not a fixed standard unit. The stick may have the same physical length..."
+8,SKIPPED,2.0%,The pair that shows a physical quantity followed by a suitable unit is,"Volume measures the space occupied by a body, and m 3 is a suitable unit for volume. The unit m is used for length, not ..."
+9,SKIPPED,3.0%,A floor area is reported as 12 m 2 . This record shows that,"Area measures the extent of a surface, so its unit is built from length multiplied by length. In SI-based notation, this..."
+10,SKIPPED,14.0%,"A bottle label gives volume 750 cm 3 , a package gives mass 0.50 kg , and a stopwatch gives time 30 s . These records all show that measured quantities are written with","Each record combines a numerical value with a unit. The volume has 750 with cm 3 , the mass has 0.50 with kg , and the t..."
+11,SKIPPED,6.0%,A physical quantity is best described as a property that can be,"A physical quantity is a measurable property such as length, mass, time, area, volume, or speed. Measurement gives a num..."
+12,SKIPPED,2.0%,The group containing only fundamental physical quantities from the usual mechanics starting set is,"Length, mass, and time are fundamental quantities in the usual beginning treatment of mechanics. They are not defined in..."
+13,SKIPPED,2.0%,Speed is treated as a derived quantity because it is obtained from,Speed describes how much distance or length is covered per unit time. Its basic relation is v = distance time . Since it...
+14,SKIPPED,2.0%,Match the introductory symbols with the quantities they usually represent. Symbol Quantity P. l 1. Time Q. m 2. Speed R. t 3. Length S. v 4. Mass The matching that fits the usual notation is,"The symbol l commonly represents length in elementary measurement contexts. The symbol m is commonly used for mass, whil..."
+15,SKIPPED,37.0%,Consider the following statements.,"Statement I is valid because length, mass, and time are taken as fundamental quantities in the usual mechanics foundatio..."
+16,SKIPPED,4.0%,A record gives density using the relation ρ = m V . This relation shows that density is,"The relation ρ = m V defines density as mass per unit volume. Since density is obtained by combining mass and volume, it..."
+17,SKIPPED,5.0%,A unit is best understood as,"A unit is a fixed standard chosen for comparison with a physical quantity. When a length is measured in m , the metre is..."
+18,SKIPPED,9.0%,Complete the statement: A physical quantity Q expressed as Q = n u has n as the ______ and u as the ______.,"In the expression Q = n u , Q represents the physical quantity being measured. The symbol n gives the numerical value, m..."
+19,SKIPPED,4.0%,A length is first written as 3 m and then as 300 cm . The change from 3 to 300 happens because,"The physical length is the same in both records. Since 1 m = 100 cm , the unit cm is smaller than the unit m . A smaller..."
+20,SKIPPED,4.0%,"A laboratory note says, “The mass of the object is 0.25 kg .” If the same mass is expressed in g , the numerical value becomes",Given quantity: Mass = 0.25 kg . Required: The numerical value when the unit is changed from kg to g . Unit relation: 1 ...
+21,SKIPPED,9.0%,"A measurement record uses \(Q=n u\). If the unit \(u\) is replaced by a unit \(u'\) that is twice as large, the new numerical value for the same \(Q\) becomes","\( \textbf{Starting relation:} \) The same physical quantity is written as \(Q=n u\).
+\( \textbf{Changed unit:} \) The n..."
+22,SKIPPED,3.0%,"A distance of \(5000\,\text{m}\) is rewritten as \(5\,\text{km}\). This is an example of","The distance \(5000\,\text{m}\) and \(5\,\text{km}\) represent the same physical length. The change occurs because \(1\,..."
+23,SKIPPED,6.0%,"The expression \(7.5\,\text{s}\) is meaningful as a measurement because","The measurement \(7.5\,\text{s}\) gives both a numerical value and a unit. The unit \(\text{s}\) is a defined standard f..."
+24,SKIPPED,4.0%,"A claim says, “The value \(120\) is always larger than \(2\), so \(120\,\text{cm}\) is longer than \(2\,\text{m}\).” The flaw in the claim is that it compares","The claim compares \(120\) and \(2\) without considering that the units are different. Since \(1\,\text{m}=100\,\text{cm..."
+25,SKIPPED,3.0%,The International System of Units is commonly abbreviated as,"The International System of Units is abbreviated as \(\text{SI}\), from the French name of the system. It provides inter..."
+26,SKIPPED,2.0%,The SI base unit of thermodynamic temperature is,"Thermodynamic temperature is one of the seven SI base quantities. Its SI base unit is kelvin, written with the unit symb..."
+27,SKIPPED,2.0%,"Match each SI base quantity with its base unit.
+<table class=""gkaim-mcq-table"">
+<tr><th>Quantity</th><th>Base unit</th></tr>
+<tr><td>P. Length</td><td>1. \(\text{kg}\)</td></tr>
+<tr><td>Q. Mass</td><td>2. \(\text{s}\)</td></tr>
+<tr><td>R. Time</td><td>3. \(\text{m}\)</td></tr>
+<tr><td>S. Electric current</td><td>4. \(\text{A}\)</td></tr>
+</table>
+The suitable matching is","Length has the SI base unit metre, written as \(\text{m}\). Mass has the SI base unit kilogram, written as \(\text{kg}\)..."
+28,SKIPPED,2.0%,"In a formula sheet, \(m\) is used for mass and \(\text{m}\) is used for metre. The difference between these two symbols is that","In physics notation, the italic-style symbol \(m\) commonly represents the quantity mass. The roman unit symbol \(\text{..."
+29,SKIPPED,2.0%,"A table lists some SI base-unit symbols.
+<table class=""gkaim-mcq-table"">
+<tr><th>Quantity</th><th>Recorded unit symbol</th></tr>
+<tr><td>P. Length</td><td>\(\text{m}\)</td></tr>
+<tr><td>Q. Mass</td><td>\(\text{kg}\)</td></tr>
+<tr><td>R. Time</td><td>\(\text{s}\)</td></tr>
+<tr><td>S. Luminous intensity</td><td>\(\text{mol}\)</td></tr>
+</table>
+The row that needs repair is","Length, mass, and time are correctly paired with \(\text{m}\), \(\text{kg}\), and \(\text{s}\), respectively. Luminous i..."
+30,SKIPPED,1.0%,"Consider the following statements about SI base quantities.
+I. Amount of substance has the unit \(\text{mol}\).
+II. Luminous intensity has the unit \(\text{cd}\).
+III. Electric current has the unit \(\text{K}\).
+The valid statements are","Amount of substance is an SI base quantity and its unit is mole, written as \(\text{mol}\). Luminous intensity is also a..."
+31,SKIPPED,2.0%,"A measurement note records a temperature as \(300\,\text{K}\) and a current as \(2\,\text{A}\). The unit symbols show that",Thermodynamic temperature and electric current are two different SI base quantities. Their SI base units are \(\text{K}\...
+32,SKIPPED,3.0%,The unit record that keeps quantity symbol and unit symbol roles separated is,"The record \(t=5\,\text{s}\) uses \(t\) as the quantity symbol for time and \(\text{s}\) as the SI unit symbol for secon..."
+33,SKIPPED,2.0%,A quantity obtained by combining base quantities according to a defining relation is called,"A derived quantity is formed from one or more base quantities through a physical definition or formula. For example, are..."
+34,SKIPPED,2.0%,The unit of area is written as \(\text{m}^2\) because area is formed by,"Area measures the extent of a surface, and for a rectangle it is found using length multiplied by breadth. Both length a..."
+35,SKIPPED,2.0%,The unit that naturally represents volume in SI is,"Volume measures the space occupied by a body in three dimensions. For a cuboid, volume is obtained as length \(\times\) ..."
+36,SKIPPED,2.0%,"The expression for speed becomes meaningful in SI when the blank is filled as \(v=\frac{\text{distance}}{\text{time}}\), so the unit is ______.","Speed is distance travelled per unit time. In SI, distance is measured in \(\text{m}\) and time is measured in \(\text{s..."
+37,SKIPPED,1.0%,"A car covers \(180\,\text{m}\) in \(12\,\text{s}\). Its average speed in SI unit is","\( \textbf{Given data:} \) Distance \(=180\,\text{m}\), time \(=12\,\text{s}\).
+\( \textbf{Required quantity:} \) Averag..."
+38,SKIPPED,1.0%,Acceleration has the SI unit \(\text{m s}^{-2}\) because it describes change in,"Acceleration is the rate of change of velocity with time. Velocity has the unit \(\text{m s}^{-1}\), and dividing it by ..."
+39,SKIPPED,1.0%,"A velocity changes from \(4\,\text{m s}^{-1}\) to \(16\,\text{m s}^{-1}\) in \(6\,\text{s}\). The acceleration and its unit are","\( \textbf{Given data:} \) Initial velocity \(u=4\,\text{m s}^{-1}\), final velocity \(v=16\,\text{m s}^{-1}\), time \(t..."
+40,SKIPPED,2.0%,"In SI, the unit \(\text{kg m s}^{-2}\) is given the special name","Force is related to mass and acceleration by \(F=ma\). In SI, mass has unit \(\text{kg}\) and acceleration has unit \(\t..."
+41,SKIPPED,1.0%,"Using \(F=ma\), the SI unit of force is obtained as","\( \textbf{Formula used:} \) \(F=ma\).
+\( \textbf{Unit of mass:} \) \(m\) as mass is measured in \(\text{kg}\).
+\( \text..."
+42,SKIPPED,1.0%,"A force of \(10\,\text{N}\) moves a body through \(3\,\text{m}\) in the direction of force. The work done is expressed in","Work is measured by multiplying force by displacement in the direction of force. The unit of force is \(\text{N}\), and ..."
+43,SKIPPED,1.0%,"The SI base-unit form of \(1\,\text{J}\) is","\( \textbf{Starting unit:} \) \(1\,\text{J}=1\,\text{N m}\).
+\( \textbf{Unit of newton:} \)
+\[
+1\,\text{N}=1\,\text{kg m..."
+44,SKIPPED,1.0%,Power is work done per unit time. Its SI unit is,Power measures the rate at which work is done or energy is transferred. Since work has unit \(\text{J}\) and time has un...
+45,SKIPPED,1.0%,"A machine does \(600\,\text{J}\) of work in \(20\,\text{s}\). The power developed is","\( \textbf{Given data:} \) Work done \(W=600\,\text{J}\), time \(t=20\,\text{s}\).
+\( \textbf{Required quantity:} \) Pow..."
+46,SKIPPED,2.0%,Pressure is force per unit area. Its SI unit in base-unit form is,"\( \textbf{Definition:} \) Pressure is force divided by area.
+\( \textbf{Symbolic relation:} \)
+\[
+p=\frac{F}{A}
+\]
+\( \..."
+47,SKIPPED,1.0%,"A table of derived units is given below.
+<table class=""gkaim-mcq-table"">
+<tr><th>Row</th><th>Quantity</th><th>SI derived unit</th></tr>
+<tr><td>P</td><td>Speed</td><td>\(\text{m s}^{-1}\)</td></tr>
+<tr><td>Q</td><td>Acceleration</td><td>\(\text{m s}^{-2}\)</td></tr>
+<tr><td>R</td><td>Force</td><td>\(\text{kg m s}^{-2}\)</td></tr>
+<tr><td>S</td><td>Pressure</td><td>\(\text{kg m}^2\text{s}^{-2}\)</td></tr>
+</table>
+The row that needs repair is","Speed has the SI unit \(\text{m s}^{-1}\), so row P is suitable. Acceleration has the SI unit \(\text{m s}^{-2}\), so ro..."
+48,SKIPPED,1.0%,"A formula card contains the following derived-unit links.
+I. \(1\,\text{N}=1\,\text{kg m s}^{-2}\)
+II. \(1\,\text{J}=1\,\text{N m}\)
+III. \(1\,\text{W}=1\,\text{J s}^{-1}\)
+IV. \(1\,\text{Pa}=1\,\text{N m}^{2}\)
+The links that are valid are","A newton is the SI derived unit of force, and \(1\,\text{N}=1\,\text{kg m s}^{-2}\). A joule is the unit of work or ener..."
+49,SKIPPED,3.0%,Plane angle in radian measure is defined as the ratio of,Plane angle in radians is defined by comparing the arc length with the radius of the circle. If an arc of length \(s\) s...
+50,SKIPPED,2.0%,"An arc of length \(2.0\,\text{m}\) is cut from a circle of radius \(4.0\,\text{m}\). The angle subtended at the centre is","\( \textbf{Given data:} \) Arc length \(s=2.0\,\text{m}\), radius \(r=4.0\,\text{m}\).
+\( \textbf{Required quantity:} \)..."
+51,SKIPPED,2.0%,The unit steradian is associated with the measurement of,"Steradian is the unit used for solid angle. A plane angle describes opening in a plane, while a solid angle describes sp..."
+52,SKIPPED,2.0%,"Assertion: An angle measured in radians is dimensionless.
+Reason: In \(\theta=\frac{s}{r}\), both \(s\) and \(r\) have the dimension of length.",The assertion is true because an angle in radians is obtained from a ratio of two lengths. In the relation \(\theta=\fra...
+53,SKIPPED,2.0%,"A formula uses an angular displacement written as \(3\,\text{rad}\). The best interpretation of \(\text{rad}\) in this record is that it","A radian does not introduce an additional base dimension. It is connected with the ratio \(\frac{s}{r}\), where both \(s..."
+54,SKIPPED,1.0%,"A circular track has radius \(10\,\text{m}\). A marker moves through an angle of \(0.40\,\text{rad}\) at the centre. The arc length covered is","\( \textbf{Known values:} \) Radius \(r=10\,\text{m}\), angle \(\theta=0.40\,\text{rad}\).
+\( \textbf{Required quantity:..."
+55,SKIPPED,2.0%,The prefix \(\text{kilo}\) in SI notation represents the factor,"The prefix \(\text{kilo}\) means \(10^3\), or one thousand times the base unit. Thus \(1\,\text{km}=10^3\,\text{m}\) and..."
+56,SKIPPED,2.0%,"A length of \(6.5\,\text{km}\) is equal to","\( \textbf{Given measurement:} \) \(6.5\,\text{km}\).
+\( \textbf{Prefix meaning:} \) \(\text{kilo}=10^3\).
+So,
+\[
+1\,\te..."
+57,SKIPPED,3.0%,The symbol \(\mu\) used in \(\mu\text{m}\) represents,"The prefix symbol \(\mu\) represents micro, which means \(10^{-6}\). Therefore \(1\,\mu\text{m}=10^{-6}\,\text{m}\). The..."
+58,SKIPPED,4.0%,"A wire has diameter \(0.25\,\text{mm}\). Expressed in metres, this diameter is","\( \textbf{Given value:} \) Diameter \(=0.25\,\text{mm}\).
+\( \textbf{Prefix relation:} \) \(\text{milli}=10^{-3}\), so ..."
+59,SKIPPED,3.0%,"A data sheet writes \(4.0\,\text{MW}\) for power. The prefix \(\text{M}\) in this record means","The prefix symbol \(\text{M}\) represents mega, which means \(10^6\). Therefore \(4.0\,\text{MW}=4.0\times10^6\,\text{W}..."
+60,SKIPPED,2.0%,The pair of conversions that is consistent with SI prefixes is,"The prefix \(\text{milli}\) means \(10^{-3}\), so \(1\,\text{mm}=10^{-3}\,\text{m}\). The prefix \(\text{nano}\) means \..."
+61,SKIPPED,5.0%,"A measurement is changed from \(3.0\,\text{m}\) to \(\text{mm}\). The new numerical value is","\( \textbf{Original measurement:} \) \(3.0\,\text{m}\).
+\( \textbf{Relation between units:} \) \(1\,\text{mm}=10^{-3}\,\..."
+62,SKIPPED,5.0%,"A length is \(750\,\mu\text{m}\). Its value in \(\text{mm}\) is","\( \textbf{Given value:} \) \(750\,\mu\text{m}\).
+\( \textbf{Prefix meanings:} \) \(1\,\mu\text{m}=10^{-6}\,\text{m}\) a..."
+63,SKIPPED,2.0%,"A compact memory line for common prefixes is \(\text{kilo}=10^3\), \(\text{milli}=10^{-3}\), and \(\text{micro}=10^{-6}\). The missing entry in \(\text{giga}=\,\_\_\_\_\) is","The prefix \(\text{giga}\) represents \(10^9\). It is used for very large quantities, such as \(1\,\text{GHz}=10^9\,\tex..."
+64,SKIPPED,3.0%,"A prefix record shows the following entries.
+<table class=""gkaim-mcq-table"">
+<tr><th>Record</th><th>Prefix symbol</th><th>Power of ten</th></tr>
+<tr><td>P</td><td>\(\text{k}\)</td><td>\(10^3\)</td></tr>
+<tr><td>Q</td><td>\(\text{m}\)</td><td>\(10^{-3}\)</td></tr>
+<tr><td>R</td><td>\(\mu\)</td><td>\(10^{-6}\)</td></tr>
+<tr><td>S</td><td>\(\text{M}\)</td><td>\(10^{-3}\)</td></tr>
+</table>
+The entry that needs correction is","The prefix symbol \(\text{k}\) stands for kilo, so \(10^3\) is correct. The prefix symbol \(\text{m}\) stands for milli,..."
+65,SKIPPED,3.0%,The unit symbol for a measured length of five metres should be written as,"The SI unit symbol for metre is \(\text{m}\). Unit symbols are not made plural, so the symbol remains \(\text{m}\) even ..."
+66,SKIPPED,8.0%,"A practical notebook records a mass as \(2.0\,\text{kgs}\). The notation should be repaired as","The SI unit symbol for kilogram is \(\text{kg}\). Unit symbols do not take a plural \(\text{s}\), so \(\text{kgs}\) is n..."
+67,SKIPPED,2.0%,"The notation \(12\,\text{m s}^{-1}\) represents","The factor \(\text{s}^{-1}\) means division by \(\text{s}\), or “per second.” Therefore \(12\,\text{m s}^{-1}\) means \(..."
+68,SKIPPED,3.0%,The symbol pair \(\text{m}\) and \(\text{M}\) must not be interchanged because,"SI symbols are case-sensitive, so changing lowercase to uppercase can change the meaning. The lowercase \(\text{m}\) is ..."
+69,SKIPPED,2.0%,"A force multiplied by displacement may be written as \(20\,\text{N m}\). In this unit record, \(\text{N m}\) means",A space between unit symbols in a compound unit usually represents multiplication. Thus \(\text{N m}\) means newton mult...
+70,SKIPPED,2.0%,"The record \(8\,\text{m/s}\) is rewritten using negative powers as","\( \textbf{Given unit form:} \) \(\text{m/s}\).
+\( \textbf{Meaning of slash:} \) The slash means metre divided by second..."
+71,SKIPPED,6.0%,"A measurement label shows \(25\text{kg}\) without spacing. In standard writing, it is better written as","In a measurement record, a space is normally kept between the numerical value and the unit symbol. Thus \(25\,\text{kg}\..."
+72,SKIPPED,2.0%,"A unit line reads: \(1\,\text{W}=1\,\text{J}/\text{s}\). The same relation in compact SI power notation is","\( \textbf{Starting relation:} \) \(1\,\text{W}=1\,\text{J}/\text{s}\).
+The slash shows division by time.
+Using negative..."
+73,SKIPPED,5.0%,"Scientific notation expresses \(4\,500\,000\,\text{m}\) as",Scientific notation writes a number as a coefficient between \(1\) and \(10\) multiplied by a power of \(10\). Moving th...
+74,SKIPPED,8.0%,"A small length is written as \(0.000\,032\,\text{m}\). Its scientific notation is","\( \textbf{Given value:} \) \(0.000\,032\,\text{m}\).
+Scientific notation needs a coefficient from \(1\) up to but not i..."
+75,SKIPPED,3.0%,"For a rough scale comparison, \(7.8\times10^3\,\text{kg}\) is closest to the order of magnitude",Order of magnitude means the nearest power of \(10\) used for a rough scale estimate. The number \(7.8\times10^3\) lies ...
+76,SKIPPED,3.0%,"A distance record gives the radius of Earth as approximately \(6.4\times10^6\,\text{m}\). Its order of magnitude is best taken as","\( \textbf{Given value:} \) \(6.4\times10^6\,\text{m}\).
+For nearest-power order of magnitude, compare the coefficient \..."
+77,SKIPPED,9.0%,The statement that best describes why scientific notation is useful in measurements is,"Scientific notation uses powers of \(10\) to write very large or very small numbers in a compact form. For example, \(0...."
+78,SKIPPED,2.0%,"A nucleus has a typical radius of about \(10^{-15}\,\text{m}\), while an atom has a typical radius of about \(10^{-10}\,\text{m}\). The atom is larger by a factor of about","\( \textbf{Given scales:} \) Atomic radius \(\approx10^{-10}\,\text{m}\), nuclear radius \(\approx10^{-15}\,\text{m}\).
+..."
+79,SKIPPED,3.0%,"A time interval of \(3.0\times10^{-9}\,\text{s}\) is compared with \(3.0\times10^{-6}\,\text{s}\). The second interval is","\( \textbf{First interval:} \) \(t_1=3.0\times10^{-9}\,\text{s}\).
+\( \textbf{Second interval:} \) \(t_2=3.0\times10^{-6..."
+80,SKIPPED,2.0%,A scale list is arranged from smaller to larger length as,"Powers of \(10\) can be compared directly when the same unit is used. Among negative powers, \(10^{-15}\) is smaller tha..."
+81,SKIPPED,18.0%,A metre scale is most suitable for measuring,A metre scale is suitable for ordinary lengths that can be placed along the scale directly. The length of a classroom ta...
+82,TAKEN,95.0%,The least count of an instrument means,"Least count is the smallest measurement that an instrument can reliably show. For example, if the smallest division on a..."
+83,TAKEN,83.0%,"A ruler has \(10\) equal divisions between \(0\,\text{cm}\) and \(1\,\text{cm}\). Its least count is","\( \textbf{Given scale information:} \) The distance from \(0\,\text{cm}\) to \(1\,\text{cm}\) is divided into \(10\) eq..."
+84,SKIPPED,66.0%,"For estimating the thickness of one sheet of paper using an ordinary scale, a better method is to",A single sheet of paper is usually too thin to be measured accurately by an ordinary scale. Measuring many sheets togeth...
+85,SKIPPED,19.0%,"A stack of \(80\) identical sheets has a total thickness of \(8.0\,\text{mm}\). The thickness of one sheet is","\( \textbf{Given data:} \) Number of sheets \(=80\), total thickness \(=8.0\,\text{mm}\).
+\( \textbf{Required quantity:}..."
+86,SKIPPED,28.0%,A measuring tape is preferred over a metre scale for measuring the length of a curved boundary because,A flexible measuring tape can be placed along a curved boundary more conveniently than a rigid metre scale. The tape sti...
+87,SKIPPED,19.0%,"The instrument choice that best matches the measurement task is
+<table class=""gkaim-mcq-table"">
+<tr><th>Task</th><th>Suitable method or instrument</th></tr>
+<tr><td>P. Length of a notebook</td><td>Metre scale or ruler</td></tr>
+<tr><td>Q. Thickness of one thin paper sheet</td><td>Measure many sheets and divide</td></tr>
+<tr><td>R. Circumference of a circular pipe</td><td>Flexible measuring tape</td></tr>
+<tr><td>S. Distance to a far star</td><td>Ordinary metre scale</td></tr>
+</table>
+The row that needs correction is","The length of a notebook can be measured directly with a ruler or metre scale, so row P is suitable. The thickness of on..."
+88,TAKEN,93.0%,"A length is measured with two instruments: Instrument P has least count \(1\,\text{mm}\), and Instrument Q has least count \(0.1\,\text{mm}\). For the same careful procedure, Instrument Q is generally better because it",A smaller least count means the instrument can detect smaller changes in the measured quantity. Instrument Q can read up...
+89,SKIPPED,3.0%,A direct measurement method is unsuitable for very large astronomical distances mainly because,Direct measurement requires comparing the unknown length with a standard placed along the length. For astronomical dista...
+90,TAKEN,96.0%,A vernier callipers is mainly useful when the required length measurement is,A vernier callipers is designed to measure small lengths more precisely than an ordinary scale. It uses a main scale and...
+91,TAKEN,98.0%,"In a vernier callipers, the main scale gives the","In a vernier callipers, the main scale reading is taken from the main scale mark just before the zero of the vernier sca..."
+92,TAKEN,97.0%,The vernier scale in a callipers is used to,The vernier scale improves the precision of a length reading by detecting a fraction of a main scale division. The main ...
+93,TAKEN,98.0%,"For a vernier callipers, \(10\) vernier scale divisions coincide with \(9\) main scale divisions. If \(1\) main scale division is \(1\,\text{mm}\), the least count is","\( \textbf{Given relation:} \) \(10\) vernier scale divisions \(=9\) main scale divisions.
+\( \textbf{Value of \(1\) mai..."
+94,TAKEN,98.0%,"A vernier callipers has \(20\) vernier scale divisions equal to \(19\) main scale divisions. If \(1\,\text{MSD}=1\,\text{mm}\), the value of \(1\,\text{VSD}\) is","\( \textbf{Given relation:} \) \(20\,\text{VSD}=19\,\text{MSD}\).
+\( \textbf{Value of \(1\,\text{MSD}\):} \) \(1\,\text{..."
+95,TAKEN,98.0%,"In a vernier callipers with \(20\,\text{VSD}=19\,\text{MSD}\) and \(1\,\text{MSD}=1\,\text{mm}\), the least count is","\( \textbf{Scale relation:} \) \(20\,\text{VSD}=19\,\text{MSD}\).
+\( \textbf{Main scale value:} \) \(1\,\text{MSD}=1\,\t..."
+96,TAKEN,96.0%,"A vernier callipers has least count \(0.1\,\text{mm}\). Its least count in \(\text{cm}\) is","\( \textbf{Given least count:} \) \(\text{LC}=0.1\,\text{mm}\).
+\( \textbf{Unit relation:} \)
+\[
+1\,\text{cm}=10\,\text{..."
+97,TAKEN,98.0%,A vernier callipers reading is formed by adding the main scale reading to,"In a vernier callipers, the main scale reading gives the larger part of the length. The vernier scale gives the extra fr..."
+98,TAKEN,98.0%,"A vernier callipers has least count \(0.01\,\text{cm}\). The main scale reading is \(2.30\,\text{cm}\), and the seventh vernier division coincides with a main scale mark. The observed reading is","\( \textbf{Given data:} \) Main scale reading \(=2.30\,\text{cm}\), least count \(=0.01\,\text{cm}\), vernier coincidenc..."
+99,TAKEN,98.0%,"A reading record for a vernier callipers is shown below.
+<table class=""gkaim-mcq-table"">
+<tr><th>Quantity</th><th>Value</th></tr>
+<tr><td>Main scale reading</td><td>\(18\,\text{mm}\)</td></tr>
+<tr><td>Coinciding vernier division</td><td>\(6\)</td></tr>
+<tr><td>Least count</td><td>\(0.1\,\text{mm}\)</td></tr>
+</table>
+The observed reading is","\( \textbf{Reading parts:} \) The main scale part is \(18\,\text{mm}\). The vernier contribution is found by multiplying..."
+100,TAKEN,86.0%,"A vernier reading of \(18.6\,\text{mm}\) is to be expressed in \(\text{cm}\). The value is","\( \textbf{Given reading:} \) \(18.6\,\text{mm}\).
+\( \textbf{Unit relation:} \)
+\[
+1\,\text{cm}=10\,\text{mm}
+\]
+So,
+\[..."
+101,TAKEN,98.0%,Zero error in a vernier callipers is checked when the jaws are,Zero error is checked by bringing the jaws of the vernier callipers into contact without any object between them. In thi...
+102,TAKEN,89.0%,"The relation between corrected reading, observed reading, and zero correction is",A zero correction is the quantity added to the observed reading to remove zero error. The standard relation is corrected...
+103,TAKEN,98.0%,A vernier callipers has a positive zero error of + 0.03 cm . Its zero correction is,"Positive zero error means the instrument shows a positive reading even when the true length is zero. To correct this, th..."
+104,TAKEN,98.0%,"A vernier callipers shows an observed length of 3.46 cm . If its zero error is + 0.02 cm , the corrected length is",Observed reading: 3.46 cm . Zero error: + 0.02 cm . A positive zero error means the instrument reads too much by 0.02 cm...
+105,TAKEN,98.0%,A vernier callipers has a negative zero error of − 0.04 cm . Its zero correction is,A negative zero error means the instrument reads below zero when the true reading should be zero. To bring the reading b...
+106,TAKEN,98.0%,"The observed reading of a vernier callipers is 2.58 cm . If the zero error is − 0.03 cm , the corrected reading is",Observed reading: 2.58 cm . Zero error: − 0.03 cm . A negative zero error means the instrument reads less than it should...
+107,TAKEN,99.0%,"A vernier callipers has least count 0.01 cm . For an object, the main scale reading is 4.20 cm , and the fifth vernier division coincides. The zero error is + 0.02 cm . The corrected length is","Given data: MSR = 4.20 cm , least count = 0.01 cm , vernier coincidence = 5 , zero error = + 0.02 cm . Vernier contribut..."
+108,TAKEN,98.0%,"A vernier callipers has least count 0.1 mm . The main scale reading is 31 mm , the eighth vernier division coincides, and the zero error is − 0.2 mm . The corrected reading is","Given data: MSR = 31 mm , least count = 0.1 mm , vernier coincidence = 8 , zero error = − 0.2 mm . Vernier reading: 8 × ..."
+109,TAKEN,98.0%,"When the jaws of a vernier callipers are closed, the vernier zero lies to the right of the main scale zero. This situation indicates","If the vernier zero lies to the right of the main scale zero when the jaws are closed, the instrument shows a positive r..."
+110,TAKEN,98.0%,"When the jaws are closed, the vernier zero lies to the left of the main scale zero. The sign of zero correction is","When the vernier zero lies to the left of the main scale zero, the zero error is negative. A negative zero error means t..."
+111,TAKEN,94.0%,"A measurement record says: observed reading = 5.72 cm , zero correction = − 0.04 cm . The corrected reading should be reported as","Given data: Observed reading = 5.72 cm , zero correction = − 0.04 cm . Correction relation: corrected reading = observed..."
+112,TAKEN,98.0%,Two vernier records are shown for the same object. Case Observed reading Zero error P 2.84 cm + 0.01 cm Q 2.80 cm − 0.03 cm The corrected readings for cases P and Q are respectively,"Case P: The zero error is + 0.01 cm , so the zero correction is − 0.01 cm . corrected reading P = 2.84 cm − 0.01 cm = 2...."
+113,TAKEN,98.0%,"In a screw gauge, the pitch is the distance moved by the screw in",The pitch of a screw gauge tells how much the screw advances along its axis when the circular scale is turned through on...
+114,TAKEN,98.0%,A screw gauge has pitch 0.5 mm and 50 divisions on its circular scale. Its least count is,"Given data: Pitch = 0.5 mm , number of circular scale divisions = 50 . Required quantity: Least count of the screw gauge..."
+115,TAKEN,98.0%,The missing term in the screw-gauge relation least count = pitch _ _ _ _ is,The least count of a screw gauge depends on how far the screw moves in one full rotation and how many equal divisions di...
+116,TAKEN,98.0%,A screw gauge moves forward by 1.0 mm in 2 complete rotations. Its circular scale has 100 divisions. The least count is,Given motion: The screw advances 1.0 mm in 2 complete rotations. Find the pitch first: pitch = 1.0 mm 2 = 0.5 mm Circula...
+117,TAKEN,98.0%,A screw gauge reading is obtained by adding the main scale reading to,The main scale reading gives the larger directly visible part of the measurement. The circular scale reading gives the n...
+118,TAKEN,98.0%,"A screw gauge has least count 0.01 mm . The main scale reading is 3.00 mm , and the circular scale reading is 27 . The observed diameter is","Given data: Main scale reading = 3.00 mm , circular scale reading = 27 , least count = 0.01 mm . Required quantity: Obse..."
+119,TAKEN,98.0%,A screw gauge record is shown below. Reading part Value Main scale reading 5.5 mm Circular scale reading 34 Least count 0.01 mm The observed reading is,Main scale part: 5.5 mm . Circular scale part: 34 × 0.01 mm = 0.34 mm Observed reading: 5.5 mm + 0.34 mm = 5.84 mm The m...
+120,SKIPPED,56.0%,"A screw gauge gives an observed wire diameter of 0.48 mm . In metres, this is",Given diameter: 0.48 mm . Unit relation: 1 mm = 10 − 3 m Conversion setup: 0.48 mm = 0.48 × 10 − 3 m Write 0.48 as 4.8 ×...
+121,TAKEN,98.0%,"A screw gauge has pitch \(1\,\text{mm}\) and \(100\) divisions on the circular scale. If the circular scale advances by \(12\) divisions beyond the main scale reading, the extra length shown by the circular scale is","\( \textbf{Pitch:} \) \(1\,\text{mm}\).
+\( \textbf{Circular scale divisions:} \) \(100\).
+\( \textbf{Least count:} \)
+\[..."
+122,TAKEN,98.0%,"A micrometer screw advances by \(0.5\,\text{mm}\) for one full turn. If the thimble is turned through \(30\) divisions out of \(50\) divisions, the screw advances by","\( \textbf{Pitch:} \) One full turn advances the screw by \(0.5\,\text{mm}\).
+\( \textbf{Circular scale divisions:} \) \..."
+123,TAKEN,98.0%,"In a screw gauge, a positive zero error means the instrument shows",Zero error is checked when the anvil and spindle just touch with no object between them. The true thickness in that cond...
+124,TAKEN,98.0%,"A screw gauge has a positive zero error of \(+0.02\,\text{mm}\). The zero correction is",A positive zero error means the screw gauge reads too high even when the actual thickness is zero. To remove this extra ...
+125,TAKEN,98.0%,"A screw gauge gives an observed diameter of \(1.26\,\text{mm}\). Its zero error is \(+0.04\,\text{mm}\). The corrected diameter is","\( \textbf{Observed diameter:} \) \(1.26\,\text{mm}\).
+\( \textbf{Zero error:} \) \(+0.04\,\text{mm}\).
+Positive zero er..."
+126,TAKEN,98.0%,"A screw gauge has a negative zero error of \(-0.03\,\text{mm}\). Its observed reading for a sheet is \(0.72\,\text{mm}\). The corrected thickness is","\( \textbf{Observed reading:} \) \(0.72\,\text{mm}\).
+\( \textbf{Zero error:} \) \(-0.03\,\text{mm}\).
+A negative zero e..."
+127,TAKEN,99.0%,"A screw gauge has least count \(0.01\,\text{mm}\). The main scale reading is \(2.00\,\text{mm}\), the circular scale reading is \(46\), and the zero error is \(-0.03\,\text{mm}\). The corrected reading is","\( \textbf{Given data:} \) \(\text{MSR}=2.00\,\text{mm}\), \(\text{CSR}=46\), \(\text{LC}=0.01\,\text{mm}\), zero error ..."
+128,TAKEN,96.0%,"Repeated screw-gauge readings of a wire diameter are \(0.48\,\text{mm}\), \(0.50\,\text{mm}\), and \(0.49\,\text{mm}\), with no zero error. A reasonable reported diameter from these readings is","\( \textbf{Given readings:} \) \(0.48\,\text{mm}\), \(0.50\,\text{mm}\), and \(0.49\,\text{mm}\).
+When repeated readings..."
+129,SKIPPED,3.0%,"In the parallax method for measuring a very large distance, the baseline is","In the parallax method, observations are made from two separated positions. The separation between these two positions i..."
+130,SKIPPED,2.0%,The small-angle relation used in a basic parallax estimate is,"For a small parallax angle measured in radians, the angle is approximately the ratio of the baseline to the distance of ..."
+131,SKIPPED,2.0%,"A distant object is observed from two points separated by \(20\,\text{m}\). If its parallax angle is \(0.002\,\text{rad}\), its distance is","\( \textbf{Given data:} \) Baseline \(b=20\,\text{m}\), parallax angle \(\theta=0.002\,\text{rad}\).
+\( \textbf{Required..."
+132,SKIPPED,2.0%,A parallax angle must be used in radians in the relation \(D=\frac{b}{\theta}\) because,The relation \(D=\frac{b}{\theta}\) comes from the small-angle relation \(\theta=\frac{b}{D}\). This ratio form is direc...
+133,SKIPPED,2.0%,"A parallax measurement uses a baseline of \(3.0\,\text{m}\). When the baseline is doubled while observing the same distant object, the parallax angle approximately","For a fixed distant object, the distance \(D\) remains constant. The small-angle parallax relation is \(\theta=\frac{b}{..."
+134,SKIPPED,2.0%,"Use the graph description below.
+<div class=""gkaim-mcq-graph-desc"">For a fixed baseline \(b\), a graph is plotted between parallax angle \(\theta\) on the vertical axis and \(\frac{1}{D}\) on the horizontal axis. The small-angle relation \(\theta=\frac{b}{D}\) is followed.</div>
+The slope of the graph represents",The relation \(\theta=\frac{b}{D}\) can be rewritten as \(\theta=b\left(\frac{1}{D}\right)\). This has the form \(y=mx\)...
+135,SKIPPED,2.0%,"A parallax record gives \(b=50\,\text{m}\) and \(\theta=5.0\times10^{-4}\,\text{rad}\). The distance \(D\) is","\( \textbf{Given data:} \) \(b=50\,\text{m}\), \(\theta=5.0\times10^{-4}\,\text{rad}\).
+\( \textbf{Required quantity:} \..."
+136,SKIPPED,2.0%,"A distant lamp gives a parallax angle of \(0.01\,\text{rad}\) with a baseline of \(2\,\text{m}\). If the same lamp were twice as far away with the same baseline, the parallax angle would be","\( \textbf{Relation:} \) For fixed baseline, \(\theta=\frac{b}{D}\).
+This means \(\theta\) is inversely proportional to ..."
+137,SKIPPED,3.0%,A parallax calculation uses \(\theta=0.50^\circ\) directly in \(D=\frac{b}{\theta}\) without converting it to radians. The main problem is that,"The formula \(D=\frac{b}{\theta}\) is based on \(\theta=\frac{b}{D}\), where \(\theta\) is in radians. A degree value is..."
+138,SKIPPED,2.0%,"In a parallax experiment, two observation points \(P\) and \(Q\) are \(12\,\text{m}\) apart. A distant object appears shifted by a small angle of \(3.0\times10^{-3}\,\text{rad}\). The distance of the object is","\( \textbf{Given data:} \) Baseline \(b=12\,\text{m}\), parallax angle \(\theta=3.0\times10^{-3}\,\text{rad}\).
+\( \text..."
+139,SKIPPED,3.0%,The parallax method is useful for very large distances because,Very large distances cannot be measured by placing a scale or tape across the whole separation. The parallax method avoi...
+140,TAKEN,77.0%,The thickness of one very thin sheet is better estimated by measuring a stack because,A single thin sheet may have thickness smaller than what an ordinary scale can resolve reliably. Measuring many sheets t...
+141,SKIPPED,23.0%,"A bundle of \(200\) identical thin sheets has thickness \(18\,\text{mm}\). The average thickness of one sheet is","\( \textbf{Given data:} \) Total thickness \(=18\,\text{mm}\), number of sheets \(=200\).
+\( \textbf{Required quantity:}..."
+142,SKIPPED,54.0%,"A method note says, “Measure \(N\) identical thin wires placed side by side over a total width \(W\).” The diameter of one wire is best estimated as","If \(N\) identical wires are placed side by side without gaps, the total width is approximately the sum of their diamete..."
+143,SKIPPED,33.0%,"A row of \(50\) identical fine wires placed side by side has total width \(7.5\,\text{mm}\). The estimated diameter of one wire is","\( \textbf{Given data:} \) Number of wires \(N=50\), total width \(W=7.5\,\text{mm}\).
+\( \textbf{Required quantity:} \)..."
+144,TAKEN,85.0%,A small-length measurement is repeated several times and the readings are close but not identical. A sensible next step is to,Repeated readings of a small length may differ slightly due to unavoidable reading uncertainty and small practical varia...
+145,SKIPPED,2.0%,The SI base unit used to express mass is,"Mass is one of the SI base quantities. Its SI base unit is kilogram, written with the symbol \(\text{kg}\). The gram \(\..."
+146,SKIPPED,17.0%,A balance compares an unknown mass mainly by comparing it with,A balance is used to compare the mass of an object with known standard masses. The comparison is meaningful because both...
+147,SKIPPED,3.0%,"A small particle has mass \(3.0\,\text{u}\). Using \(1\,\text{u}=1.66\times10^{-27}\,\text{kg}\), its mass in \(\text{kg}\) is approximately","\( \textbf{Given data:} \) Mass \(=3.0\,\text{u}\), and \(1\,\text{u}=1.66\times10^{-27}\,\text{kg}\).
+\( \textbf{Requir..."
+148,SKIPPED,2.0%,The atomic mass unit \(\text{u}\) is especially useful because,Atomic and molecular masses are extremely small on the kilogram scale. Writing such masses in \(\text{kg}\) often gives ...
+149,SKIPPED,7.0%,"A mass is recorded as \(0.250\,\text{kg}\). Its value in \(\text{g}\) is","\( \textbf{Given value:} \) \(0.250\,\text{kg}\).
+\( \textbf{Unit relation:} \)
+\[
+1\,\text{kg}=1000\,\text{g}
+\]
+\( \te..."
+150,SKIPPED,4.0%,"A statement says, “Mass and weight are always the same because both are measured with a balance.” The better interpretation is that",Mass and weight are related but not the same physical quantity. Mass measures the amount of matter or inertia of a body ...
+151,SKIPPED,3.0%,"Study the mass-scale records below.
+<table class=""gkaim-mcq-table"">
+<tr><th>Record</th><th>Quantity range</th><th>Convenient unit</th></tr>
+<tr><td>P</td><td>Mass of a textbook</td><td>\(\text{kg}\)</td></tr>
+<tr><td>Q</td><td>Mass of an atom</td><td>\(\text{u}\)</td></tr>
+<tr><td>R</td><td>Mass of a small fruit</td><td>\(\text{g}\)</td></tr>
+<tr><td>S</td><td>Weight of a body as force</td><td>\(\text{kg}\)</td></tr>
+</table>
+The row that needs repair is","A textbook mass may conveniently be recorded in \(\text{kg}\), so row P is reasonable. Atomic masses are conveniently ex..."
+152,SKIPPED,2.0%,The SI base unit used to measure time is,"Time is an SI base quantity, and its SI base unit is second, written as \(\text{s}\). Minutes and hours are common pract..."
+153,SKIPPED,2.0%,"A periodic event repeats \(50\) times in \(10\,\text{s}\). Its frequency is","\( \textbf{Given data:} \) Number of repetitions \(N=50\), time interval \(t=10\,\text{s}\).
+\( \textbf{Required quantit..."
+154,SKIPPED,2.0%,The period \(T\) and frequency \(f\) of a regular periodic motion are related by,The period \(T\) is the time taken for one complete repetition. Frequency \(f\) is the number of repetitions per unit ti...
+155,SKIPPED,1.0%,"A sound source vibrates with frequency \(200\,\text{Hz}\). Its time period is","\( \textbf{Given data:} \) Frequency \(f=200\,\text{Hz}=200\,\text{s}^{-1}\).
+\( \textbf{Required quantity:} \) Time per..."
+156,SKIPPED,4.0%,The difference between an instant and a time interval is that,"An instant refers to a particular moment, such as the time at which an event starts. A time interval is the duration bet..."
+157,SKIPPED,4.0%,Atomic clocks are used for highly precise time measurement because they depend on,Atomic clocks are based on extremely regular atomic transitions or oscillations. A stable periodic process is needed for...
+158,SKIPPED,19.0%,"A stopwatch records the start of an event at \(12.4\,\text{s}\) and the end at \(18.9\,\text{s}\). The time interval is","\( \textbf{Start instant:} \) \(t_1=12.4\,\text{s}\).
+\( \textbf{End instant:} \) \(t_2=18.9\,\text{s}\).
+\( \textbf{Req..."
+159,SKIPPED,3.0%,"A graph description is given below.
+<div class=""gkaim-mcq-graph-desc"">For a periodic motion, a graph is plotted with frequency \(f\) on the vertical axis and reciprocal period \(\frac{1}{T}\) on the horizontal axis.</div>
+If the relation \(f=\frac{1}{T}\) holds, the graph should be",The given horizontal-axis quantity is \(\frac{1}{T}\). The relation \(f=\frac{1}{T}\) can be read as \(f=1\times\left(\f...
+160,SKIPPED,2.0%,"A timing record lists \(2.0\,\text{min}\) for an interval. In SI base unit form, this is","\( \textbf{Given interval:} \) \(2.0\,\text{min}\).
+\( \textbf{Unit relation:} \)
+\[
+1\,\text{min}=60\,\text{s}
+\]
+\( \t..."
+161,TAKEN,75.0%,Accuracy in measurement refers to,Accuracy describes how close a measured value is to the true or accepted value of the quantity. If the true length is \(...
+162,TAKEN,79.0%,Precision in a set of repeated readings is mainly judged by,"Precision describes the closeness of repeated readings among themselves. If repeated readings of a length are \(5.21\,\t..."
+163,TAKEN,81.0%,A target-board analogy has four arrow hits close together but all shifted away from the centre. The measurement condition represented is,Hits close together represent precision because the repeated results are consistent with one another. Since the group of...
+164,TAKEN,86.0%,"A thermometer gives readings \(102.1^\circ\text{C}\), \(102.2^\circ\text{C}\), and \(102.1^\circ\text{C}\) for water actually boiling at \(100.0^\circ\text{C}\) under the given conditions. The readings are best described as","The readings are close to one another, so the measurement set is precise. However, they are all about \(2.1^\circ\text{C..."
+165,TAKEN,86.0%,"A length is measured three times as \(7.8\,\text{cm}\), \(8.4\,\text{cm}\), and \(7.1\,\text{cm}\), while the true length is \(7.9\,\text{cm}\). The set is best described as","The readings are spread out from one another, so the set is not very precise. However, the readings lie around the true ..."
+166,TAKEN,93.0%,A measuring instrument with a smaller least count generally improves precision because it can,"A smaller least count means the instrument can show finer differences in the measured quantity. For example, an instrume..."
+167,TAKEN,93.0%,"Two instruments are used to measure the same length whose true value is \(5.000\,\text{cm}\). Instrument P repeatedly gives \(5.020\,\text{cm}\), \(5.021\,\text{cm}\), and \(5.019\,\text{cm}\). Instrument Q gives \(4.98\,\text{cm}\), \(5.03\,\text{cm}\), and \(4.99\,\text{cm}\). The better comparison is","Instrument P gives readings that are extremely close to one another, so it is more precise. But all P readings are about..."
+168,TAKEN,77.0%,"A measurement table is given below.
+<table class=""gkaim-mcq-table"">
+<tr><th>Set</th><th>Readings for a true value \(10.00\,\text{cm}\)</th><th>Description</th></tr>
+<tr><td>P</td><td>\(10.01\,\text{cm}\), \(10.00\,\text{cm}\), \(10.02\,\text{cm}\)</td><td>Accurate and precise</td></tr>
+<tr><td>Q</td><td>\(10.50\,\text{cm}\), \(10.51\,\text{cm}\), \(10.50\,\text{cm}\)</td><td>Precise but inaccurate</td></tr>
+<tr><td>R</td><td>\(9.60\,\text{cm}\), \(10.40\,\text{cm}\), \(10.00\,\text{cm}\)</td><td>Scattered readings</td></tr>
+<tr><td>S</td><td>\(10.60\,\text{cm}\), \(10.61\,\text{cm}\), \(10.59\,\text{cm}\)</td><td>Accurate because readings are close together</td></tr>
+</table>
+The row whose description needs repair is","Row P is suitable because the readings are close to \(10.00\,\text{cm}\) and close to one another. Row Q is also suitabl..."
+169,TAKEN,96.0%,"A digital balance always reads \(0.05\,\text{g}\) even when nothing is placed on it. Later it gives \(12.35\,\text{g}\) for a small object. This situation mainly affects","A non-zero reading when no object is present indicates zero error. Since the balance already reads \(0.05\,\text{g}\), t..."
+170,TAKEN,95.0%,"A set of repeated readings has small scatter, but the instrument is known to have a calibration error. The most suitable conclusion is that the readings may be","Small scatter among repeated readings indicates good precision. A calibration error, however, shifts readings away from ..."
+171,TAKEN,92.0%,Error in measurement is best described as the,"In measurement, error means the difference between the measured value and the true or accepted value of the quantity. If..."
+172,TAKEN,74.0%,"The missing term in the statement “A measured result is usually written with a value, a unit, and an estimate of ______” is","A complete scientific measurement often includes an estimate of uncertainty along with the value and unit. For example, ..."
+173,TAKEN,94.0%,"A rod has true length \(50.0\,\text{cm}\), but a reading gives \(49.6\,\text{cm}\). The signed error, taken as measured value minus true value, is","\( \textbf{True value:} \) \(50.0\,\text{cm}\).
+\( \textbf{Measured value:} \) \(49.6\,\text{cm}\).
+\( \textbf{Signed er..."
+174,TAKEN,90.0%,"A reported length \(8.20\pm0.05\,\text{cm}\) means that the measurement is best read as","The notation \(8.20\pm0.05\,\text{cm}\) reports a measured value with an uncertainty. The central value is \(8.20\,\text..."
+175,TAKEN,97.0%,"A measurement gives \(2.00\,\text{s}\) for a time interval whose accepted value is \(1.96\,\text{s}\). The absolute size of the error is","\( \textbf{Measured value:} \) \(2.00\,\text{s}\).
+\( \textbf{Accepted value:} \) \(1.96\,\text{s}\).
+\( \textbf{Differe..."
+176,TAKEN,86.0%,A measurement uncertainty is unavoidable mainly because,Every real measuring instrument has a finite least count or resolution. Observers and experimental conditions can also i...
+177,TAKEN,97.0%,A systematic error is best described as an error that,A systematic error is associated with a regular cause that shifts measurements in a particular way. It may come from wro...
+178,TAKEN,94.0%,"A balance reads \(0.20\,\text{g}\) even when its pan is empty. This error is mainly","The balance should read zero when there is no object on the pan. A reading of \(0.20\,\text{g}\) at the zero condition s..."
+179,TAKEN,89.0%,A thermometer is wrongly calibrated so that every temperature reading is \(1.5^\circ\text{C}\) higher than the actual temperature. The best way to reduce this error is to,"A calibration error shifts all readings in a regular direction. Since every reading is \(1.5^\circ\text{C}\) too high, t..."
+180,TAKEN,79.0%,"A stopwatch starts from \(0.30\,\text{s}\) instead of \(0.00\,\text{s}\). It shows \(12.80\,\text{s}\) at the end of a race. The corrected time interval is","\( \textbf{Observed reading:} \) \(12.80\,\text{s}\).
+\( \textbf{Initial zero reading:} \) \(0.30\,\text{s}\).
+The stopw..."
+181,TAKEN,91.0%,An experiment measuring the length of a metal rod is done at a temperature much higher than the temperature at which the scale was calibrated. The resulting shift is an example of,Environmental conditions such as temperature can affect measuring instruments and measured objects. If the scale or rod ...
+182,TAKEN,96.0%,"A scale is read from a position not perpendicular to the mark, so the same observer consistently reads the value too high. This is mainly",Reading a scale from an oblique direction can produce parallax error. If the observer repeatedly views the mark from the...
+183,TAKEN,88.0%,"A length is measured with a ruler whose zero mark is broken, so all readings are taken from the \(1\,\text{cm}\) mark and subtracted properly at the end. This procedure mainly helps to",A damaged zero mark can create a systematic error if readings are taken as though the zero were correct. Starting from a...
+184,TAKEN,96.0%,"Two statements about systematic errors are given.
+I. They may arise from wrong calibration of an instrument.
+II. They are always removed completely by taking the arithmetic mean of many readings.
+III. A known zero error can be handled by applying a correction.
+The valid statements are",Statement I is valid because wrong calibration is a common source of systematic error. Statement III is also valid becau...
+185,TAKEN,97.0%,"A laboratory record shows repeated readings \(25.1\,\text{cm}\), \(25.3\,\text{cm}\), \(25.0\,\text{cm}\), and \(25.2\,\text{cm}\) for the same length under similar conditions. The small unpredictable differences mainly indicate",Random errors cause readings to fluctuate unpredictably around a central value. The readings in the record are close but...
+186,TAKEN,94.0%,Repeating a measurement several times and taking the mean is especially useful for reducing,"Random errors fluctuate in sign and size from one reading to another. When many readings are taken, positive and negativ..."
+187,SKIPPED,56.0%,"A set of five readings for a time interval is \(2.1\,\text{s}\), \(2.0\,\text{s}\), \(2.2\,\text{s}\), \(2.1\,\text{s}\), and \(2.1\,\text{s}\). The mean value is","\( \textbf{Given readings:} \) \(2.1\,\text{s}\), \(2.0\,\text{s}\), \(2.2\,\text{s}\), \(2.1\,\text{s}\), and \(2.1\,\t..."
+188,TAKEN,88.0%,A measurement set has readings that scatter widely even though no fixed calibration error is known. This mainly shows poor,Wide scatter means the repeated readings are not close to one another. This indicates poor precision. Precision concerns...
+189,TAKEN,93.0%,"A passage from a measurement record is given below.
+<div class=""gkaim-mcq-passage"">A small current is measured several times with the same ammeter. The readings fluctuate slightly because of tiny changes in contact resistance and pointer position. No constant zero shift is detected.</div>
+The most suitable way to report the best estimate is to",The passage describes small fluctuations from reading to reading without a fixed zero shift. This is the typical situati...
+190,TAKEN,94.0%,"A data table compares two sets of repeated readings for the same length.
+<table class=""gkaim-mcq-table"">
+<tr><th>Set</th><th>Readings</th></tr>
+<tr><td>P</td><td>\(6.20\,\text{cm}\), \(6.21\,\text{cm}\), \(6.20\,\text{cm}\)</td></tr>
+<tr><td>Q</td><td>\(6.0\,\text{cm}\), \(6.4\,\text{cm}\), \(6.2\,\text{cm}\)</td></tr>
+</table>
+The better statement about random scatter is","Set P has readings tightly grouped between \(6.20\,\text{cm}\) and \(6.21\,\text{cm}\). Set Q spreads from \(6.0\,\text{..."
+191,TAKEN,94.0%,"If random error is reduced by taking many readings, the final result should still include","Averaging repeated readings can reduce the effect of random fluctuations, but it does not make the result perfectly exac..."
+192,TAKEN,97.0%,"A measuring device gives readings that vary unpredictably by about \(0.02\,\text{mm}\) from trial to trial. The phrase “unpredictably from trial to trial” most directly points to",Random error is identified by unpredictable variation between repeated readings. The direction and size of the deviation...
+193,TAKEN,89.0%,A gross error in measurement is most closely associated with,A gross error is a large avoidable error caused by carelessness or a wrong procedure. Examples include reading the wrong...
+194,TAKEN,88.0%,"A practical record shows the length of a wire as \(12.6\,\text{cm}\), but it is copied into the result table as \(21.6\,\text{cm}\). This is best classified as","Copying \(12.6\,\text{cm}\) as \(21.6\,\text{cm}\) is a careless recording mistake. Such a mistake is avoidable if the o..."
+195,TAKEN,86.0%,"During a scale reading, the eye is placed far to one side of the mark instead of directly above it. The resulting reading error is mainly due to",Parallax error occurs when a scale mark is viewed from an oblique direction instead of from a line perpendicular to the ...
+196,TAKEN,72.0%,"A measuring activity is repeated, and one reading is far away from the rest because the unit was accidentally written as \(\text{m}\) instead of \(\text{cm}\). The best immediate action is to",A wrong unit entry is an avoidable recording mistake. If one reading is far from the rest because \(\text{m}\) was writt...
+197,TAKEN,97.0%,Absolute error in a single measurement is the magnitude of,Absolute error gives the size of the difference between a measured value and the true or accepted value. If the measured...
+198,TAKEN,97.0%,"A length has accepted value \(25.0\,\text{cm}\), while a reading gives \(24.7\,\text{cm}\). The absolute error is","\( \textbf{Accepted value:} \) \(25.0\,\text{cm}\).
+\( \textbf{Measured value:} \) \(24.7\,\text{cm}\).
+\( \textbf{Signe..."
+199,TAKEN,94.0%,A measured value is reported as \(a_{\text{mean}}\pm \Delta a_{\text{mean}}\). The quantity \(\Delta a_{\text{mean}}\) represents,The expression \(a_{\text{mean}}\pm \Delta a_{\text{mean}}\) reports a best estimate along with its uncertainty. Here \(...
+200,SKIPPED,53.0%,"Four length readings are \(10.2\,\text{cm}\), \(10.4\,\text{cm}\), \(10.3\,\text{cm}\), and \(10.5\,\text{cm}\). The arithmetic mean is","\( \textbf{Given readings:} \) \(10.2\,\text{cm}\), \(10.4\,\text{cm}\), \(10.3\,\text{cm}\), and \(10.5\,\text{cm}\).
+\..."
+201,TAKEN,93.0%,A set of readings has mean value 5.00 s . One reading is 5.08 s . The absolute deviation of this reading from the mean is,Mean value: a mean = 5.00 s . Reading: a = 5.08 s . Deviation from mean: a − a mean = 5.08 s − 5.00 s = 0.08 s Absolute ...
+202,TAKEN,96.0%,A measurement table gives the following readings of a length. Reading Value P 2.4 cm Q 2.5 cm R 2.6 cm The mean absolute error is,"Readings: 2.4 cm , 2.5 cm , and 2.6 cm . Mean value: a mean = 2.4 + 2.5 + 2.6 3 cm a mean = 7.5 3 cm = 2.5 cm Absolute d..."
+203,TAKEN,86.0%,A measurement is reported as 2.50 ± 0.07 cm . The interval suggested by this report is approximately,"Reported value: 2.50 ± 0.07 cm . The central value is 2.50 cm , and the uncertainty is 0.07 cm . Lower limit: 2.50 cm − ..."
+204,TAKEN,94.0%,The mean absolute error has the same unit as,Mean absolute error is found from absolute deviations of readings from the mean. Each deviation is a difference between ...
+205,TAKEN,94.0%,"Four mass readings are 50.1 g , 50.3 g , 50.2 g , and 50.4 g . The mean value is 50.25 g . The absolute deviations are 0.15 g , 0.05 g , 0.05 g , and 0.15 g . The result should be reported as","Given mean: a mean = 50.25 g . Absolute deviations: 0.15 g , 0.05 g , 0.05 g , and 0.15 g . Mean absolute error: Δ a mea..."
+206,TAKEN,94.0%,"For readings 4.8 mm , 5.0 mm , and 5.2 mm , the reported value using mean and mean absolute error is approximately","Readings: 4.8 mm , 5.0 mm , and 5.2 mm . Mean value: a mean = 4.8 + 5.0 + 5.2 3 mm a mean = 15.0 3 mm = 5.0 mm Absolute ..."
+207,TAKEN,81.0%,A data record lists repeated readings and deviations from the mean. Reading Value Absolute deviation from mean P 12.1 s 0.1 s Q 12.0 s 0 s R 11.9 s − 0.1 s The entry that needs correction is,"An absolute deviation cannot be negative because it is the magnitude of a difference. If the mean is 12.0 s , the readin..."
+208,TAKEN,79.0%,A set of repeated observations is finally written as a mean ± Δ a mean rather than only a mean . This is done to show,The mean value a mean gives the best estimate from repeated observations. The mean absolute error Δ a mean gives a measu...
+209,TAKEN,97.0%,Relative error of a measurement is expressed as,Relative error compares the size of the absolute error with the size of the measured quantity. If the absolute error is ...
+210,TAKEN,97.0%,Percentage error is obtained from relative error by,"Percentage error expresses relative error on a percentage scale. If relative error is Δ a a , then percentage error is Δ..."
+211,TAKEN,97.0%,A length is measured as 40.0 cm with an absolute error of 0.2 cm . The percentage error is,"Given data: Measured length a = 40.0 cm , absolute error Δ a = 0.2 cm . Required quantity: Percentage error. Relative er..."
+212,TAKEN,97.0%,Two mass measurements are reported as 20.0 ± 0.2 g and 200.0 ± 0.5 g . The better measurement by percentage error is,"First measurement: a 1 = 20.0 g , Δ a 1 = 0.2 g . Δ a 1 a 1 × 100 % = 0.2 20.0 × 100 % = 1.0 % Second measurement: a 2 =..."
+213,TAKEN,96.0%,Relative error has no unit because it is formed by,"Relative error is Δ a a , where Δ a is the absolute error and a is the measured value. Both Δ a and a refer to the same ..."
+214,TAKEN,97.0%,The expression for percentage error is completed as Δ a a × _ _ _ _ .,Percentage error is a percentage form of relative error. The relative error is Δ a a . Multiplying by 100 % converts thi...
+215,TAKEN,95.0%,A table compares measurements of different quantities. Record Measurement Percentage error P 10.0 ± 0.1 cm 1.0 % Q 50.0 ± 0.5 s 1.0 % R 100 ± 1 g 1.0 % S 200 ± 2 m 10 % The record that needs correction is,"For record P, 0.1 10.0 × 100 % = 1.0 % , so it is correct. For record Q, 0.5 50.0 × 100 % = 1.0 % , so it is also correc..."
+216,TAKEN,96.0%,A diameter is measured as 2.00 mm with an uncertainty of 0.01 mm . A length is measured as 20.0 cm with an uncertainty of 0.1 cm . The comparison of percentage errors is,"Diameter measurement: d = 2.00 mm , Δ d = 0.01 mm . Δ d d × 100 % = 0.01 2.00 × 100 % = 0.5 % Length measurement: l = 20..."
+217,TAKEN,97.0%,"When two measured quantities are added, the maximum absolute error in the result is found by","For addition of measured quantities, the maximum possible absolute errors add. If x = a + b , then Δ x = Δ a + Δ b for t..."
+218,TAKEN,97.0%,Two lengths are measured as 12.4 ± 0.1 cm and 8.2 ± 0.1 cm . Their sum with maximum absolute error is,"Given lengths: a = 12.4 ± 0.1 cm , b = 8.2 ± 0.1 cm . Required quantity: Sum and maximum absolute error. Value of sum: x..."
+219,TAKEN,97.0%,"For a difference x = a − b , the maximum absolute error is","In subtraction, the measured values are subtracted, but their uncertainties still add in the maximum-error estimate. If ..."
+220,TAKEN,96.0%,A rod length is found by subtracting two scale readings: x = ( 18.6 ± 0.1 cm ) − ( 5.2 ± 0.1 cm ) . The result with maximum absolute error is,Given expression: x = ( 18.6 ± 0.1 cm ) − ( 5.2 ± 0.1 cm ) . Value of difference: x = 18.6 cm − 5.2 cm = 13.4 cm Error r...
+221,TAKEN,97.0%,"A container has mass \(150.0\pm0.2\,\text{g}\) when full and \(35.0\pm0.1\,\text{g}\) when empty. The mass of the contents with maximum absolute error is","\( \textbf{Full container:} \) \(150.0\pm0.2\,\text{g}\).
+\( \textbf{Empty container:} \) \(35.0\pm0.1\,\text{g}\).
+\( \..."
+222,TAKEN,96.0%,"Assertion: In \(x=a-b\), the maximum absolute error is \(\Delta a+\Delta b\).
+Reason: The largest uncertainty in a difference can occur when one measured value is overestimated and the other is underestimated.",The assertion is true because subtraction of measured values still requires addition of absolute errors in the maximum-e...
+223,TAKEN,95.0%,"A measurement record for combined lengths is shown below.
+<table class=""gkaim-mcq-table"">
+<tr><th>Case</th><th>Expression</th><th>Reported uncertainty</th></tr>
+<tr><td>P</td><td>\((6.0\pm0.1\,\text{cm})+(4.0\pm0.2\,\text{cm})\)</td><td>\(\pm0.3\,\text{cm}\)</td></tr>
+<tr><td>Q</td><td>\((9.0\pm0.2\,\text{cm})-(3.0\pm0.1\,\text{cm})\)</td><td>\(\pm0.3\,\text{cm}\)</td></tr>
+<tr><td>R</td><td>\((5.5\pm0.1\,\text{cm})+(2.5\pm0.1\,\text{cm})\)</td><td>\(\pm0.2\,\text{cm}\)</td></tr>
+<tr><td>S</td><td>\((8.0\pm0.3\,\text{cm})-(2.0\pm0.1\,\text{cm})\)</td><td>\(\pm0.2\,\text{cm}\)</td></tr>
+</table>
+The case whose reported uncertainty needs repair is","For addition, absolute errors add, so case P has uncertainty \(0.1\,\text{cm}+0.2\,\text{cm}=0.3\,\text{cm}\). For subtr..."
+224,TAKEN,97.0%,"A total length is made from three measured parts: \(4.2\pm0.1\,\text{cm}\), \(3.8\pm0.1\,\text{cm}\), and \(2.5\pm0.2\,\text{cm}\). The combined length with maximum absolute error is","\( \textbf{Measured parts:} \) \(4.2\pm0.1\,\text{cm}\), \(3.8\pm0.1\,\text{cm}\), and \(2.5\pm0.2\,\text{cm}\).
+\( \tex..."
+225,TAKEN,96.0%,"For a quantity \(x=ab\), where \(a\) and \(b\) are measured quantities, the maximum relative error in \(x\) is","In multiplication, the maximum relative errors add. If \(x=ab\), then the fractional uncertainty in \(x\) is obtained by..."
+226,TAKEN,96.0%,"The length and breadth of a rectangle are \(12.0\pm0.1\,\text{cm}\) and \(5.0\pm0.1\,\text{cm}\). The maximum percentage error in its area is approximately","\( \textbf{Given data:} \) Length \(l=12.0\,\text{cm}\), \(\Delta l=0.1\,\text{cm}\), breadth \(b=5.0\,\text{cm}\), and ..."
+227,TAKEN,97.0%,"For a quotient \(x=\frac{a}{b}\), the maximum relative error is found by","In division, relative errors add just as they do in multiplication. If \(x=\frac{a}{b}\), then \(\frac{\Delta x}{x}=\fra..."
+228,TAKEN,95.0%,"A distance \(s=100\pm1\,\text{m}\) is covered in time \(t=20.0\pm0.2\,\text{s}\). The maximum percentage error in the speed \(v=\frac{s}{t}\) is","\( \textbf{Given data:} \) Distance \(s=100\,\text{m}\), \(\Delta s=1\,\text{m}\), time \(t=20.0\,\text{s}\), and \(\Del..."
+229,TAKEN,95.0%,"Density is calculated using \(\rho=\frac{m}{V}\). If the percentage errors in \(m\) and \(V\) are \(1.5\%\) and \(2.0\%\), respectively, the maximum percentage error in \(\rho\) is","\( \textbf{Given relation:} \) \(\rho=\frac{m}{V}\).
+\( \textbf{Given percentage errors:} \) Error in \(m=1.5\%\), error..."
+230,TAKEN,95.0%,"Assertion: In calculating \(x=ab\), the percentage error in \(x\) is the sum of the percentage errors in \(a\) and \(b\).
+Reason: A small fractional change in each factor contributes to the fractional change in the product.","The assertion is true because multiplication combines relative uncertainties, not absolute uncertainties directly. If \(..."
+231,TAKEN,95.0%,"A record of error propagation is given below.
+<table class=""gkaim-mcq-table"">
+<tr><th>Case</th><th>Formula</th><th>Rule written in the record</th></tr>
+<tr><td>P</td><td>\(x=ab\)</td><td>\(\frac{\Delta x}{x}=\frac{\Delta a}{a}+\frac{\Delta b}{b}\)</td></tr>
+<tr><td>Q</td><td>\(x=\frac{a}{b}\)</td><td>\(\frac{\Delta x}{x}=\frac{\Delta a}{a}+\frac{\Delta b}{b}\)</td></tr>
+<tr><td>R</td><td>\(x=a+b\)</td><td>\(\Delta x=\Delta a+\Delta b\)</td></tr>
+<tr><td>S</td><td>\(x=ab\)</td><td>\(\Delta x=\Delta a+\Delta b\)</td></tr>
+</table>
+The row that needs repair is",Row P is suitable because a product uses addition of relative errors. Row Q is also suitable because a quotient also use...
+232,TAKEN,96.0%,"A quantity \(p=\frac{F}{A}\) is calculated from \(F=50.0\pm0.5\,\text{N}\) and \(A=2.00\pm0.04\,\text{m}^2\). The maximum percentage error in \(p\) is","\( \textbf{Given data:} \) \(F=50.0\,\text{N}\), \(\Delta F=0.5\,\text{N}\), \(A=2.00\,\text{m}^2\), and \(\Delta A=0.04..."
+233,TAKEN,94.0%,"If \(x=a^n\), the relative error in \(x\) is","When a measured quantity is raised to a power, the relative error is multiplied by that power. For \(x=a^n\), the rule i..."
+234,TAKEN,91.0%,"The radius of a circle is measured with a percentage error of \(1\%\). Since its area is \(A=\pi r^2\), the percentage error in area is","\( \textbf{Given relation:} \) \(A=\pi r^2\).
+The measured quantity \(r\) is raised to the power \(2\).
+\( \textbf{Power..."
+235,TAKEN,92.0%,"A sphere has volume \(V=\frac{4}{3}\pi r^3\). If the percentage error in \(r\) is \(2\%\), the percentage error in \(V\) is","\( \textbf{Given relation:} \) \(V=\frac{4}{3}\pi r^3\).
+The measured quantity \(r\) appears with power \(3\).
+\( \textb..."
+236,TAKEN,94.0%,"A quantity \(y=\sqrt{x}\) is calculated from a measured value \(x\). If the percentage error in \(x\) is \(4\%\), the percentage error in \(y\) is","\( \textbf{Given relation:} \)
+\[
+y=\sqrt{x}=x^{1/2}
+\]
+\( \textbf{Power involved:} \) The exponent of \(x\) is \(\frac{..."
+237,TAKEN,96.0%,A quantity \(z=\frac{a^2}{b}\) is calculated from measured \(a\) and \(b\). The maximum relative error in \(z\) is,The expression \(z=\frac{a^2}{b}\) contains both a power and a quotient. The factor \(a^2\) contributes \(2\frac{\Delta ...
+238,TAKEN,95.0%,"If \(z=\frac{a^2}{b}\), with percentage errors \(1\%\) in \(a\) and \(3\%\) in \(b\), the maximum percentage error in \(z\) is","\( \textbf{Given relation:} \)
+\[
+z=\frac{a^2}{b}
+\]
+\( \textbf{Error contribution from \(a^2\):} \) The percentage erro..."
+239,TAKEN,94.0%,"A quantity depends on time as \(f=\frac{1}{T}\). If \(T\) is measured with a percentage error of \(0.8\%\), the percentage error in \(f\) is","\( \textbf{Given relation:} \)
+\[
+f=\frac{1}{T}=T^{-1}
+\]
+For error magnitude, the power \(-1\) contributes a factor of ..."
+240,TAKEN,93.0%,"A table lists some power-rule applications.
+<table class=""gkaim-mcq-table"">
+<tr><th>Row</th><th>Relation</th><th>Percentage error in result if percentage error in \(a\) is \(p\%\)</th></tr>
+<tr><td>P</td><td>\(x=a^2\)</td><td>\(2p\%\)</td></tr>
+<tr><td>Q</td><td>\(x=a^3\)</td><td>\(3p\%\)</td></tr>
+<tr><td>R</td><td>\(x=\sqrt{a}\)</td><td>\(\frac{p}{2}\%\)</td></tr>
+<tr><td>S</td><td>\(x=a^2\)</td><td>\(\frac{p}{2}\%\)</td></tr>
+</table>
+The row that needs repair is","For \(x=a^2\), the relative or percentage error is doubled, so row P is suitable. For \(x=a^3\), the percentage error be..."
+241,TAKEN,95.0%,"A quantity is calculated from \(x=\frac{l^2}{t}\). If the percentage error in \(l\) is \(1.5\%\) and the percentage error in \(t\) is \(2.0\%\), the maximum percentage error in \(x\) is","\( \textbf{Given relation:} \)
+\[
+x=\frac{l^2}{t}
+\]
+\( \textbf{Error contribution from \(l^2\):} \) The power \(2\) mul..."
+242,TAKEN,95.0%,"A quantity is given by \(g=\frac{4\pi^2 l}{T^2}\). If \(l\) has percentage error \(1.0\%\) and \(T\) has percentage error \(0.5\%\), the percentage error in \(g\) is","\( \textbf{Given relation:} \)
+\[
+g=\frac{4\pi^2 l}{T^2}
+\]
+The constants \(4\) and \(\pi^2\) do not contribute measurem..."
+243,TAKEN,96.0%,"A record gives rules for maximum percentage error.
+<table class=""gkaim-mcq-table"">
+<tr><th>Row</th><th>Relation</th><th>Rule for percentage error</th></tr>
+<tr><td>P</td><td>\(x=ab\)</td><td>\(\%\Delta x=\%\Delta a+\%\Delta b\)</td></tr>
+<tr><td>Q</td><td>\(x=\frac{a}{b}\)</td><td>\(\%\Delta x=\%\Delta a+\%\Delta b\)</td></tr>
+<tr><td>R</td><td>\(x=a^3\)</td><td>\(\%\Delta x=3\%\Delta a\)</td></tr>
+<tr><td>S</td><td>\(x=a+b\)</td><td>\(\%\Delta x=\%\Delta a+\%\Delta b\)</td></tr>
+</table>
+The row that needs repair is",Row P is suitable because product relations use addition of relative or percentage errors. Row Q is also suitable becaus...
+244,TAKEN,86.0%,"A formula contains the constant factor \(2\pi\), as in \(s=2\pi r\). If only \(r\) is measured, the uncertainty in \(s\) comes from",A mathematical constant such as \(2\pi\) is not a measured quantity in this calculation. It is treated as exact for the ...
+245,TAKEN,96.0%,The significant figures in a measured value are the digits that,Significant figures show the meaningful digits in a measured value. They include the digits known with certainty and the...
+246,TAKEN,96.0%,"In the number \(0.00450\,\text{m}\), the number of significant figures is",Leading zeros before the first non-zero digit are not significant because they only locate the decimal point. In \(0.004...
+247,TAKEN,91.0%,"The value \(2.300\times10^3\,\text{kg}\) contains","In scientific notation, the significant figures are shown in the coefficient. The coefficient \(2.300\) contains the dig..."
+248,TAKEN,90.0%,"The zeros in \(1002\,\text{m}\) are significant because they are","Zeros between non-zero digits are significant. In \(1002\,\text{m}\), the two zeros lie between \(1\) and \(2\), so they..."
+249,TAKEN,94.0%,"A length is reported as \(0.0300\,\text{m}\). The two zeros at the end are significant because","In \(0.0300\,\text{m}\), the zeros before \(3\) only locate the decimal point and are not significant. The digit \(3\) i..."
+250,TAKEN,95.0%,"The result of adding \(12.3\,\text{cm}\) and \(0.456\,\text{cm}\), rounded according to the decimal-place rule, is","\( \textbf{Given values:} \) \(12.3\,\text{cm}\) and \(0.456\,\text{cm}\).
+\( \textbf{Addition before rounding:} \)
+\[
+1..."
+251,TAKEN,96.0%,"The product \(2.5\,\text{m}\times3.42\,\text{m}\), reported with the proper significant-figure rule, should be written as","\( \textbf{Given product:} \) \(2.5\,\text{m}\times3.42\,\text{m}\).
+\( \textbf{Raw multiplication:} \)
+\[
+2.5\times3.42..."
+252,TAKEN,94.0%,"In multiplication or division of measured quantities, the final result is usually reported with",Multiplication and division use the significant-figure rule. The final result should contain as many significant figures...
+253,TAKEN,90.0%,"The quotient \(\frac{15.0\,\text{m}}{2.0\,\text{s}}\) should be reported as","\( \textbf{Given quotient:} \)
+\[
+\frac{15.0\,\text{m}}{2.0\,\text{s}}
+\]
+\( \textbf{Numerical calculation:} \)
+\[
+\frac..."
+254,TAKEN,96.0%,"A subtraction gives \(8.43\,\text{s}-2.1\,\text{s}=6.33\,\text{s}\) before rounding. The properly rounded result is","\( \textbf{Given subtraction:} \)
+\[
+8.43\,\text{s}-2.1\,\text{s}=6.33\,\text{s}
+\]
+For addition and subtraction, the an..."
+255,TAKEN,91.0%,"A measurement written as \(4.00\,\text{cm}\) differs from \(4\,\text{cm}\) because \(4.00\,\text{cm}\) shows","The value \(4\,\text{cm}\) has one significant figure. The value \(4.00\,\text{cm}\) has three significant figures becau..."
+256,TAKEN,92.0%,"The rounded form of \(0.006784\,\text{m}\) to three significant figures is","\( \textbf{Given value:} \) \(0.006784\,\text{m}\).
+Leading zeros are not significant; they only fix the decimal positio..."
+257,TAKEN,94.0%,"The rounded form of \(12.746\,\text{m}\) to three significant figures is","\( \textbf{Given value:} \) \(12.746\,\text{m}\).
+The first three significant digits are \(1\), \(2\), and \(7\).
+The ne..."
+258,TAKEN,95.0%,"A calculation gives \(0.004985\,\text{kg}\). Rounded to two significant figures, it should be written as","\( \textbf{Given value:} \) \(0.004985\,\text{kg}\).
+Leading zeros before \(4\) are not significant.
+The first two signi..."
+259,TAKEN,76.0%,"In the expression \(6\) identical coins have total mass \(48.0\,\text{g}\), the number \(6\) is treated as",A counted number of objects is exact when the objects are individually counted. Here \(6\) coins means exactly six coins...
+260,TAKEN,95.0%,"Six identical washers have total mass \(27.6\,\text{g}\). The mass of one washer, reported using the correct significant-figure idea, is","\( \textbf{Given data:} \) Total mass \(=27.6\,\text{g}\), number of washers \(=6\).
+The number \(6\) is an exact count,..."
+261,TAKEN,95.0%,"A calculator gives \(3.76\,\text{cm}+12.4\,\text{cm}+0.085\,\text{cm}=16.245\,\text{cm}\). The properly reported sum is","\( \textbf{Raw sum:} \)
+\[
+3.76\,\text{cm}+12.4\,\text{cm}+0.085\,\text{cm}=16.245\,\text{cm}
+\]
+For addition, the resul..."
+262,TAKEN,94.0%,"A mixed calculation is written as \(\frac{(4.20\,\text{m})(3.0\,\text{m})}{2.00\,\text{s}}\). The numerical result should be reported with","The expression involves multiplication and division, so the significant-figure rule for multiplication and division appl..."
+263,TAKEN,90.0%,"A measurement result is \(9.86\pm0.3\,\text{cm}\). A suitable reported form is","The uncertainty \(0.3\,\text{cm}\) is given to the tenths place. The central value should normally be reported to the sa..."
+264,TAKEN,91.0%,"A table of reported measurements is shown.
+<table class=""gkaim-mcq-table"">
+<tr><th>Row</th><th>Measurement context</th><th>Reported value</th></tr>
+<tr><td>P</td><td>Length read to nearest \(0.1\,\text{cm}\)</td><td>\(12.4\,\text{cm}\)</td></tr>
+<tr><td>Q</td><td>Mass read to nearest \(0.01\,\text{g}\)</td><td>\(5.37\,\text{g}\)</td></tr>
+<tr><td>R</td><td>Time read to nearest \(1\,\text{s}\)</td><td>\(18.00\,\text{s}\)</td></tr>
+<tr><td>S</td><td>Diameter read to nearest \(0.001\,\text{mm}\)</td><td>\(0.486\,\text{mm}\)</td></tr>
+</table>
+The row that shows false precision is","Row P is consistent because \(12.4\,\text{cm}\) is reported to the nearest \(0.1\,\text{cm}\). Row Q is consistent becau..."
+265,SKIPPED,2.0%,The dimensional formula of a physical quantity expresses it in terms of,"A dimensional formula represents a physical quantity using powers of fundamental dimensions such as \([M]\), \([L]\), an..."
+266,SKIPPED,2.0%,The dimensional formula of area is,"Area is obtained by multiplying two lengths. For a rectangle, \(A=lb\), where both \(l\) and \(b\) have dimension \([L]\..."
+267,SKIPPED,1.0%,"Using \(v=\frac{s}{t}\), the dimensional formula of velocity is","\( \textbf{Relation used:} \)
+\[
+v=\frac{s}{t}
+\]
+\( \textbf{Dimension of displacement or distance:} \)
+\[
+[s]=[L]
+\]
+\(..."
+268,SKIPPED,1.0%,The dimensional formula of acceleration follows from \(a=\frac{\Delta v}{\Delta t}\). It is,"\( \textbf{Starting relation:} \)
+\[
+a=\frac{\Delta v}{\Delta t}
+\]
+Velocity has dimension \([LT^{-1}]\).
+Time interval ..."
+269,SKIPPED,1.0%,"From \(F=ma\), the dimensional formula of force is","\( \textbf{Formula used:} \)
+\[
+F=ma
+\]
+Mass has dimension \([M]\).
+Acceleration has dimension \([LT^{-2}]\).
+Therefore,..."
+270,SKIPPED,1.0%,"Work is given by \(W=Fs\), where \(F\) is force and \(s\) is displacement. The dimensional formula of work is","\( \textbf{Relation used:} \)
+\[
+W=Fs
+\]
+Force has dimensional formula \([MLT^{-2}]\).
+Displacement has dimension \([L]\..."
+271,SKIPPED,1.0%,The dimension of pressure can be found from \(p=\frac{F}{A}\). The correct dimensional formula is,"\( \textbf{Definition:} \) Pressure is force per unit area.
+\[
+p=\frac{F}{A}
+\]
+Force has dimension \([MLT^{-2}]\).
+Area..."
+272,SKIPPED,2.0%,"A graph is plotted with force \(F\) on the vertical axis and acceleration \(a\) on the horizontal axis. If the graph is a straight line through the origin, the dimension of its slope is","\( \textbf{Slope meaning:} \) The slope of a graph is vertical-axis quantity divided by horizontal-axis quantity.
+Here,
+..."
+273,SKIPPED,1.0%,Power is defined as work done per unit time. Its dimensional formula is,"\( \textbf{Definition used:} \) Power is work done per unit time.
+\[
+P=\frac{W}{t}
+\]
+Work has dimensional formula \([ML..."
+274,SKIPPED,2.0%,Density is defined as mass per unit volume. Its dimensional formula is,Density tells how much mass is present per unit volume. Its defining relation is \(\rho=\frac{m}{V}\). Mass has dimensio...
+275,SKIPPED,1.0%,Linear momentum is given by \(p=mv\). The dimensional formula of momentum is,"\( \textbf{Relation used:} \)
+\[
+p=mv
+\]
+Mass has dimension \([M]\).
+Velocity has dimension \([LT^{-1}]\).
+So,
+\[
+[p]=[M..."
+276,SKIPPED,1.0%,Impulse is given by \(J=F\Delta t\). Its dimensional formula is the same as that of,"Impulse is the product of force and time interval. Force has dimensional formula \([MLT^{-2}]\), and time interval has d..."
+277,SKIPPED,2.0%,The principle of homogeneity of dimensions states that,"A physical equation can be meaningful only when quantities of the same dimensions are added, subtracted, or equated. For..."
+278,SKIPPED,1.0%,The equation \(s=ut+\frac{1}{2}at^2\) is dimensionally valid because,"\( \textbf{Left side:} \) Displacement \(s\) has dimension \([L]\).
+\( \textbf{First term on right side:} \)
+\[
+[ut]=[LT..."
+279,SKIPPED,2.0%,"The relation \(v=u+at^2\) cannot be dimensionally valid if \(v\) and \(u\) are velocities, because","The terms \(v\) and \(u\) are velocities, so each has dimension \([LT^{-1}]\). Acceleration has dimension \([LT^{-2}]\),..."
+280,SKIPPED,1.0%,"In the relation \(F=kx\), where \(F\) is force and \(x\) is displacement, the dimensional formula of \(k\) is","\( \textbf{Given relation:} \)
+\[
+F=kx
+\]
+Rearrange for \(k\):
+\[
+k=\frac{F}{x}
+\]
+Force has dimension \([MLT^{-2}]\), a..."
+281,SKIPPED,2.0%,The expression \(T=2\pi\sqrt{\frac{l}{g}}\) is dimensionally suitable for a time period because,"Length \(l\) has dimension \([L]\). Acceleration due to gravity \(g\) has dimension \([LT^{-2}]\). Therefore,
+\[
+\left[\..."
+282,SKIPPED,1.0%,A graph has velocity \(v\) on the vertical axis and time \(t\) on the horizontal axis. The dimension of the slope is,"\( \textbf{Slope of graph:} \) Slope is vertical-axis quantity divided by horizontal-axis quantity.
+Here,
+\[
+\text{slope..."
+283,SKIPPED,1.0%,"In the relation \(v^2=Cx\), \(v\) is velocity and \(x\) is displacement. The dimensional formula of \(C\) is","\( \textbf{Given relation:} \)
+\[
+v^2=Cx
+\]
+Rearrange for \(C\):
+\[
+C=\frac{v^2}{x}
+\]
+Velocity has dimension \([LT^{-1}..."
+284,SKIPPED,2.0%,"A proposed equation is \(E=mv^2+\frac{F}{x}\), where \(E\) is energy, \(m\) is mass, \(v\) is velocity, \(F\) is force, and \(x\) is displacement. The equation fails dimensional homogeneity because","Energy has dimensional formula \([ML^2T^{-2}]\). The term \(mv^2\) has dimension \([M][L^2T^{-2}]=[ML^2T^{-2}]\), so it ..."
+285,SKIPPED,3.0%,Dimensional analysis can be used to,Dimensional analysis is a useful method for checking whether the dimensions on both sides of an equation match. It can a...
+286,SKIPPED,2.0%,The limitation of dimensional analysis is shown best by the fact that it cannot distinguish between,"Both \(\frac{1}{2}\) and \(3\) are pure numerical constants, so they have no dimensions. In both expressions, \(ut\) has..."
+287,SKIPPED,1.0%,"A relation is proposed in the form \(T=k l^a g^b\), where \(T\) is time period, \(l\) is length, \(g\) is acceleration, and \(k\) is dimensionless. The values of \(a\) and \(b\) found by dimensional analysis are","\( \textbf{Given relation:} \)
+\[
+T=k l^a g^b
+\]
+Since \(k\) is dimensionless, it does not affect dimensions.
+\( \textbf..."
+288,SKIPPED,2.0%,A dimensionless quantity is one whose dimensional formula is,"A dimensionless quantity has no net dependence on fundamental dimensions such as mass, length, and time. This is represe..."
+289,SKIPPED,1.0%,Strain is defined as \(\frac{\text{change in length}}{\text{original length}}\). Its dimensional formula is,"Strain is the ratio of two lengths. The change in length has dimension \([L]\), and the original length also has dimensi..."
+290,SKIPPED,2.0%,The argument of a trigonometric function such as \(\sin \theta\) must be,The argument of a trigonometric function is treated as dimensionless in dimensional analysis. When \(\theta\) is measure...
+291,SKIPPED,2.0%,The expression \(e^{-t/\tau}\) can appear in a physical relation only if,"The exponent of an exponential function must be dimensionless. In \(e^{-t/\tau}\), the exponent is \(-\frac{t}{\tau}\). ..."
+292,SKIPPED,2.0%,"A proposed relation is \(y=A\sin(Bt)\), where \(y\) and \(A\) are lengths and \(t\) is time. The dimensional formula of \(B\) must be","\( \textbf{Given relation:} \)
+\[
+y=A\sin(Bt)
+\]
+Since \(\sin(Bt)\) is a trigonometric function, its argument \(Bt\) mus..."
+293,SKIPPED,1.0%,"In the relation \(v=A+Bt\), \(v\) is velocity and \(t\) is time. The dimensions of \(A\) and \(B\), respectively, are","\( \textbf{Given relation:} \)
+\[
+v=A+Bt
+\]
+By dimensional homogeneity, each term added to form \(v\) must have the dime..."
+294,SKIPPED,1.0%,"A formula is written as \(s=At+Bt^2\), where \(s\) is displacement and \(t\) is time. The dimensions of \(A\) and \(B\), respectively, are","\( \textbf{Given equation:} \)
+\[
+s=At+Bt^2
+\]
+Displacement has dimension \([L]\), so both \(At\) and \(Bt^2\) must have..."
+295,SKIPPED,1.0%,"In the relation \(P=\frac{a-bt^2}{x}\), \(P\) is pressure, \(t\) is time, and \(x\) is length. The dimensions of \(a\) and \(b\), respectively, are","\( \textbf{Given relation:} \)
+\[
+P=\frac{a-bt^2}{x}
+\]
+Pressure has dimension \([ML^{-1}T^{-2}]\), and length \(x\) has..."
+296,SKIPPED,2.0%,The relation \(E=\frac{1}{2}mv^2\) is dimensionally consistent with energy because,"Mass has dimension \([M]\), and velocity has dimension \([LT^{-1}]\). Therefore,
+\[
+[mv^2]=[M][LT^{-1}]^2
+\]
+\[
+=[M][L^2..."
+297,SKIPPED,2.0%,A formula \(F=\frac{mv}{t}\) is proposed for force. Dimensional analysis shows that it is,"\( \textbf{Given expression:} \)
+\[
+\frac{mv}{t}
+\]
+Mass has dimension \([M]\), velocity has dimension \([LT^{-1}]\), an..."
+298,SKIPPED,2.0%,"A dimensional check is applied to \(s=vt+\frac{a}{t}\), where \(s\) is displacement, \(v\) is velocity, \(a\) is acceleration, and \(t\) is time. The equation fails because","The left side \(s\) has dimension \([L]\). The first term on the right side is
+\[
+[vt]=[LT^{-1}][T]=[L]
+\]
+so it matches..."
+299,SKIPPED,2.0%,"A formula is proposed as \(T=C\rho^a r^b\), where \(T\) is time, \(\rho\) is density, \(r\) is length, and \(C\) is dimensionless. This form cannot represent time using only \(\rho\) and \(r\) because","Density has dimensional formula \([ML^{-3}]\), and length has dimension \([L]\). A product \(\rho^a r^b\) has dimensions..."
+300,SKIPPED,3.0%,"To convert the numerical value of a quantity from one system of units to another, the dimensional formula is useful because it tells","A dimensional formula shows the powers of base dimensions in a physical quantity. When base units of mass, length, and t..."
+301,SKIPPED,2.0%,"A force is 1 N . Since 1 N = 10 5 dyne , the force in dyne is","Given conversion: 1 N = 10 5 dyne The force is 1 N , so no additional scaling factor is needed. Therefore, 1 N = 10 5 dy..."
+302,SKIPPED,2.0%,"A work value is 2 J . Using 1 J = 10 7 erg , its value in erg is",Given value: Work = 2 J . Conversion relation: 1 J = 10 7 erg Apply conversion: 2 J = 2 × 10 7 erg The erg is a smaller ...
+303,SKIPPED,2.0%,"A pressure of 1 Pa is expressed in dyne cm − 2 . Given 1 N = 10 5 dyne and 1 m 2 = 10 4 cm 2 , the value is","Starting unit: 1 Pa = 1 N m − 2 Use 1 N = 10 5 dyne and 1 m 2 = 10 4 cm 2 So, 1 N m − 2 = 10 5 dyne 10 4 cm 2 = 10 dyne ..."
+304,SKIPPED,2.0%,A limitation of the dimensional method in deriving formulae is that it,"Dimensional analysis compares powers of fundamental dimensions on both sides of a relation. Pure numbers such as 2 , 1 2..."
+305,SKIPPED,3.0%,"A derived unit is converted from one system to another using n 1 u 1 = n 2 u 2 . In this relation, n 1 and n 2 represent",A physical quantity remains the same when it is expressed in two different unit systems. If it is written as n 1 u 1 in ...
+306,SKIPPED,2.0%,"A physical quantity has dimensional formula [ M 1 L 2 T − 2 ] . If the units of mass, length, and time become 10 times, 100 times, and unchanged respectively, the new numerical value becomes","Dimensional formula: [ M 1 L 2 T − 2 ] . Let the new mass unit be 10 times the old mass unit, the new length unit be 100..."
+307,SKIPPED,1.0%,"A quantity Q has dimensions [ M L T − 2 ] . It is 10 N in SI. Since 1 N = 10 5 dyne , the same quantity in dyne is",Given value: Q = 10 N . Conversion relation: 1 N = 10 5 dyne Multiply both sides by 10 : 10 N = 10 × 10 5 dyne = 10 6 dy...
+308,SKIPPED,2.0%,A density is 1000 kg m − 3 . Its value in g cm − 3 is,Given density: 1000 kg m − 3 . Convert the mass unit: 1 kg = 1000 g Convert the volume unit: 1 m = 100 cm 1 m 3 = ( 100 ...
+309,SKIPPED,2.0%,A speed is 72 km h − 1 . Its value in m s − 1 is,"Given speed: 72 km h − 1 . Use 1 km = 1000 m and 1 h = 3600 s So, 72 km h − 1 = 72 × 1000 m 3600 s = 72 × 5 18 m s − 1 =..."
+310,SKIPPED,1.0%,"A graph is plotted with work W on the vertical axis and displacement s on the horizontal axis. If the relation is W = F s , the dimension of the slope is","Slope meaning: Slope is the ratio of vertical-axis quantity to horizontal-axis quantity. Here, slope = W s Work has dime..."
+311,SKIPPED,2.0%,The area under a force-displacement graph has the dimension of,Area under a graph is found by multiplying the vertical-axis quantity by the horizontal-axis quantity. For a force-displ...
+312,SKIPPED,3.0%,A dimensionally valid equation may still be physically wrong because dimensional analysis,Dimensional analysis tests whether the dimensions on both sides of an equation agree. Passing this test is necessary for...
+313,SKIPPED,1.0%,The equation v 2 = u 2 + 2 a s is dimensionally valid because every term has the dimension,"Velocity has dimension [ L T − 1 ] , so v 2 and u 2 each have dimension [ L 2 T − 2 ] . Acceleration has dimension [ L T..."
+314,SKIPPED,1.0%,"The proposed relation v = u + a s , where v and u are velocities, a is acceleration, and s is displacement, is dimensionally invalid because a s has dimensions",The terms v and u have dimension [ L T − 1 ] . The product a s has dimension [ a s ] = [ L T − 2 ] [ L ] = [ L 2 T − 2 ]...
+315,SKIPPED,1.0%,"A relation is proposed as E = A x 2 , where E is energy and x is displacement. The dimensional formula of A is",Given relation: E = A x 2 Rearrange for A : A = E x 2 Energy has dimensional formula [ M L 2 T − 2 ] . Displacement squa...
+316,SKIPPED,2.0%,"In R = α L + β t , R is length, L is length, and t is time. The dimensions of α and β , respectively, are","Given relation: R = α L + β t Since R is a length, each term on the right side must have dimension [ L ] . For α L : [ α..."
+317,SKIPPED,2.0%,"A quantity Q is given by Q = P ρ g , where P is pressure, ρ is density, and g is acceleration. The dimensional formula of Q is","Given relation: Q = P ρ g Pressure has dimension [ M L − 1 T − 2 ] . Density has dimension [ M L − 3 ] , and acceleratio..."
+318,SKIPPED,1.0%,"A relation has the form X = A cos ⁡ ( ω t ) , where X is displacement and t is time. The dimensions of A and ω , respectively, are",Given relation: X = A cos ⁡ ( ω t ) The cosine factor is dimensionless because the argument ω t must be dimensionless. S...
+319,SKIPPED,2.0%,"A dimensionally consistent expression for a time using only l and g , where l is length and g is acceleration, must be proportional to","Length has dimension [ L ] , and acceleration has dimension [ L T − 2 ] . The ratio l g has dimension [ L ] [ L T − 2 ] ..."
+320,SKIPPED,2.0%,"A physical equation contains the term ln ⁡ ( x x 0 ) , where x and x 0 are lengths. This logarithmic term is dimensionally acceptable because","The argument of a logarithmic function must be dimensionless. In ln ⁡ ( x x 0 ) , both x and x 0 are lengths, so their r..."
+321,SKIPPED,1.0%,"In Newton’s gravitational relation \(F=\frac{Gm_1m_2}{r^2}\), the dimensional formula of \(G\) is","\( \textbf{Given relation:} \)
+\[
+F=\frac{Gm_1m_2}{r^2}
+\]
+Rearrange for \(G\):
+\[
+G=\frac{Fr^2}{m_1m_2}
+\]
+Force has di..."
+322,SKIPPED,1.0%,"A resisting force is written as \(F=av+bv^2\), where \(v\) is speed. The dimensions of \(a\) and \(b\), respectively, are","\( \textbf{Given equation:} \)
+\[
+F=av+bv^2
+\]
+Each term on the right must have the dimension of force \([MLT^{-2}]\).
+F..."
+323,SKIPPED,1.0%,"For a mass-spring system, \(T=2\pi\sqrt{\frac{m}{k}}\), where \(T\) is time period and \(m\) is mass. The dimensional formula of \(k\) must be","\( \textbf{Given relation:} \)
+\[
+T=2\pi\sqrt{\frac{m}{k}}
+\]
+The factor \(2\pi\) is dimensionless.
+For the expression u..."
+324,SKIPPED,1.0%,"A proposed equation is \(x=Ae^{-bt}\), where \(x\) and \(A\) are lengths and \(t\) is time. The dimensional formula of \(b\) is","\( \textbf{Given equation:} \)
+\[
+x=Ae^{-bt}
+\]
+The exponential factor \(e^{-bt}\) must be dimensionless because an expo..."
+325,SKIPPED,2.0%,"A formula sheet lists some dimension-based statements.
+<table class=""gkaim-mcq-table"">
+<tr><th>Row</th><th>Statement</th></tr>
+<tr><td>P</td><td>Arguments of \(\sin\), \(\cos\), \(e^x\), and \(\ln x\) must be dimensionless.</td></tr>
+<tr><td>Q</td><td>Only quantities with the same dimensions can be added or subtracted.</td></tr>
+<tr><td>R</td><td>A dimensionally correct equation is always a complete physical law.</td></tr>
+<tr><td>S</td><td>Dimensional analysis cannot determine pure numerical constants.</td></tr>
+</table>
+The row that needs correction is","Row P is valid because the arguments of trigonometric, exponential, and logarithmic functions must be pure numbers. Row ..."
+326,SKIPPED,2.0%,"A quantity \(Y\) is given by \(Y=\frac{E}{V}\), where \(E\) is energy and \(V\) is volume. The dimensional formula of \(Y\) is","\( \textbf{Given relation:} \)
+\[
+Y=\frac{E}{V}
+\]
+Energy has dimensional formula \([ML^2T^{-2}]\).
+Volume has dimension..."
+327,SKIPPED,2.0%,"In a graph with momentum \(p\) on the vertical axis and velocity \(v\) on the horizontal axis, the slope has the dimension of","The slope of a graph is the vertical-axis quantity divided by the horizontal-axis quantity. Here,
+\[
+\text{slope}=\frac{..."
+328,SKIPPED,1.0%,The area under a power-time graph has the dimension of,The area under a graph is found by multiplying the vertical-axis quantity by the horizontal-axis quantity. For a power-t...
+329,SKIPPED,1.0%,"A formula \(R=\frac{V}{I}\) defines resistance using potential difference \(V\) and current \(I\). If \(V\) has dimensions \([ML^2T^{-3}A^{-1}]\), the dimensional formula of \(R\) is","\( \textbf{Given relation:} \)
+\[
+R=\frac{V}{I}
+\]
+Potential difference has dimensions \([ML^2T^{-3}A^{-1}]\).
+Current h..."
+330,SKIPPED,1.0%,"A physical relation is proposed as \(Q=A+B\), where \(Q\) has dimensions \([ML^2T^{-2}]\) and \(A\) has dimensions \([ML^2T^{-2}]\). For the equation to be dimensionally meaningful, \(B\) must have dimensions","In the equation \(Q=A+B\), the terms \(A\) and \(B\) are being added. By the principle of dimensional homogeneity, quant..."
+331,SKIPPED,1.0%,"A relation has the form \(s=ut+ct^3\), where \(s\) is displacement, \(u\) is velocity, and \(t\) is time. The dimensional formula of \(c\) is","\( \textbf{Given relation:} \)
+\[
+s=ut+ct^3
+\]
+Displacement \(s\) has dimension \([L]\).
+The term \(ut\) has dimension
+\..."
+332,SKIPPED,2.0%,"A value of acceleration is \(980\,\text{cm s}^{-2}\). In \(\text{m s}^{-2}\), this is","\( \textbf{Given acceleration:} \) \(980\,\text{cm s}^{-2}\).
+Only the length unit needs conversion here because the tim..."
+333,SKIPPED,3.0%,"A volume is \(2.0\,\text{m}^3\). Its value in \(\text{cm}^3\) is","\( \textbf{Given volume:} \) \(2.0\,\text{m}^3\).
+The conversion of length is
+\[
+1\,\text{m}=100\,\text{cm}
+\]
+For volum..."
+334,SKIPPED,2.0%,"A relation is given as \(P=A\rho^x v^y\), where \(P\) is pressure, \(\rho\) is density, \(v\) is speed, and \(A\) is dimensionless. The values of \(x\) and \(y\) are","\( \textbf{Given relation:} \)
+\[
+P=A\rho^x v^y
+\]
+Pressure has dimensions \([ML^{-1}T^{-2}]\).
+Density has dimensions \..."
+335,SKIPPED,2.0%,A quantity \(Z\) has dimensions \([M^0L^0T^{-1}]\). A suitable SI unit for it is,The dimensional formula \([M^0L^0T^{-1}]\) means the quantity depends only on inverse time. A common example is frequenc...
+336,SKIPPED,4.0%,The broad role of dimensional analysis is best summarized as helping to,"Dimensional analysis connects the structure of physical quantities with their units. It helps write derived dimensions, ..."
+337,SKIPPED,2.0%,"Use the graph description below.
+<div class=""gkaim-mcq-graph-desc"">A straight-line graph is plotted with displacement \(s\) on the vertical axis and time \(t\) on the horizontal axis. The line cuts the vertical axis at \(s_0\) and has constant slope.</div>
+The unit of the intercept and the unit of the slope are respectively","The vertical-axis quantity is displacement \(s\), so the vertical intercept \(s_0\) has the same unit as displacement. T..."
+338,TAKEN,98.0%,"A vernier callipers has least count \(0.01\,\text{cm}\). For a small cylinder, the main scale reading is \(1.70\,\text{cm}\), the \(8^{\text{th}}\) vernier division coincides, and the zero error is \(-0.03\,\text{cm}\). The corrected diameter is","\( \textbf{Given data:} \) Main scale reading \(=1.70\,\text{cm}\), least count \(=0.01\,\text{cm}\), coinciding vernier..."
+339,TAKEN,98.0%,"A screw gauge has pitch \(0.5\,\text{mm}\) and \(50\) circular scale divisions. Its main scale reading is \(1.50\,\text{mm}\), the circular scale reading is \(32\), and the zero error is \(+0.02\,\text{mm}\). The corrected reading is","\( \textbf{Pitch and least count:} \) The pitch is \(0.5\,\text{mm}\), and there are \(50\) circular scale divisions.
+\[..."
+340,SKIPPED,2.0%,"A parallax experiment uses a baseline of \(5.0\,\text{m}\). The measured parallax angle is \(0.057^\circ\), and \(1^\circ\approx1.745\times10^{-2}\,\text{rad}\). The distance of the object is approximately","\( \textbf{Given data:} \) Baseline \(b=5.0\,\text{m}\), angle \(\theta=0.057^\circ\), and \(1^\circ\approx1.745\times10..."
+341,TAKEN,96.0%,"A density calculation uses \(m=50.0\pm0.5\,\text{g}\) and \(V=20.0\pm0.4\,\text{cm}^3\). The maximum percentage error in \(\rho=\frac{m}{V}\) is","\( \textbf{Given data:} \) \(m=50.0\,\text{g}\), \(\Delta m=0.5\,\text{g}\), \(V=20.0\,\text{cm}^3\), and \(\Delta V=0.4..."
+342,TAKEN,95.0%,"The sum \(12.3\,\text{cm}+0.456\,\text{cm}\) should be reported as","\( \textbf{Raw addition:} \)
+\[
+12.3\,\text{cm}+0.456\,\text{cm}=12.756\,\text{cm}
+\]
+For addition and subtraction, the ..."
+343,TAKEN,94.0%,"The value \(0.006784\,\text{m}\) rounded to three significant figures is","Leading zeros before the first non-zero digit do not count as significant figures. In \(0.006784\,\text{m}\), the signif..."
+344,TAKEN,94.0%,"A speed is calculated from \(s=125\,\text{m}\) and \(t=10.0\,\text{s}\). The calculator gives \(12.5\,\text{m s}^{-1}\). Using the multiplication-division significant-figure rule, the best reported speed is","\( \textbf{Formula:} \)
+\[
+v=\frac{s}{t}
+\]
+\( \textbf{Substitution:} \)
+\[
+v=\frac{125\,\text{m}}{10.0\,\text{s}}=12.5\..."
+345,SKIPPED,1.0%,"A relation is assumed in the form \(v=kF^a m^b s^c\), where \(v\) is speed, \(F\) is force, \(m\) is mass, \(s\) is displacement, and \(k\) is dimensionless. The powers \(a\), \(b\), and \(c\) are","\( \textbf{Assumed relation:} \)
+\[
+v=kF^a m^b s^c
+\]
+Since \(k\) is dimensionless, it does not affect dimensions.
+Use
+\..."
+346,TAKEN,92.0%,"A lab report gives the following final result for a measured length: \(L=8.436\pm0.2\,\text{cm}\). The better reported form is","The uncertainty \(0.2\,\text{cm}\) is given to the tenths place. The central value should normally be rounded to the sam..."
+347,TAKEN,98.0%,"Read the situation below and answer the question.
+<div class=""gkaim-mcq-passage"">A small metal sphere is measured using a screw gauge. The observed diameter is \(4.26\,\text{mm}\). The screw gauge has a positive zero error of \(0.03\,\text{mm}\). The corrected diameter is then used only for reporting the diameter, not for calculating volume.</div>
+The properly corrected diameter is","\( \textbf{Observed diameter:} \) \(4.26\,\text{mm}\).
+\( \textbf{Zero error:} \) \(+0.03\,\text{mm}\).
+A positive zero ..."
+348,TAKEN,96.0%,A measured quantity \(Y\) is obtained from \(Y=\frac{(a-b)c^2}{d}\). The maximum relative error in \(Y\) should be written as,"The expression has both subtraction and multiplication/division parts.
+First consider the difference \(a-b\). For subtra..."
+349,SKIPPED,1.0%,"A physical quantity has dimensions \([ML^2T^{-2}]\). Its value is \(3.0\) in a system where the units of mass, length, and time are \(\text{kg}\), \(\text{m}\), and \(\text{s}\). In a new system, the units are \(\text{g}\), \(\text{cm}\), and \(\text{s}\). The numerical value becomes","The dimensional formula \([ML^2T^{-2}]\) corresponds to energy-like quantities.
+Convert the old base units into the new ..."
+350,SKIPPED,2.0%,"A graph is plotted with \(\frac{1}{T^2}\) on the vertical axis and \(g\) on the horizontal axis, where \(T\) is time period and \(g\) is acceleration. The dimension of the slope is","The slope of a graph is vertical-axis quantity divided by horizontal-axis quantity.
+Here,
+\[
+\text{slope}=\frac{\frac{1}..."
+351,TAKEN,97.0%,"A measurement table gives two possible final reports for the same quantity.
+<table class=""gkaim-mcq-table"">
+<tr><th>Report</th><th>Value</th><th>Instrument context</th></tr>
+<tr><td>P</td><td>\(6.25\pm0.01\,\text{cm}\)</td><td>Vernier callipers with least count \(0.01\,\text{cm}\)</td></tr>
+<tr><td>Q</td><td>\(6.2500\pm0.01\,\text{cm}\)</td><td>Vernier callipers with least count \(0.01\,\text{cm}\)</td></tr>
+</table>
+The better judgement is that","The uncertainty in both reports is \(0.01\,\text{cm}\), which is at the hundredths place. The central value should norma..."
+352,TAKEN,97.0%,"A measurement record is given below.
+<div class=""gkaim-mcq-passage"">A rectangular plate has length \(l=12.0\pm0.1\,\text{cm}\) and breadth \(b=5.0\pm0.1\,\text{cm}\). Its area is calculated from \(A=lb\).</div>
+The area with maximum percentage error is best reported as","\( \textbf{Area calculation:} \)
+\[
+A=lb=(12.0\,\text{cm})(5.0\,\text{cm})=60.0\,\text{cm}^2
+\]
+For multiplication, rela..."
+353,TAKEN,98.0%,"A vernier callipers has least count \(0.01\,\text{cm}\). For a small circular disc, the main scale reading of its diameter is \(2.40\,\text{cm}\), the \(6^{\text{th}}\) vernier division coincides, and the zero error is \(+0.03\,\text{cm}\). Using \(\pi=3.14\), the area of the circular face, rounded suitably from the corrected diameter, is closest to","\( \textbf{Given data:} \) Main scale reading \(=2.40\,\text{cm}\), least count \(=0.01\,\text{cm}\), coinciding vernier..."
+354,TAKEN,98.0%,"A screw gauge has pitch \(1.0\,\text{mm}\) and \(100\) circular scale divisions. For a wire, the main scale reading is \(0.50\,\text{mm}\), the circular scale reading is \(28\), and the zero error is \(-0.03\,\text{mm}\). The corrected diameter of the wire in metres is","\( \textbf{Pitch and least count:} \) Pitch \(=1.0\,\text{mm}\), circular scale divisions \(=100\).
+\[
+\text{LC}=\frac{1..."
+355,TAKEN,96.0%,"A wire has diameter \(0.80\pm0.02\,\text{mm}\) and length \(50.0\pm0.5\,\text{cm}\). If its volume is calculated using \(V=\frac{\pi d^2l}{4}\), the maximum percentage error in \(V\) is","\( \textbf{Given data:} \) Diameter \(d=0.80\,\text{mm}\), \(\Delta d=0.02\,\text{mm}\), length \(l=50.0\,\text{cm}\), a..."
+356,TAKEN,96.0%,"A rectangular block has mass \(120.0\pm0.6\,\text{g}\), length \(5.00\pm0.02\,\text{cm}\), breadth \(4.00\pm0.02\,\text{cm}\), and height \(3.00\pm0.01\,\text{cm}\). The maximum percentage error in its density \(\rho=\frac{m}{lbh}\) is closest to","\( \textbf{Given relation:} \)
+\[
+\rho=\frac{m}{lbh}
+\]
+For products and quotients, maximum relative errors add:
+\[
+\fra..."
+357,TAKEN,96.0%,"A measured quantity is calculated using \(Y=\frac{(a-b)c^2}{d}\). Given \(a=12.0\pm0.1\,\text{cm}\), \(b=7.0\pm0.1\,\text{cm}\), \(c=2.00\pm0.02\,\text{s}\), and \(d=5.0\pm0.1\,\text{kg}\), the maximum percentage error in \(Y\) is","\( \textbf{Given expression:} \)
+\[
+Y=\frac{(a-b)c^2}{d}
+\]
+First handle the subtraction \(a-b\):
+\[
+a-b=12.0\,\text{cm}..."
+358,TAKEN,96.0%,"A pendulum experiment uses \(g=\frac{4\pi^2l}{T^2}\). If \(l=80.0\pm0.4\,\text{cm}\) and \(T=1.80\pm0.02\,\text{s}\), the maximum percentage error in \(g\) is closest to","\( \textbf{Given relation:} \)
+\[
+g=\frac{4\pi^2l}{T^2}
+\]
+The constants \(4\) and \(\pi^2\) do not contribute experimen..."
+359,SKIPPED,1.0%,"A physical quantity \(Q\) has dimensional formula \([M^1L^{-1}T^{-2}]\). Its value is \(4.0\) in SI units. Expressed in a system using \(\text{g}\), \(\text{cm}\), and \(\text{s}\), its numerical value becomes","\( \textbf{Dimensional formula:} \) \([ML^{-1}T^{-2}]\), which is pressure-like.
+Convert SI base units into CGS base uni..."
+360,SKIPPED,5.0%,"A graph is plotted with \(\frac{1}{T^2}\) on the vertical axis and \(g\) on the horizontal axis for pendulum data. The slope is measured as \(0.025\,\text{cm}^{-1}\). Expressed in \(\text{m}^{-1}\), this slope is","\( \textbf{Given slope:} \) \(0.025\,\text{cm}^{-1}\).
+The slope dimension is inverse length, so the unit conversion mus..."
+361,SKIPPED,1.0%,"A quantity \(X\) is assumed to depend on force \(F\), area \(A\), and time \(t\) as \(X=kF^aA^bt^c\), where \(k\) is dimensionless. If \(X\) has the dimensions of power, the values of \(a\), \(b\), and \(c\) are","\( \textbf{Required dimension:} \) Power has dimensional formula \([ML^2T^{-3}]\).
+The assumed relation is
+\[
+X=kF^aA^bt..."
+362,SKIPPED,60.0%,"A speed is measured as \(18.0\,\text{km h}^{-1}\) with a maximum uncertainty of \(0.2\,\text{km h}^{-1}\). Expressed in \(\text{m s}^{-1}\), the speed and uncertainty are","\( \textbf{Given speed:} \) \(18.0\pm0.2\,\text{km h}^{-1}\).
+Use
+\[
+1\,\text{km h}^{-1}=\frac{1000\,\text{m}}{3600\,\te..."
+363,SKIPPED,18.0%,"A distance is found by parallax using \(D=\frac{b}{\theta}\). The baseline is \(2.00\pm0.02\,\text{m}\), and the angle is \((4.0\pm0.1)\times10^{-4}\,\text{rad}\). The distance and maximum percentage error are approximately","\( \textbf{Given data:} \) \(b=2.00\,\text{m}\), \(\Delta b=0.02\,\text{m}\), \(\theta=4.0\times10^{-4}\,\text{rad}\), a..."
+364,TAKEN,96.0%,"A metal cube has side \(a=2.00\pm0.01\,\text{cm}\) and mass \(m=64.0\pm0.4\,\text{g}\). The maximum percentage error in its density is","\( \textbf{Density relation for cube:} \)
+\[
+\rho=\frac{m}{a^3}
+\]
+For \(m\), the percentage error is
+\[
+\frac{0.4}{64.0..."
+365,SKIPPED,1.0%,"A formula is proposed as \(R=C\rho^a\eta^b v^c\), where \(R\) is radius, \(\rho\) is density \([ML^{-3}]\), \(\eta\) has dimensions \([ML^{-1}T^{-1}]\), \(v\) is speed, and \(C\) is dimensionless. The values of \(a\), \(b\), and \(c\) are","\( \textbf{Given relation:} \)
+\[
+R=C\rho^a\eta^b v^c
+\]
+Radius has dimension \([L]\).
+Use
+\[
+[\rho]=[ML^{-3}],\quad [\e..."
+366,TAKEN,95.0%,"A reading set for a time period is \(1.82\,\text{s}\), \(1.78\,\text{s}\), \(1.80\,\text{s}\), and \(1.80\,\text{s}\). If \(g\) is calculated using \(g=\frac{4\pi^2l}{T^2}\), and \(l\) is taken as exact for this question, the approximate percentage uncertainty in \(g\) using mean absolute error in \(T\) is","\( \textbf{Time readings:} \) \(1.82\,\text{s}\), \(1.78\,\text{s}\), \(1.80\,\text{s}\), and \(1.80\,\text{s}\).
+Mean t..."
+367,TAKEN,95.0%,"A force is calculated from \(F=\frac{mv-mu}{t}\). Measurements are \(m=2.00\pm0.02\,\text{kg}\), \(u=3.0\pm0.1\,\text{m s}^{-1}\), \(v=7.0\pm0.1\,\text{m s}^{-1}\), and \(t=4.0\pm0.1\,\text{s}\). The maximum percentage error in \(F\), using maximum-error rules, is approximately","\( \textbf{Rewrite the formula:} \)
+\[
+F=\frac{m(v-u)}{t}
+\]
+First handle the subtraction:
+\[
+v-u=7.0-3.0=4.0\,\text{m s..."
+368,TAKEN,95.0%,"A pressure is calculated from a force reading \(F=25.0\pm0.5\,\text{N}\) acting on a circular area of diameter \(d=5.00\pm0.05\,\text{cm}\). Since \(p=\frac{4F}{\pi d^2}\), the maximum percentage error in \(p\) is","\( \textbf{Given relation:} \)
+\[
+p=\frac{4F}{\pi d^2}
+\]
+The constants \(4\) and \(\pi\) do not contribute measurement ..."
+369,TAKEN,98.0%,"A vernier callipers has least count \(0.01\,\text{cm}\). For a circular rod, the main scale reading of its diameter is \(1.80\,\text{cm}\), the \(9^{\text{th}}\) vernier division coincides, and the zero error is \(+0.02\,\text{cm}\). Using \(\pi=3.14\), the circumference of the rod is closest to","\( \textbf{Given data:} \) Main scale reading \(=1.80\,\text{cm}\), least count \(=0.01\,\text{cm}\), vernier coincidenc..."
+370,TAKEN,98.0%,"A screw gauge has pitch \(0.5\,\text{mm}\) and \(50\) circular scale divisions. It measures the diameter of a wire with main scale reading \(0.50\,\text{mm}\), circular scale reading \(24\), and zero error \(-0.02\,\text{mm}\). The cross-sectional area of the wire, using \(\pi=3.14\), is closest to","\( \textbf{Least count:} \)
+\[
+\text{LC}=\frac{0.5\,\text{mm}}{50}=0.01\,\text{mm}
+\]
+\( \textbf{Circular scale contribu..."
+371,SKIPPED,2.0%,"A spring constant \(k\) has SI unit \(\text{N m}^{-1}\). If \(k=25\,\text{N m}^{-1}\), its value in \(\text{dyne cm}^{-1}\) is","\( \textbf{Given value:} \) \(k=25\,\text{N m}^{-1}\).
+Use
+\[
+1\,\text{N}=10^5\,\text{dyne}
+\]
+and
+\[
+1\,\text{m}=100\,\..."
+372,TAKEN,90.0%,"A body starts from rest and covers \(s=20.0\pm0.2\,\text{m}\) in \(t=4.00\pm0.04\,\text{s}\). Using \(s=\frac{1}{2}at^2\), the acceleration and its maximum percentage error are","\( \textbf{Given data:} \) \(s=20.0\,\text{m}\), \(\Delta s=0.2\,\text{m}\), \(t=4.00\,\text{s}\), and \(\Delta t=0.04\,..."
+373,SKIPPED,12.0%,"A parallax measurement uses baseline \(b=3.00\pm0.03\,\text{m}\). The measured angle is \(0.0344^\circ\), with uncertainty \(0.0004^\circ\). Taking \(1^\circ=1.745\times10^{-2}\,\text{rad}\), the distance is approximately and the maximum percentage error is approximately","\( \textbf{Convert angle to radians:} \)
+\[
+\theta=0.0344\times1.745\times10^{-2}\,\text{rad}
+\]
+\[
+\theta\approx6.00\ti..."
+374,TAKEN,96.0%,"A cylindrical wire has length \(l=1.20\pm0.01\,\text{m}\), diameter \(d=0.50\pm0.01\,\text{mm}\), and mass \(m=2.10\pm0.02\,\text{g}\). Its density is calculated from \(\rho=\frac{4m}{\pi d^2l}\). The maximum percentage error in \(\rho\) is closest to","\( \textbf{Given relation:} \)
+\[
+\rho=\frac{4m}{\pi d^2l}
+\]
+Constants \(4\) and \(\pi\) do not contribute uncertainty...."
+375,SKIPPED,1.0%,"A quantity \(Q\) has dimensional formula \([M^2L^{-1}T^{-3}]\). Its value is \(6.0\) in a system with base units \(\text{kg}\), \(\text{m}\), and \(\text{s}\). In a new system, the base units are \(10\,\text{kg}\), \(0.01\,\text{m}\), and \(2\,\text{s}\). The new numerical value is","\( \textbf{Dimensional formula:} \) \([M^2L^{-1}T^{-3}]\).
+Let the new base units compared with old units be
+\[
+M_2=10M_..."
+376,SKIPPED,2.0%,"A formula for a time period is assumed as \(T=k m^a r^b F^c\), where \(m\) is mass, \(r\) is length, \(F\) is force, and \(k\) is dimensionless. The values of \(a\), \(b\), and \(c\) are","\( \textbf{Assumed relation:} \)
+\[
+T=k m^a r^b F^c
+\]
+Use
+\[
+[T]=[M]^a[L]^b[MLT^{-2}]^c
+\]
+\[
+[T]=[M^{a+c}L^{b+c}T^{-2c..."
+377,TAKEN,93.0%,"A sphere has diameter \(d=2.40\pm0.02\,\text{cm}\). Its volume is calculated using \(V=\frac{\pi d^3}{6}\). If \(\pi\) is treated as exact, the maximum absolute error in the volume is closest to","\( \textbf{Given data:} \) \(d=2.40\,\text{cm}\), \(\Delta d=0.02\,\text{cm}\).
+Volume:
+\[
+V=\frac{\pi d^3}{6}
+\]
+First ..."
+378,TAKEN,95.0%,"A value \(X\) is calculated from \(X=\frac{p^2q}{r^3}\). Measurements give \(p=5.00\pm0.05\), \(q=8.0\pm0.2\), and \(r=2.00\pm0.02\). The maximum percentage error in \(X\) is","\( \textbf{Given relation:} \)
+\[
+X=\frac{p^2q}{r^3}
+\]
+For powers in products and quotients, percentage errors add afte..."
+379,TAKEN,94.0%,"A stopwatch records \(40\) oscillations in \(72.0\pm0.4\,\text{s}\). The period is used in \(g=\frac{4\pi^2l}{T^2}\), with \(l=0.800\pm0.004\,\text{m}\). The maximum percentage error in \(g\) is closest to","\( \textbf{Time period from total time:} \)
+\[
+T=\frac{72.0\,\text{s}}{40}=1.80\,\text{s}
+\]
+The count \(40\) is exact, ..."
+380,TAKEN,95.0%,"A physical quantity is given by \(Z=\frac{A}{B-C}\). If \(A=20.0\pm0.2\,\text{J}\), \(B=15.0\pm0.1\,\text{m}\), and \(C=10.0\pm0.1\,\text{m}\), the maximum percentage error in \(Z\) is","\( \textbf{Given relation:} \)
+\[
+Z=\frac{A}{B-C}
+\]
+First handle the subtraction:
+\[
+B-C=15.0\,\text{m}-10.0\,\text{m}=..."
+381,TAKEN,87.0%,"A force \(F=40.0\pm0.8\,\text{N}\) acts through a displacement \(s=2.50\pm0.05\,\text{m}\) in the direction of force. The work is later divided by time \(t=5.0\pm0.1\,\text{s}\) to get power. The power and maximum percentage error are","\( \textbf{Work calculation:} \)
+\[
+W=Fs=(40.0\,\text{N})(2.50\,\text{m})=100\,\text{J}
+\]
+\( \textbf{Power calculation:..."
+382,SKIPPED,1.0%,"A quantity \(Y\) has SI unit \(\text{kg m}^2\text{s}^{-3}\text{A}^{-1}\). Its value is \(12\) in SI. If it is expressed using \(\text{g}\), \(\text{cm}\), \(\text{s}\), and \(\text{A}\), its numerical value becomes","\( \textbf{Dimensional unit form:} \)
+\[
+\text{kg m}^2\text{s}^{-3}\text{A}^{-1}
+\]
+Convert base units:
+\[
+1\,\text{kg}=..."
+383,TAKEN,95.0%,"A measured speed is obtained from two position readings and two time readings: \(v=\frac{x_2-x_1}{t_2-t_1}\). Given \(x_2=18.6\pm0.1\,\text{m}\), \(x_1=5.4\pm0.1\,\text{m}\), \(t_2=8.0\pm0.1\,\text{s}\), and \(t_1=2.0\pm0.1\,\text{s}\), the maximum percentage error in \(v\) is closest to","\( \textbf{Position difference:} \)
+\[
+x_2-x_1=18.6\,\text{m}-5.4\,\text{m}=13.2\,\text{m}
+\]
+For subtraction, absolute ..."
+384,SKIPPED,1.0%,"A dimensionally derived relation for a quantity \(R\) is \(R=kP^a\rho^bg^c\), where \(P\) is pressure, \(\rho\) is density, \(g\) is acceleration, \(R\) is length, and \(k\) is dimensionless. The powers \(a\), \(b\), and \(c\) are","\( \textbf{Assumed relation:} \)
+\[
+R=kP^a\rho^bg^c
+\]
+Use
+\[
+[R]=[L]
+\]
+\[
+[P]=[ML^{-1}T^{-2}],\quad [\rho]=[ML^{-3}],\..."
+385,TAKEN,98.0%,"A vernier callipers has least count \(0.01\,\text{cm}\). It measures the diameter of a small cylinder with main scale reading \(1.20\,\text{cm}\), \(7^{\text{th}}\) vernier division coinciding, and zero error \(+0.02\,\text{cm}\). If the cylinder length is \(4.80\,\text{cm}\), using \(\pi=3.14\), its volume is closest to","\( \textbf{Vernier reading:} \) Main scale reading \(=1.20\,\text{cm}\), least count \(=0.01\,\text{cm}\), and coincidin..."
+386,TAKEN,96.0%,"A cylinder has diameter \(d=1.25\pm0.01\,\text{cm}\) and length \(l=4.80\pm0.05\,\text{cm}\). Its volume is calculated from \(V=\frac{\pi d^2l}{4}\). The maximum percentage error in \(V\) is closest to","\( \textbf{Given relation:} \)
+\[
+V=\frac{\pi d^2l}{4}
+\]
+The constants \(\pi\) and \(4\) do not contribute experimental..."
+387,TAKEN,98.0%,"A screw gauge has pitch \(1.0\,\text{mm}\) and \(100\) circular scale divisions. A wire gives main scale reading \(0.00\,\text{mm}\), circular scale reading \(54\), and zero error \(+0.04\,\text{mm}\). If the wire length is \(2.00\,\text{m}\), the volume of the wire in \(\text{m}^3\), using \(\pi=3.14\), is closest to","\( \textbf{Least count:} \)
+\[
+\text{LC}=\frac{1.0\,\text{mm}}{100}=0.01\,\text{mm}
+\]
+\( \textbf{Observed diameter:} \)..."
+388,TAKEN,95.0%,"A speed is calculated using \(v=\frac{x_2-x_1}{t_2-t_1}\). The readings are \(x_2=42.6\pm0.1\,\text{m}\), \(x_1=18.2\pm0.1\,\text{m}\), \(t_2=9.8\pm0.1\,\text{s}\), and \(t_1=4.8\pm0.1\,\text{s}\). The speed and maximum percentage error are closest to","\( \textbf{Displacement difference:} \)
+\[
+x_2-x_1=42.6\,\text{m}-18.2\,\text{m}=24.4\,\text{m}
+\]
+For subtraction, abso..."
+389,SKIPPED,2.0%,"A physical quantity \(Q\) has dimensions \([M^1L^2T^{-3}]\). Its numerical value is \(8.0\) in a system where the base units are \(\text{kg}\), \(\text{m}\), and \(\text{s}\). If a new system uses \(500\,\text{g}\), \(20\,\text{cm}\), and \(0.5\,\text{s}\) as base units, the new numerical value of \(Q\) is","\( \textbf{Dimensional formula:} \) \([ML^2T^{-3}]\).
+Convert the new base units into old SI base units:
+\[
+M_2=500\,\te..."
+390,TAKEN,95.0%,"A quantity is calculated from \(Z=\frac{(p-q)^2r}{s^3}\). The measurements are \(p=9.0\pm0.1\), \(q=5.0\pm0.1\), \(r=12.0\pm0.3\), and \(s=2.00\pm0.02\). The maximum percentage error in \(Z\) is","\( \textbf{Given expression:} \)
+\[
+Z=\frac{(p-q)^2r}{s^3}
+\]
+First handle the subtraction:
+\[
+p-q=9.0-5.0=4.0
+\]
+For su..."
+391,TAKEN,94.0%,"A pendulum length is measured as \(l=90.0\pm0.3\,\text{cm}\). The time for \(50\) oscillations is \(95.0\pm0.5\,\text{s}\). Using \(g=\frac{4\pi^2l}{T^2}\), the maximum percentage error in \(g\) is closest to","\( \textbf{Time period:} \)
+\[
+T=\frac{95.0\,\text{s}}{50}=1.90\,\text{s}
+\]
+The count \(50\) is exact, so the percentag..."
+392,TAKEN,93.0%,"A force is obtained from \(F=\frac{m(v-u)}{t}\). The readings are \(m=1.50\pm0.03\,\text{kg}\), \(v=12.0\pm0.2\,\text{m s}^{-1}\), \(u=4.0\pm0.1\,\text{m s}^{-1}\), and \(t=2.00\pm0.05\,\text{s}\). The force and maximum percentage error are closest to","\( \textbf{Central value:} \)
+\[
+v-u=12.0-4.0=8.0\,\text{m s}^{-1}
+\]
+\[
+F=\frac{m(v-u)}{t}=\frac{(1.50)(8.0)}{2.00}\,\t..."
+393,SKIPPED,1.0%,"A quantity \(X\) is assumed to depend on energy \(E\), mass \(m\), and time \(t\) as \(X=kE^am^bt^c\), where \(k\) is dimensionless. If \(X\) has dimensions of length, the powers \(a\), \(b\), and \(c\) are","\( \textbf{Assumed relation:} \)
+\[
+X=kE^am^bt^c
+\]
+Since \(X\) has dimensions of length,
+\[
+[X]=[L]
+\]
+Energy has dimen..."
+394,TAKEN,91.0%,"A rectangular plate has \(l=8.0\pm0.1\,\text{cm}\) and \(b=5.0\pm0.1\,\text{cm}\). Its area is calculated and then converted into \(\text{m}^2\). The area and maximum absolute error in SI units are","\( \textbf{Area in \(\text{cm}^2\):} \)
+\[
+A=lb=(8.0\,\text{cm})(5.0\,\text{cm})=40.0\,\text{cm}^2
+\]
+For a product,
+\[
+..."

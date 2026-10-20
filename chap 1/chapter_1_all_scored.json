@@ -1,0 +1,67 @@
+[
+  {
+    "q_no": "1",
+    "question": "Measurement in physics means",
+    "opt_a": "writing only the name of a quantity without a value",
+    "opt_b": "replacing all quantities by the same unit",
+    "opt_c": "guessing the size of an object from its appearance",
+    "opt_d": "comparison with a chosen standard unit",
+    "correct": "D",
+    "explanation": "Measurement is the process of finding how many times a chosen standard unit is contained in a physical quantity. For example, saying a table is 2 m long means its length has been compared with the standard unit 1 m . A guess may be useful in daily life, but it is not a reliable measurement in physics. A measurement is also incomplete if it gives only a quantity name without a numerical value and unit. The standard unit makes the result understandable and repeatable for different observers.",
+    "source": "DOM",
+    "confidence_score": 0.1,
+    "is_selected": false
+  },
+  {
+    "q_no": "2",
+    "question": "The statement “a measured quantity is expressed as ______” is completed by",
+    "opt_a": "material and shape",
+    "opt_b": "value and unit",
+    "opt_c": "unit only",
+    "opt_d": "instrument name only",
+    "correct": "B",
+    "explanation": "A measured physical quantity needs both a numerical value and a unit. In symbolic form, it may be written as Q = n u , where Q is the physical quantity, n is the numerical value, and u is the unit. For instance, in 5 m , the number is 5 and the unit is m . The number alone does not tell whether the measurement is in m , cm , or another unit. The unit gives the scale with which the quantity has been compared.",
+    "source": "DOM",
+    "confidence_score": 0.14,
+    "is_selected": false
+  },
+  {
+    "q_no": "3",
+    "question": "In the statement “the length of a table is 1.2 m ”, the physical quantity being measured is",
+    "opt_a": "the word table",
+    "opt_b": "table length",
+    "opt_c": "m",
+    "opt_d": "1.2",
+    "correct": "B",
+    "explanation": "The physical quantity is the measurable property of the object, so here it is the length of the table. The number 1.2 is only the numerical value obtained after measurement. The symbol m is the unit used for comparing the length. The object itself is not the measured quantity; a property of the object is being measured. Keeping quantity, number, and unit separate prevents early confusion in measurement language.",
+    "source": "DOM",
+    "confidence_score": 0.06,
+    "is_selected": false
+  },
+  {
+    "q_no": "4",
+    "question": "A road distance is written once as 2 km and once as 2000 m . The item that remains the same in both records is the",
+    "opt_a": "selected unit size",
+    "opt_b": "written unit symbol",
+    "opt_c": "same physical distance",
+    "opt_d": "changed numerical value",
+    "correct": "C",
+    "explanation": "The same road distance is being described in both records. The numerical value changes from 2 to 2000 because km and m are different-sized units. The physical distance does not become larger just because the number becomes larger. A smaller unit gives a larger numerical value for the same quantity. This is why a measurement must always be read as number plus unit, not as number alone.",
+    "source": "DOM",
+    "confidence_score": 0.03,
+    "is_selected": false
+  },
+  {
+    "q_no": "5",
+    "question": "A measuring tape gives the width of a notebook as 18 cm . In this record, the unit is",
+    "opt_a": "width",
+    "opt_b": "cm",
+    "opt_c": "18",
+    "opt_d": "mm",
+    "correct": "B",
+    "explanation": "In 18 cm , the symbol cm is the unit used to express the measured width. The number 18 tells how many such units are counted. The word width names the physical quantity, not the unit. The notebook is the object whose property is being measured. A measurement record becomes meaningful only when the numerical value is attached to a definite unit.",
+    "source": "DOM",
+    "confidence_score": 0.13,
+    "is_selected": false
+  }
+]

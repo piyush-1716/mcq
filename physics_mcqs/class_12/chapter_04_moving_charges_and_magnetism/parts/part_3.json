@@ -1,0 +1,112 @@
+[
+  {
+    "q_no": "201",
+    "question": "A circular coil and a long straight wire carry the same current \\(I\\). The field at the centre of a single circular loop of radius \\(R\\) is compared with the field at distance \\(R\\) from the long straight wire. The ratio \\(B_{\\text{loop}}:B_{\\text{wire}}\\) is",
+    "opt_a": "\\(1:\\pi\\)",
+    "opt_b": "\\(\\pi:1\\)",
+    "opt_c": "\\(2:1\\)",
+    "opt_d": "\\(1:2\\)",
+    "correct": "B",
+    "explanation": "\\( \\textbf{Loop field at centre:} \\)\n\\[\nB_{\\text{loop}}=\\frac{\\mu_0 I}{2R}\n\\]\n\\( \\textbf{Long-wire field at distance \\(R\\):} \\)\n\\[\nB_{\\text{wire}}=\\frac{\\mu_0 I}{2\\pi R}\n\\]\n\\( \\textbf{Ratio:} \\)\n\\[\n\\frac{B_{\\text{loop}}}{B_{\\text{wire}}}=\\frac{\\mu_0 I/(2R)}{\\mu_0 I/(2\\pi R)}\n\\]\n\\( \\textbf{Cancel common factors:} \\)\n\\[\n\\frac{B_{\\text{loop}}}{B_{\\text{wire}}}=\\pi\n\\]\nSo \\(B_{\\text{loop}}:B_{\\text{wire}}=\\pi:1\\).\nThe two formulas look similar, but the long-wire result contains the extra factor \\(\\pi\\) in the denominator.\n\\( \\textbf{Final answer:} \\) The ratio is \\(\\pi:1\\).",
+    "source": "API"
+  },
+  {
+    "q_no": "202",
+    "question": "Use the graph description below.\n<div class=\"gkaim-mcq-graph-desc\">For a circular coil of fixed radius \\(R\\) and fixed number of turns \\(N\\), a graph of magnetic field at the centre \\(B\\) against current \\(I\\) is drawn.</div>\nThe graph is expected to be",
+    "opt_a": "a horizontal line through a non-zero field value",
+    "opt_b": "a rectangular hyperbola with decreasing \\(B\\)",
+    "opt_c": "a straight line through the origin",
+    "opt_d": "a parabola opening upward",
+    "correct": "C",
+    "explanation": "The magnetic field at the centre of an \\(N\\)-turn circular coil is \\(B=\\frac{\\mu_0 NI}{2R}\\). For fixed \\(N\\) and \\(R\\), all factors except \\(I\\) are constant. Thus \\(B\\propto I\\). If \\(I=0\\), the magnetic field due to the coil is also zero, so the graph passes through the origin. The straight-line nature shows that doubling current doubles the centre field.",
+    "source": "API"
+  },
+  {
+    "q_no": "203",
+    "question": "A circular loop of radius \\(R\\) carries current \\(I\\). A second loop has radius \\(2R\\) and carries current \\(4I\\). Both are single-turn loops. The ratio of centre fields \\(B_2:B_1\\) is",
+    "opt_a": "\\(1:2\\)",
+    "opt_b": "\\(2:1\\)",
+    "opt_c": "\\(1:1\\)",
+    "opt_d": "\\(4:1\\)",
+    "correct": "B",
+    "explanation": "\\( \\textbf{Centre-field relation:} \\)\n\\[\nB=\\frac{\\mu_0 I}{2R}\n\\]\n\\( \\textbf{First loop:} \\)\n\\[\nB_1=\\frac{\\mu_0 I}{2R}\n\\]\n\\( \\textbf{Second loop:} \\) The current is \\(4I\\), and the radius is \\(2R\\).\n\\[\nB_2=\\frac{\\mu_0(4I)}{2(2R)}\n\\]\n\\( \\textbf{Simplify:} \\)\n\\[\nB_2=\\frac{4\\mu_0 I}{4R}=\\frac{\\mu_0 I}{R}\n\\]\n\\( \\textbf{Compare with \\(B_1\\):} \\)\n\\[\nB_1=\\frac{\\mu_0 I}{2R}\n\\]\n\\[\n\\frac{B_2}{B_1}=2\n\\]\nThe current increase is stronger than the radius increase in this comparison.\n\\( \\textbf{Final answer:} \\) \\(B_2:B_1=2:1\\).",
+    "source": "API"
+  },
+  {
+    "q_no": "204",
+    "question": "The magnetic field on the axis of a single circular current loop of radius \\(R\\), at a distance \\(x\\) from its centre, is",
+    "opt_a": "\\(B=\\frac{\\mu_0Ix^2}{2(R^2+x^2)^{1/2}}\\)",
+    "opt_b": "\\(B=\\frac{\\mu_0I}{2\\pi x}\\)",
+    "opt_c": "\\(B=\\frac{\\mu_0IR}{2(R+x)}\\)",
+    "opt_d": "\\(B=\\frac{\\mu_0IR^2}{2(R^2+x^2)^{3/2}}\\)",
+    "correct": "D",
+    "explanation": "The magnetic field on the axis of a circular loop is \\(B=\\frac{\\mu_0IR^2}{2(R^2+x^2)^{3/2}}\\) for a single turn. The direction is along the axis of the loop, with sense decided by the current direction. The expression reduces to the centre-field formula when \\(x=0\\). The denominator contains \\((R^2+x^2)^{3/2}\\), which reflects the geometry from every element of the loop to the axial point. This result differs from the long-straight-wire formula because the geometry is circular and axial.",
+    "source": "API"
+  },
+  {
+    "q_no": "205",
+    "question": "When the axial-field expression \\(B=\\frac{\\mu_0IR^2}{2(R^2+x^2)^{3/2}}\\) is used at the centre of the loop, the value of \\(x\\) is",
+    "opt_a": "\\(R\\)",
+    "opt_b": "\\(2R\\)",
+    "opt_c": "\\(0\\)",
+    "opt_d": "\\(\\frac{R}{2}\\)",
+    "correct": "C",
+    "explanation": "The axial distance \\(x\\) is measured from the centre of the circular loop along its axis. At the centre itself, the observation point is not displaced along the axis, so \\(x=0\\). Substituting \\(x=0\\) gives \\(B=\\frac{\\mu_0IR^2}{2(R^2)^{3/2}}\\). Since \\((R^2)^{3/2}=R^3\\), the expression becomes \\(B=\\frac{\\mu_0I}{2R}\\). This confirms that the axial-field formula includes the centre-field result as a special case.",
+    "source": "API"
+  },
+  {
+    "q_no": "206",
+    "question": "For an \\(N\\)-turn circular coil, the magnetic field on the axis at distance \\(x\\) from the centre is obtained by multiplying the single-turn result by",
+    "opt_a": "\\(\\frac{1}{N}\\)",
+    "opt_b": "\\(N^2\\)",
+    "opt_c": "\\(N\\)",
+    "opt_d": "\\(\\sqrt{N}\\)",
+    "correct": "C",
+    "explanation": "If all \\(N\\) turns are closely wound and carry the same current, each turn produces the same magnetic field at the axial point. The contributions are along the same axis and in the same direction. Therefore, the resultant field is \\(N\\) times the field of a single turn. For one turn, \\(B=\\frac{\\mu_0IR^2}{2(R^2+x^2)^{3/2}}\\). For \\(N\\) turns, it becomes \\(B=\\frac{\\mu_0NIR^2}{2(R^2+x^2)^{3/2}}\\).",
+    "source": "API"
+  },
+  {
+    "q_no": "207",
+    "question": "Far away on the axis of a circular loop, where \\(x\\gg R\\), the axial magnetic field approximately varies as",
+    "opt_a": "\\(B\\propto x\\)",
+    "opt_b": "\\(B\\propto \\frac{1}{x^3}\\)",
+    "opt_c": "\\(B\\propto \\frac{1}{x}\\)",
+    "opt_d": "\\(B\\propto \\frac{1}{x^2}\\)",
+    "correct": "B",
+    "explanation": "The axial field of a circular loop is \\(B=\\frac{\\mu_0IR^2}{2(R^2+x^2)^{3/2}}\\). Far from the loop, \\(x\\gg R\\), so \\(R^2+x^2\\approx x^2\\). Then \\((R^2+x^2)^{3/2}\\approx(x^2)^{3/2}=x^3\\). The numerator \\(\\mu_0IR^2\\) is constant for a fixed loop. Hence the far axial field varies approximately as \\(\\frac{1}{x^3}\\), like the field pattern of a magnetic dipole along its axis.",
+    "source": "API"
+  },
+  {
+    "q_no": "208",
+    "question": "Use the graph description below.\n<div class=\"gkaim-mcq-graph-desc\">A graph of axial magnetic field \\(B\\) of a circular current loop is plotted against axial distance \\(x\\) from the centre. The current and radius are fixed, and both positive and negative values of \\(x\\) are considered.</div>\nThe graph is symmetric about \\(x=0\\) because",
+    "opt_a": "\\(B\\) depends directly on \\(x\\) only",
+    "opt_b": "the field becomes zero at the centre",
+    "opt_c": "current changes direction on the two sides of the loop",
+    "opt_d": "\\(B\\) depends on \\(x^2\\) in the axial-field expression",
+    "correct": "D",
+    "explanation": "The axial field magnitude is \\(B=\\frac{\\mu_0IR^2}{2(R^2+x^2)^{3/2}}\\). The distance variable appears as \\(x^2\\), so replacing \\(x\\) by \\(-x\\) gives the same magnitude. This makes the \\(B\\)-versus-\\(x\\) graph symmetric about the centre of the loop. The field is maximum at \\(x=0\\), not zero. The symmetry comes from the geometry of the circular loop, not from any reversal of current.",
+    "source": "API"
+  },
+  {
+    "q_no": "209",
+    "question": "A circular loop of radius \\(0.10\\,\\text{m}\\) carries current \\(5.0\\,\\text{A}\\). The magnetic field is required at a point on the axis \\(0.10\\,\\text{m}\\) from the centre. Taking \\(\\mu_0=4\\pi\\times10^{-7}\\,\\text{T m A}^{-1}\\), the field is",
+    "opt_a": "\\(\\frac{5\\pi}{\\sqrt{2}}\\times10^{-6}\\,\\text{T}\\)",
+    "opt_b": "\\(\\frac{25\\pi}{\\sqrt{2}}\\times10^{-6}\\,\\text{T}\\)",
+    "opt_c": "\\(\\frac{5\\pi}{2\\sqrt{2}}\\times10^{-6}\\,\\text{T}\\)",
+    "opt_d": "\\(50\\pi\\times10^{-6}\\,\\text{T}\\)",
+    "correct": "A",
+    "explanation": "\\( \\textbf{Given data:} \\) \\(R=0.10\\,\\text{m}\\), \\(x=0.10\\,\\text{m}\\), \\(I=5.0\\,\\text{A}\\), and \\(\\mu_0=4\\pi\\times10^{-7}\\,\\text{T m A}^{-1}\\).\n\\( \\textbf{Axial-field relation:} \\)\n\\[\nB=\\frac{\\mu_0IR^2}{2(R^2+x^2)^{3/2}}\n\\]\n\\( \\textbf{Square terms:} \\)\n\\[\nR^2=x^2=(0.10)^2=0.01\n\\]\n\\[\nR^2+x^2=0.02=2\\times10^{-2}\n\\]\n\\( \\textbf{Power term:} \\)\n\\[\n(R^2+x^2)^{3/2}=(2R^2)^{3/2}=2\\sqrt{2}R^3\n\\]\nbecause \\(x=R\\).\n\\( \\textbf{Use simplified form for \\(x=R\\):} \\)\n\\[\nB=\\frac{\\mu_0IR^2}{2(2\\sqrt{2}R^3)}\n\\]\n\\[\nB=\\frac{\\mu_0 I}{4\\sqrt{2}R}\n\\]\n\\( \\textbf{Substitution:} \\)\n\\[\nB=\\frac{(4\\pi\\times10^{-7})(5.0)}{4\\sqrt{2}(0.10)}\n\\]\n\\( \\textbf{Simplify:} \\)\n\\[\nB=\\frac{20\\pi\\times10^{-7}}{0.4\\sqrt{2}}\n\\]\n\\[\nB=\\frac{50\\pi\\times10^{-7}}{\\sqrt{2}}=\\frac{5\\pi\\times10^{-6}}{\\sqrt{2}}\n\\]\nThis calculated form corresponds to \\(\\frac{5\\pi}{\\sqrt{2}}\\times10^{-6}\\,\\text{T}\\), so the listed expression matching the substitution is selected.\n\\( \\textbf{Final answer:} \\) The magnetic field is \\(\\frac{5\\pi}{\\sqrt{2}}\\times10^{-6}\\,\\text{T}\\).",
+    "source": "API"
+  },
+  {
+    "q_no": "210",
+    "question": "At a point on the axis of a circular current loop, the magnetic field is maximum when the point is",
+    "opt_a": "at \\(x=0\\), the centre of the loop",
+    "opt_b": "at \\(x=R\\), one radius from centre",
+    "opt_c": "at very large \\(x\\) on the axis",
+    "opt_d": "at \\(x=2R\\), two radii from centre",
+    "correct": "A",
+    "explanation": "The axial magnetic field of a circular loop is \\(B=\\frac{\\mu_0IR^2}{2(R^2+x^2)^{3/2}}\\). For a fixed loop and fixed current, the numerator remains constant. The denominator is smallest when \\(x=0\\), which corresponds to the centre of the loop. As \\(|x|\\) increases, \\(R^2+x^2\\) increases and the magnetic field decreases. The centre is therefore the position of maximum axial field for a given circular loop.",
+    "source": "API"
+  }
+]

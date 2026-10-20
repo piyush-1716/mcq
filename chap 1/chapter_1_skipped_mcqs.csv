@@ -1,0 +1,562 @@
+﻿Q_No,Confidence,Question,Opt_A,Opt_B,Opt_C,Opt_D,Explanation
+1,13.0%,Measurement in physics means,writing only the name of a quantity without a value,replacing all quantities by the same unit,guessing the size of an object from its appearance,comparison with a chosen standard unit,Measurement is the process of finding how many times a chosen standard unit is contained in a physical quantity. For exa...
+2,14.0%,The statement “a measured quantity is expressed as ______” is completed by,material and shape,value and unit,unit only,instrument name only,"A measured physical quantity needs both a numerical value and a unit. In symbolic form, it may be written as Q = n u , w..."
+3,5.0%,"In the statement “the length of a table is 1.2 m ”, the physical quantity being measured is",the word table,table length,m,1.2,"The physical quantity is the measurable property of the object, so here it is the length of the table. The number 1.2 is..."
+4,3.0%,A road distance is written once as 2 km and once as 2000 m . The item that remains the same in both records is the,selected unit size,written unit symbol,same physical distance,changed numerical value,The same road distance is being described in both records. The numerical value changes from 2 to 2000 because km and m a...
+5,10.0%,"A measuring tape gives the width of a notebook as 18 cm . In this record, the unit is",width,cm,18,mm,"In 18 cm , the symbol cm is the unit used to express the measured width. The number 18 tells how many such units are cou..."
+6,4.0%,Standard units are needed mainly because they,make every numerical value equal to 1,allow measurements to be compared reliably,make all physical quantities dimensionless,remove the need for instruments,"A standard unit provides a common reference for measurement. If different people use different personal units, their res..."
+7,30.0%,Two people measure the same stick using their own handspans and obtain different numbers. The best explanation is that,length cannot be measured directly,every measurement must have the same number,handspan is not a reproducible standard unit,the stick changed length during measurement,"A handspan varies from person to person, so it is not a fixed standard unit. The stick may have the same physical length..."
+8,2.0%,The pair that shows a physical quantity followed by a suitable unit is,mass — kg m − 3,length — s,time — kg,volume — m 3,"Volume measures the space occupied by a body, and m 3 is a suitable unit for volume. The unit m is used for length, not ..."
+9,3.0%,A floor area is reported as 12 m 2 . This record shows that,area and length are the same quantity,the unit m 2 measures time,the number 12 alone is the complete measurement,area is expressed using a square unit,"Area measures the extent of a surface, so its unit is built from length multiplied by length. In SI-based notation, this..."
+10,14.0%,"A bottle label gives volume 750 cm 3 , a package gives mass 0.50 kg , and a stopwatch gives time 30 s . These records all show that measured quantities are written with",a shape and a material,only an instrument reading,only a unit name,a number and a unit,"Each record combines a numerical value with a unit. The volume has 750 with cm 3 , the mass has 0.50 with kg , and the t..."
+11,6.0%,A physical quantity is best described as a property that can be,measured with value and unit,named without any comparison,memorised without measurement,changed into a unit symbol,"A physical quantity is a measurable property such as length, mass, time, area, volume, or speed. Measurement gives a num..."
+12,2.0%,The group containing only fundamental physical quantities from the usual mechanics starting set is,"speed, area, density","force, volume, energy","length, mass, time","acceleration, pressure, work","Length, mass, and time are fundamental quantities in the usual beginning treatment of mechanics. They are not defined in..."
+13,2.0%,Speed is treated as a derived quantity because it is obtained from,mass and temperature,luminous intensity and amount of substance,current and time,length and time,Speed describes how much distance or length is covered per unit time. Its basic relation is v = distance time . Since it...
+14,2.0%,Match the introductory symbols with the quantities they usually represent. Symbol Quantity P. l 1. Time Q. m 2. Speed R. t 3. Length S. v 4. Mass The matching that fits the usual notation is,"P-4, Q-3, R-1, S-2","P-3, Q-4, R-1, S-2","P-2, Q-4, R-1, S-3","P-3, Q-1, R-4, S-2","The symbol l commonly represents length in elementary measurement contexts. The symbol m is commonly used for mass, whil..."
+15,37.0%,Consider the following statements.,I only,"I, II and III",II only,I and II only,"Statement I is valid because length, mass, and time are taken as fundamental quantities in the usual mechanics foundatio..."
+16,4.0%,A record gives density using the relation ρ = m V . This relation shows that density is,a derived quantity formed from mass and volume,a unit without a physical quantity,a fundamental quantity independent of other quantities,only a numerical value with no unit,"The relation ρ = m V defines density as mass per unit volume. Since density is obtained by combining mass and volume, it..."
+17,5.0%,A unit is best understood as,the name of the instrument used in measurement,the numerical value written before a quantity,any word written after a number,a standard used for measuring,"A unit is a fixed standard chosen for comparison with a physical quantity. When a length is measured in m , the metre is..."
+18,9.0%,Complete the statement: A physical quantity Q expressed as Q = n u has n as the ______ and u as the ______.,"error, reading","instrument, standard","numerical value, unit","unit, numerical value","In the expression Q = n u , Q represents the physical quantity being measured. The symbol n gives the numerical value, m..."
+19,4.0%,A length is first written as 3 m and then as 300 cm . The change from 3 to 300 happens because,the measurement lost its unit,m is a smaller unit than cm,cm is a smaller unit than m,the length has physically increased,"The physical length is the same in both records. Since 1 m = 100 cm , the unit cm is smaller than the unit m . A smaller..."
+20,4.0%,"A laboratory note says, “The mass of the object is 0.25 kg .” If the same mass is expressed in g , the numerical value becomes",25,250,0.025,2.5,Given quantity: Mass = 0.25 kg . Required: The numerical value when the unit is changed from kg to g . Unit relation: 1 ...
+21,9.0%,"A measurement record uses \(Q=n u\). If the unit \(u\) is replaced by a unit \(u'\) that is twice as large, the new numerical value for the same \(Q\) becomes",\(\frac{n}{2}\),\(\frac{2}{n}\),\(n+2\),\(2n\),"\( \textbf{Starting relation:} \) The same physical quantity is written as \(Q=n u\).
+\( \textbf{Changed unit:} \) The n..."
+22,3.0%,"A distance of \(5000\,\text{m}\) is rewritten as \(5\,\text{km}\). This is an example of",changing the physical distance,changing only the unit of the same distance,removing the unit from the measurement,changing both the quantity and its dimension,"The distance \(5000\,\text{m}\) and \(5\,\text{km}\) represent the same physical length. The change occurs because \(1\,..."
+23,6.0%,"The expression \(7.5\,\text{s}\) is meaningful as a measurement because",\(\text{s}\) is written after the number,a value with a defined time unit,\(7.5\) is a decimal number,any symbol after a number makes a standard unit,"The measurement \(7.5\,\text{s}\) gives both a numerical value and a unit. The unit \(\text{s}\) is a defined standard f..."
+24,4.0%,"A claim says, “The value \(120\) is always larger than \(2\), so \(120\,\text{cm}\) is longer than \(2\,\text{m}\).” The flaw in the claim is that it compares",two identical unit symbols,a derived quantity with a fundamental quantity,mass with time,only numerical values without converting units,"The claim compares \(120\) and \(2\) without considering that the units are different. Since \(1\,\text{m}=100\,\text{cm..."
+25,3.0%,The International System of Units is commonly abbreviated as,\(\text{FPS}\),\(\text{SI}\),\(\text{MKS}\),\(\text{CGS}\),"The International System of Units is abbreviated as \(\text{SI}\), from the French name of the system. It provides inter..."
+26,2.0%,The SI base unit of thermodynamic temperature is,\(\text{mol}\),\(\text{cd}\),\(\text{K}\),\(\text{A}\),"Thermodynamic temperature is one of the seven SI base quantities. Its SI base unit is kelvin, written with the unit symb..."
+27,2.0%,"Match each SI base quantity with its base unit.
+<table class=""gkaim-mcq-table"">
+<tr><th>Quantity</th><th>Base unit</th></tr>
+<tr><td>P. Length</td><td>1. \(\text{kg}\)</td></tr>
+<tr><td>Q. Mass</td><td>2. \(\text{s}\)</td></tr>
+<tr><td>R. Time</td><td>3. \(\text{m}\)</td></tr>
+<tr><td>S. Electric current</td><td>4. \(\text{A}\)</td></tr>
+</table>
+The suitable matching is","P-4, Q-1, R-2, S-3","P-3, Q-1, R-2, S-4","P-1, Q-3, R-2, S-4","P-3, Q-2, R-1, S-4","Length has the SI base unit metre, written as \(\text{m}\). Mass has the SI base unit kilogram, written as \(\text{kg}\)..."
+28,2.0%,"In a formula sheet, \(m\) is used for mass and \(\text{m}\) is used for metre. The difference between these two symbols is that","\(m\) is the SI unit of mass, while \(\text{m}\) is the SI unit of time",both are unit symbols with the same meaning,"\(m\) is usually a quantity symbol, while \(\text{m}\) is a unit symbol",both must always represent length,"In physics notation, the italic-style symbol \(m\) commonly represents the quantity mass. The roman unit symbol \(\text{..."
+29,2.0%,"A table lists some SI base-unit symbols.
+<table class=""gkaim-mcq-table"">
+<tr><th>Quantity</th><th>Recorded unit symbol</th></tr>
+<tr><td>P. Length</td><td>\(\text{m}\)</td></tr>
+<tr><td>Q. Mass</td><td>\(\text{kg}\)</td></tr>
+<tr><td>R. Time</td><td>\(\text{s}\)</td></tr>
+<tr><td>S. Luminous intensity</td><td>\(\text{mol}\)</td></tr>
+</table>
+The row that needs repair is",Q,R,S,P,"Length, mass, and time are correctly paired with \(\text{m}\), \(\text{kg}\), and \(\text{s}\), respectively. Luminous i..."
+30,1.0%,"Consider the following statements about SI base quantities.
+I. Amount of substance has the unit \(\text{mol}\).
+II. Luminous intensity has the unit \(\text{cd}\).
+III. Electric current has the unit \(\text{K}\).
+The valid statements are",I and II only,I and III only,II and III only,"I, II and III","Amount of substance is an SI base quantity and its unit is mole, written as \(\text{mol}\). Luminous intensity is also a..."
+31,2.0%,"A measurement note records a temperature as \(300\,\text{K}\) and a current as \(2\,\text{A}\). The unit symbols show that",both quantities are measured in the same base unit,only temperature is a measurable physical quantity,\(\text{K}\) is for current and \(\text{A}\) is for temperature,temperature and current are different SI base quantities,Thermodynamic temperature and electric current are two different SI base quantities. Their SI base units are \(\text{K}\...
+32,3.0%,The unit record that keeps quantity symbol and unit symbol roles separated is,"\(t=5\,\text{s}\)","\(5=t\,\text{s}\)","\(\text{s}=5\,t\)","\(\text{t}=5\,s\)","The record \(t=5\,\text{s}\) uses \(t\) as the quantity symbol for time and \(\text{s}\) as the SI unit symbol for secon..."
+33,2.0%,A quantity obtained by combining base quantities according to a defining relation is called,a base unit,a counting number,a standard prefix,derived quantity,"A derived quantity is formed from one or more base quantities through a physical definition or formula. For example, are..."
+34,2.0%,The unit of area is written as \(\text{m}^2\) because area is formed by,adding two lengths,dividing length by time,multiplying two lengths,multiplying mass by length,"Area measures the extent of a surface, and for a rectangle it is found using length multiplied by breadth. Both length a..."
+35,2.0%,The unit that naturally represents volume in SI is,\(\text{kg m}^{-3}\),\(\text{m}\),\(\text{m}^3\),\(\text{m}^2\),"Volume measures the space occupied by a body in three dimensions. For a cuboid, volume is obtained as length \(\times\) ..."
+36,2.0%,"The expression for speed becomes meaningful in SI when the blank is filled as \(v=\frac{\text{distance}}{\text{time}}\), so the unit is ______.",\(\text{m}^2\text{s}^{-1}\),\(\text{kg m s}^{-1}\),\(\text{m s}\),\(\text{m s}^{-1}\),"Speed is distance travelled per unit time. In SI, distance is measured in \(\text{m}\) and time is measured in \(\text{s..."
+37,1.0%,"A car covers \(180\,\text{m}\) in \(12\,\text{s}\). Its average speed in SI unit is","\(15\,\text{m s}^{-1}\)","\(12\,\text{m s}^{-1}\)","\(20\,\text{m s}^{-1}\)","\(18\,\text{m s}^{-1}\)","\( \textbf{Given data:} \) Distance \(=180\,\text{m}\), time \(=12\,\text{s}\).
+\( \textbf{Required quantity:} \) Averag..."
+38,1.0%,Acceleration has the SI unit \(\text{m s}^{-2}\) because it describes change in,velocity per unit time,energy per unit time,distance per unit mass,force per unit area,"Acceleration is the rate of change of velocity with time. Velocity has the unit \(\text{m s}^{-1}\), and dividing it by ..."
+39,1.0%,"A velocity changes from \(4\,\text{m s}^{-1}\) to \(16\,\text{m s}^{-1}\) in \(6\,\text{s}\). The acceleration and its unit are","\(3\,\text{m s}^{-2}\)","\(20\,\text{m s}^{-2}\)","\(2\,\text{m s}^{-2}\)","\(12\,\text{m s}^{-2}\)","\( \textbf{Given data:} \) Initial velocity \(u=4\,\text{m s}^{-1}\), final velocity \(v=16\,\text{m s}^{-1}\), time \(t..."
+40,2.0%,"In SI, the unit \(\text{kg m s}^{-2}\) is given the special name",watt,pascal,joule,newton,"Force is related to mass and acceleration by \(F=ma\). In SI, mass has unit \(\text{kg}\) and acceleration has unit \(\t..."
+41,1.0%,"Using \(F=ma\), the SI unit of force is obtained as",\(\text{kg m}^2\text{s}^{-2}\),\(\text{kg m s}^{-1}\),\(\text{kg m}^{-1}\text{s}^{-2}\),\(\text{kg m s}^{-2}\),"\( \textbf{Formula used:} \) \(F=ma\).
+\( \textbf{Unit of mass:} \) \(m\) as mass is measured in \(\text{kg}\).
+\( \text..."
+42,1.0%,"A force of \(10\,\text{N}\) moves a body through \(3\,\text{m}\) in the direction of force. The work done is expressed in","\(\text{N s}\), equivalent to \(\text{W}\)","\(\text{N m}\), equivalent to \(\text{J}\)","\(\text{kg m s}^{-2}\), equivalent to \(\text{Pa}\)","\(\text{m s}^{-1}\), equivalent to \(\text{N}\)","Work is measured by multiplying force by displacement in the direction of force. The unit of force is \(\text{N}\), and ..."
+43,1.0%,"The SI base-unit form of \(1\,\text{J}\) is","\(1\,\text{kg m}^2\text{s}^{-2}\)","\(1\,\text{kg m}^{-1}\text{s}^{-2}\)","\(1\,\text{kg m}^2\text{s}^{-3}\)","\(1\,\text{kg m s}^{-2}\)","\( \textbf{Starting unit:} \) \(1\,\text{J}=1\,\text{N m}\).
+\( \textbf{Unit of newton:} \)
+\[
+1\,\text{N}=1\,\text{kg m..."
+44,1.0%,Power is work done per unit time. Its SI unit is,\(\text{kg m s}^{-2}\),\(\text{N m}^{-1}\),\(\text{J s}\),\(\text{J s}^{-1}\),Power measures the rate at which work is done or energy is transferred. Since work has unit \(\text{J}\) and time has un...
+45,1.0%,"A machine does \(600\,\text{J}\) of work in \(20\,\text{s}\). The power developed is","\(20\,\text{W}\)","\(60\,\text{W}\)","\(40\,\text{W}\)","\(30\,\text{W}\)","\( \textbf{Given data:} \) Work done \(W=600\,\text{J}\), time \(t=20\,\text{s}\).
+\( \textbf{Required quantity:} \) Pow..."
+46,2.0%,Pressure is force per unit area. Its SI unit in base-unit form is,\(\text{kg m}^{-1}\text{s}^{-2}\),\(\text{kg m}^{1}\text{s}^{-2}\),\(\text{kg m}^{-2}\text{s}^{-2}\),\(\text{kg m}^{2}\text{s}^{-2}\),"\( \textbf{Definition:} \) Pressure is force divided by area.
+\( \textbf{Symbolic relation:} \)
+\[
+p=\frac{F}{A}
+\]
+\( \..."
+47,1.0%,"A table of derived units is given below.
+<table class=""gkaim-mcq-table"">
+<tr><th>Row</th><th>Quantity</th><th>SI derived unit</th></tr>
+<tr><td>P</td><td>Speed</td><td>\(\text{m s}^{-1}\)</td></tr>
+<tr><td>Q</td><td>Acceleration</td><td>\(\text{m s}^{-2}\)</td></tr>
+<tr><td>R</td><td>Force</td><td>\(\text{kg m s}^{-2}\)</td></tr>
+<tr><td>S</td><td>Pressure</td><td>\(\text{kg m}^2\text{s}^{-2}\)</td></tr>
+</table>
+The row that needs repair is",R,S,Q,P,"Speed has the SI unit \(\text{m s}^{-1}\), so row P is suitable. Acceleration has the SI unit \(\text{m s}^{-2}\), so ro..."
+48,1.0%,"A formula card contains the following derived-unit links.
+I. \(1\,\text{N}=1\,\text{kg m s}^{-2}\)
+II. \(1\,\text{J}=1\,\text{N m}\)
+III. \(1\,\text{W}=1\,\text{J s}^{-1}\)
+IV. \(1\,\text{Pa}=1\,\text{N m}^{2}\)
+The links that are valid are","I, III and IV only",II and IV only,I and IV only,"I, II and III only","A newton is the SI derived unit of force, and \(1\,\text{N}=1\,\text{kg m s}^{-2}\). A joule is the unit of work or ener..."
+49,3.0%,Plane angle in radian measure is defined as the ratio of,arc length to radius,area to radius,circumference to area,radius to diameter,Plane angle in radians is defined by comparing the arc length with the radius of the circle. If an arc of length \(s\) s...
+50,2.0%,"An arc of length \(2.0\,\text{m}\) is cut from a circle of radius \(4.0\,\text{m}\). The angle subtended at the centre is","\(0.50\,\text{rad}\)","\(4.0\,\text{rad}\)","\(2.0\,\text{rad}\)","\(8.0\,\text{rad}\)","\( \textbf{Given data:} \) Arc length \(s=2.0\,\text{m}\), radius \(r=4.0\,\text{m}\).
+\( \textbf{Required quantity:} \)..."
+51,2.0%,The unit steradian is associated with the measurement of,solid angle,luminous intensity,length,pressure,"Steradian is the unit used for solid angle. A plane angle describes opening in a plane, while a solid angle describes sp..."
+52,2.0%,"Assertion: An angle measured in radians is dimensionless.
+Reason: In \(\theta=\frac{s}{r}\), both \(s\) and \(r\) have the dimension of length.","Assertion is true, but Reason is false","Both Assertion and Reason are true, and Reason explains Assertion","Assertion is false, but Reason is true","Both Assertion and Reason are true, but Reason does not explain Assertion",The assertion is true because an angle in radians is obtained from a ratio of two lengths. In the relation \(\theta=\fra...
+53,2.0%,"A formula uses an angular displacement written as \(3\,\text{rad}\). The best interpretation of \(\text{rad}\) in this record is that it",makes angle have the dimension of time,gives angle a separate base dimension,changes angular measure into a length,identifies a dimensionless angular ratio,"A radian does not introduce an additional base dimension. It is connected with the ratio \(\frac{s}{r}\), where both \(s..."
+54,1.0%,"A circular track has radius \(10\,\text{m}\). A marker moves through an angle of \(0.40\,\text{rad}\) at the centre. The arc length covered is","\(25\,\text{m}\)","\(0.040\,\text{m}\)","\(4.0\,\text{m}\)","\(0.40\,\text{m}\)","\( \textbf{Known values:} \) Radius \(r=10\,\text{m}\), angle \(\theta=0.40\,\text{rad}\).
+\( \textbf{Required quantity:..."
+55,2.0%,The prefix \(\text{kilo}\) in SI notation represents the factor,\(10^3\),\(10^6\),\(10^{-3}\),\(10^{-6}\),"The prefix \(\text{kilo}\) means \(10^3\), or one thousand times the base unit. Thus \(1\,\text{km}=10^3\,\text{m}\) and..."
+56,2.0%,"A length of \(6.5\,\text{km}\) is equal to","\(6.5\times10^6\,\text{m}\)","\(6.5\times10^{-3}\,\text{m}\)","\(6.5\times10^2\,\text{m}\)","\(6.5\times10^3\,\text{m}\)","\( \textbf{Given measurement:} \) \(6.5\,\text{km}\).
+\( \textbf{Prefix meaning:} \) \(\text{kilo}=10^3\).
+So,
+\[
+1\,\te..."
+57,3.0%,The symbol \(\mu\) used in \(\mu\text{m}\) represents,\(10^{-3}\),\(10^{-6}\),\(10^{-9}\),\(10^6\),"The prefix symbol \(\mu\) represents micro, which means \(10^{-6}\). Therefore \(1\,\mu\text{m}=10^{-6}\,\text{m}\). The..."
+58,4.0%,"A wire has diameter \(0.25\,\text{mm}\). Expressed in metres, this diameter is","\(2.5\times10^{4}\,\text{m}\)","\(2.5\times10^{-3}\,\text{m}\)","\(2.5\times10^{-5}\,\text{m}\)","\(2.5\times10^{-4}\,\text{m}\)","\( \textbf{Given value:} \) Diameter \(=0.25\,\text{mm}\).
+\( \textbf{Prefix relation:} \) \(\text{milli}=10^{-3}\), so ..."
+59,3.0%,"A data sheet writes \(4.0\,\text{MW}\) for power. The prefix \(\text{M}\) in this record means",\(10^{-3}\),\(10^3\),\(10^6\),\(10^{-6}\),"The prefix symbol \(\text{M}\) represents mega, which means \(10^6\). Therefore \(4.0\,\text{MW}=4.0\times10^6\,\text{W}..."
+60,2.0%,The pair of conversions that is consistent with SI prefixes is,"\(1\,\text{mm}=10^3\,\text{m}\) and \(1\,\text{nm}=10^{-9}\,\text{m}\)","\(1\,\text{mm}=10^{-6}\,\text{m}\) and \(1\,\text{nm}=10^{-3}\,\text{m}\)","\(1\,\text{mm}=10^6\,\text{m}\) and \(1\,\text{nm}=10^9\,\text{m}\)","\(1\,\text{mm}=10^{-3}\,\text{m}\) and \(1\,\text{nm}=10^{-9}\,\text{m}\)","The prefix \(\text{milli}\) means \(10^{-3}\), so \(1\,\text{mm}=10^{-3}\,\text{m}\). The prefix \(\text{nano}\) means \..."
+61,5.0%,"A measurement is changed from \(3.0\,\text{m}\) to \(\text{mm}\). The new numerical value is",\(3.0\times10^3\),\(3.0\times10^{-3}\),\(3.0\),\(3.0\times10^2\),"\( \textbf{Original measurement:} \) \(3.0\,\text{m}\).
+\( \textbf{Relation between units:} \) \(1\,\text{mm}=10^{-3}\,\..."
+62,5.0%,"A length is \(750\,\mu\text{m}\). Its value in \(\text{mm}\) is","\(0.075\,\text{mm}\)","\(0.75\,\text{mm}\)","\(7.50\,\text{mm}\)","\(75.0\,\text{mm}\)","\( \textbf{Given value:} \) \(750\,\mu\text{m}\).
+\( \textbf{Prefix meanings:} \) \(1\,\mu\text{m}=10^{-6}\,\text{m}\) a..."
+63,2.0%,"A compact memory line for common prefixes is \(\text{kilo}=10^3\), \(\text{milli}=10^{-3}\), and \(\text{micro}=10^{-6}\). The missing entry in \(\text{giga}=\,\_\_\_\_\) is",\(10^6\),\(10^9\),\(10^{-9}\),\(10^{-6}\),"The prefix \(\text{giga}\) represents \(10^9\). It is used for very large quantities, such as \(1\,\text{GHz}=10^9\,\tex..."
+64,3.0%,"A prefix record shows the following entries.
+<table class=""gkaim-mcq-table"">
+<tr><th>Record</th><th>Prefix symbol</th><th>Power of ten</th></tr>
+<tr><td>P</td><td>\(\text{k}\)</td><td>\(10^3\)</td></tr>
+<tr><td>Q</td><td>\(\text{m}\)</td><td>\(10^{-3}\)</td></tr>
+<tr><td>R</td><td>\(\mu\)</td><td>\(10^{-6}\)</td></tr>
+<tr><td>S</td><td>\(\text{M}\)</td><td>\(10^{-3}\)</td></tr>
+</table>
+The entry that needs correction is",S,R,P,Q,"The prefix symbol \(\text{k}\) stands for kilo, so \(10^3\) is correct. The prefix symbol \(\text{m}\) stands for milli,..."
+65,3.0%,The unit symbol for a measured length of five metres should be written as,"\(5\,\text{m.}\)","\(5\,\text{M}\)","\(5\,\text{ms}\)","\(5\,\text{m}\)","The SI unit symbol for metre is \(\text{m}\). Unit symbols are not made plural, so the symbol remains \(\text{m}\) even ..."
+66,8.0%,"A practical notebook records a mass as \(2.0\,\text{kgs}\). The notation should be repaired as","\(2.0\,\text{kg}\)","\(2.0\,\text{KG}\)","\(2.0\,\text{kg.}\)","\(2.0\,\text{Kg}\)","The SI unit symbol for kilogram is \(\text{kg}\). Unit symbols do not take a plural \(\text{s}\), so \(\text{kgs}\) is n..."
+67,2.0%,"The notation \(12\,\text{m s}^{-1}\) represents",\(12\) seconds per metre,\(12\) metre-second,\(12\) metres per second,\(12\) metre per square second,"The factor \(\text{s}^{-1}\) means division by \(\text{s}\), or “per second.” Therefore \(12\,\text{m s}^{-1}\) means \(..."
+68,3.0%,The symbol pair \(\text{m}\) and \(\text{M}\) must not be interchanged because,\(\text{m}\) and \(\text{M}\) always mean the same unit,unit symbols are not case-sensitive,SI notation treats letter case as meaningful,uppercase symbols are always used for base units,"SI symbols are case-sensitive, so changing lowercase to uppercase can change the meaning. The lowercase \(\text{m}\) is ..."
+69,2.0%,"A force multiplied by displacement may be written as \(20\,\text{N m}\). In this unit record, \(\text{N m}\) means",\(\text{N}\) raised to the power \(\text{m}\),\(\text{N}\) multiplied by \(\text{m}\),\(\text{N}\) divided by \(\text{m}\),a plural form of \(\text{N}\),A space between unit symbols in a compound unit usually represents multiplication. Thus \(\text{N m}\) means newton mult...
+70,2.0%,"The record \(8\,\text{m/s}\) is rewritten using negative powers as","\(8\,\text{s m}^{-1}\)","\(8\,\text{m}^{-1}\text{s}\)","\(8\,\text{m s}\)","\(8\,\text{m s}^{-1}\)","\( \textbf{Given unit form:} \) \(\text{m/s}\).
+\( \textbf{Meaning of slash:} \) The slash means metre divided by second..."
+71,6.0%,"A measurement label shows \(25\text{kg}\) without spacing. In standard writing, it is better written as","\(25\,\text{kgs}\)","\(25\,\text{kg}\)","\(\text{kg}\,25\)",\(25\text{ kg.}\),"In a measurement record, a space is normally kept between the numerical value and the unit symbol. Thus \(25\,\text{kg}\..."
+72,2.0%,"A unit line reads: \(1\,\text{W}=1\,\text{J}/\text{s}\). The same relation in compact SI power notation is","\(1\,\text{W}=1\,\text{J}^{-1}\text{s}\)","\(1\,\text{W}=1\,\text{J s}^{-1}\)","\(1\,\text{W}=1\,\text{J s}\)","\(1\,\text{W}=1\,\text{s J}^{-1}\)","\( \textbf{Starting relation:} \) \(1\,\text{W}=1\,\text{J}/\text{s}\).
+The slash shows division by time.
+Using negative..."
+73,5.0%,"Scientific notation expresses \(4\,500\,000\,\text{m}\) as","\(45\times10^6\,\text{m}\)","\(4.5\times10^{-6}\,\text{m}\)","\(0.45\times10^6\,\text{m}\)","\(4.5\times10^6\,\text{m}\)",Scientific notation writes a number as a coefficient between \(1\) and \(10\) multiplied by a power of \(10\). Moving th...
+74,8.0%,"A small length is written as \(0.000\,032\,\text{m}\). Its scientific notation is","\(3.2\times10^{-5}\,\text{m}\)","\(32\times10^{-5}\,\text{m}\)","\(0.32\times10^{-5}\,\text{m}\)","\(3.2\times10^5\,\text{m}\)","\( \textbf{Given value:} \) \(0.000\,032\,\text{m}\).
+Scientific notation needs a coefficient from \(1\) up to but not i..."
+75,3.0%,"For a rough scale comparison, \(7.8\times10^3\,\text{kg}\) is closest to the order of magnitude","\(10^5\,\text{kg}\)","\(10^4\,\text{kg}\)","\(10^2\,\text{kg}\)","\(10^3\,\text{kg}\)",Order of magnitude means the nearest power of \(10\) used for a rough scale estimate. The number \(7.8\times10^3\) lies ...
+76,3.0%,"A distance record gives the radius of Earth as approximately \(6.4\times10^6\,\text{m}\). Its order of magnitude is best taken as","\(10^6\,\text{m}\)","\(10^7\,\text{m}\)","\(10^8\,\text{m}\)","\(10^5\,\text{m}\)","\( \textbf{Given value:} \) \(6.4\times10^6\,\text{m}\).
+For nearest-power order of magnitude, compare the coefficient \..."
+77,9.0%,The statement that best describes why scientific notation is useful in measurements is,it writes extreme values compactly,it changes an approximate value into an exact value,it makes every physical quantity dimensionless,it removes the need for units,"Scientific notation uses powers of \(10\) to write very large or very small numbers in a compact form. For example, \(0...."
+78,2.0%,"A nucleus has a typical radius of about \(10^{-15}\,\text{m}\), while an atom has a typical radius of about \(10^{-10}\,\text{m}\). The atom is larger by a factor of about",\(10^{-25}\),\(10^{-5}\),\(10^5\),\(10^{25}\),"\( \textbf{Given scales:} \) Atomic radius \(\approx10^{-10}\,\text{m}\), nuclear radius \(\approx10^{-15}\,\text{m}\).
+..."
+79,3.0%,"A time interval of \(3.0\times10^{-9}\,\text{s}\) is compared with \(3.0\times10^{-6}\,\text{s}\). The second interval is",\(10^3\) times the first,\(10^{-3}\) times the first,\(10^6\) times the first,equal to the first,"\( \textbf{First interval:} \) \(t_1=3.0\times10^{-9}\,\text{s}\).
+\( \textbf{Second interval:} \) \(t_2=3.0\times10^{-6..."
+80,2.0%,A scale list is arranged from smaller to larger length as,"\(10^7\,\text{m}\), \(10^3\,\text{m}\), \(10^{-10}\,\text{m}\), \(10^{-15}\,\text{m}\)","\(10^{-10}\,\text{m}\), \(10^{-15}\,\text{m}\), \(10^3\,\text{m}\), \(10^7\,\text{m}\)","\(10^{-15}\,\text{m}\), \(10^{-10}\,\text{m}\), \(10^3\,\text{m}\), \(10^7\,\text{m}\)","\(10^{-15}\,\text{m}\), \(10^3\,\text{m}\), \(10^{-10}\,\text{m}\), \(10^7\,\text{m}\)","Powers of \(10\) can be compared directly when the same unit is used. Among negative powers, \(10^{-15}\) is smaller tha..."
+81,18.0%,A metre scale is most suitable for measuring,the distance between Earth and a star,the length of a classroom table,the thickness of a single paper sheet with high precision,the diameter of an atom,A metre scale is suitable for ordinary lengths that can be placed along the scale directly. The length of a classroom ta...
+84,66.0%,"For estimating the thickness of one sheet of paper using an ordinary scale, a better method is to",use only the printed page number as the thickness,measure a stack and divide by the number of sheets,fold the scale and compare it with the sheet,measure one sheet directly and ignore the least count,A single sheet of paper is usually too thin to be measured accurately by an ordinary scale. Measuring many sheets togeth...
+85,19.0%,"A stack of \(80\) identical sheets has a total thickness of \(8.0\,\text{mm}\). The thickness of one sheet is","\(0.80\,\text{mm}\)","\(0.10\,\text{mm}\)","\(10\,\text{mm}\)","\(0.010\,\text{mm}\)","\( \textbf{Given data:} \) Number of sheets \(=80\), total thickness \(=8.0\,\text{mm}\).
+\( \textbf{Required quantity:}..."
+86,28.0%,A measuring tape is preferred over a metre scale for measuring the length of a curved boundary because,a tape always removes all measurement errors,it can follow the curved boundary,a metre scale cannot measure any length,a tape has no least count,A flexible measuring tape can be placed along a curved boundary more conveniently than a rigid metre scale. The tape sti...
+87,19.0%,"The instrument choice that best matches the measurement task is
+<table class=""gkaim-mcq-table"">
+<tr><th>Task</th><th>Suitable method or instrument</th></tr>
+<tr><td>P. Length of a notebook</td><td>Metre scale or ruler</td></tr>
+<tr><td>Q. Thickness of one thin paper sheet</td><td>Measure many sheets and divide</td></tr>
+<tr><td>R. Circumference of a circular pipe</td><td>Flexible measuring tape</td></tr>
+<tr><td>S. Distance to a far star</td><td>Ordinary metre scale</td></tr>
+</table>
+The row that needs correction is",S,Q,R,P,"The length of a notebook can be measured directly with a ruler or metre scale, so row P is suitable. The thickness of on..."
+89,3.0%,A direct measurement method is unsuitable for very large astronomical distances mainly because,no physical quantity is involved,large distances cannot be written in scientific notation,a standard cannot be placed across them,length has no SI unit for large values,Direct measurement requires comparing the unknown length with a standard placed along the length. For astronomical dista...
+120,56.0%,"A screw gauge gives an observed wire diameter of 0.48 mm . In metres, this is",4.8 × 10 − 5 m,4.8 × 10 − 4 m,4.8 × 10 4 m,4.8 × 10 − 3 m,Given diameter: 0.48 mm . Unit relation: 1 mm = 10 − 3 m Conversion setup: 0.48 mm = 0.48 × 10 − 3 m Write 0.48 as 4.8 ×...
+129,3.0%,"In the parallax method for measuring a very large distance, the baseline is",distance between telescope and distant object,the radius of the distant star,the least count of the telescope,distance between observation points,"In the parallax method, observations are made from two separated positions. The separation between these two positions i..."
+130,2.0%,The small-angle relation used in a basic parallax estimate is,\(\theta=\frac{D}{b}\),\(\theta=bD\),\(\theta=D-b\),\(\theta=\frac{b}{D}\),"For a small parallax angle measured in radians, the angle is approximately the ratio of the baseline to the distance of ..."
+131,2.0%,"A distant object is observed from two points separated by \(20\,\text{m}\). If its parallax angle is \(0.002\,\text{rad}\), its distance is","\(10\,000\,\text{m}\)","\(1000\,\text{m}\)","\(5000\,\text{m}\)","\(40\,000\,\text{m}\)","\( \textbf{Given data:} \) Baseline \(b=20\,\text{m}\), parallax angle \(\theta=0.002\,\text{rad}\).
+\( \textbf{Required..."
+132,2.0%,A parallax angle must be used in radians in the relation \(D=\frac{b}{\theta}\) because,degree is not a unit of angle,baseline has no unit in this method,radian measure is a length ratio,metre can be converted only into radian,The relation \(D=\frac{b}{\theta}\) comes from the small-angle relation \(\theta=\frac{b}{D}\). This ratio form is direc...
+133,2.0%,"A parallax measurement uses a baseline of \(3.0\,\text{m}\). When the baseline is doubled while observing the same distant object, the parallax angle approximately",remains zero,becomes four times,becomes double,becomes half,"For a fixed distant object, the distance \(D\) remains constant. The small-angle parallax relation is \(\theta=\frac{b}{..."
+134,2.0%,"Use the graph description below.
+<div class=""gkaim-mcq-graph-desc"">For a fixed baseline \(b\), a graph is plotted between parallax angle \(\theta\) on the vertical axis and \(\frac{1}{D}\) on the horizontal axis. The small-angle relation \(\theta=\frac{b}{D}\) is followed.</div>
+The slope of the graph represents",\(bD\),\(D\),\(\frac{1}{b}\),\(b\),The relation \(\theta=\frac{b}{D}\) can be rewritten as \(\theta=b\left(\frac{1}{D}\right)\). This has the form \(y=mx\)...
+135,2.0%,"A parallax record gives \(b=50\,\text{m}\) and \(\theta=5.0\times10^{-4}\,\text{rad}\). The distance \(D\) is","\(1.0\times10^5\,\text{m}\)","\(2.5\times10^4\,\text{m}\)","\(1.0\times10^4\,\text{m}\)","\(2.5\times10^{-2}\,\text{m}\)","\( \textbf{Given data:} \) \(b=50\,\text{m}\), \(\theta=5.0\times10^{-4}\,\text{rad}\).
+\( \textbf{Required quantity:} \..."
+136,2.0%,"A distant lamp gives a parallax angle of \(0.01\,\text{rad}\) with a baseline of \(2\,\text{m}\). If the same lamp were twice as far away with the same baseline, the parallax angle would be","\(0.02\,\text{rad}\)","\(0.04\,\text{rad}\)","\(0.01\,\text{rad}\)","\(0.005\,\text{rad}\)","\( \textbf{Relation:} \) For fixed baseline, \(\theta=\frac{b}{D}\).
+This means \(\theta\) is inversely proportional to ..."
+137,3.0%,A parallax calculation uses \(\theta=0.50^\circ\) directly in \(D=\frac{b}{\theta}\) without converting it to radians. The main problem is that,parallax depends on mass rather than angle,degree values must first be converted to radians,the distance must be converted into degrees first,the baseline must be converted to radians first,"The formula \(D=\frac{b}{\theta}\) is based on \(\theta=\frac{b}{D}\), where \(\theta\) is in radians. A degree value is..."
+138,2.0%,"In a parallax experiment, two observation points \(P\) and \(Q\) are \(12\,\text{m}\) apart. A distant object appears shifted by a small angle of \(3.0\times10^{-3}\,\text{rad}\). The distance of the object is","\(3.6\times10^3\,\text{m}\)","\(3.6\times10^{-2}\,\text{m}\)","\(4.0\times10^3\,\text{m}\)","\(4.0\times10^2\,\text{m}\)","\( \textbf{Given data:} \) Baseline \(b=12\,\text{m}\), parallax angle \(\theta=3.0\times10^{-3}\,\text{rad}\).
+\( \text..."
+139,3.0%,The parallax method is useful for very large distances because,it avoids direct measurement across the whole distance,"it works only when the distance is exactly \(1\,\text{m}\)",it changes a large distance into a mass measurement,it removes the need to measure any angle,Very large distances cannot be measured by placing a scale or tape across the whole separation. The parallax method avoi...
+141,23.0%,"A bundle of \(200\) identical thin sheets has thickness \(18\,\text{mm}\). The average thickness of one sheet is","\(0.09\,\text{mm}\)","\(9.0\,\text{mm}\)","\(0.009\,\text{mm}\)","\(0.90\,\text{mm}\)","\( \textbf{Given data:} \) Total thickness \(=18\,\text{mm}\), number of sheets \(=200\).
+\( \textbf{Required quantity:}..."
+142,54.0%,"A method note says, “Measure \(N\) identical thin wires placed side by side over a total width \(W\).” The diameter of one wire is best estimated as",\(NW\),\(\frac{N}{W}\),\(\frac{W}{N}\),\(W-N\),"If \(N\) identical wires are placed side by side without gaps, the total width is approximately the sum of their diamete..."
+143,33.0%,"A row of \(50\) identical fine wires placed side by side has total width \(7.5\,\text{mm}\). The estimated diameter of one wire is","\(0.015\,\text{mm}\)","\(375\,\text{mm}\)","\(1.5\,\text{mm}\)","\(0.15\,\text{mm}\)","\( \textbf{Given data:} \) Number of wires \(N=50\), total width \(W=7.5\,\text{mm}\).
+\( \textbf{Required quantity:} \)..."
+145,2.0%,The SI base unit used to express mass is,\(\text{kg}\),\(\text{mol}\),\(\text{N}\),\(\text{g}\),"Mass is one of the SI base quantities. Its SI base unit is kilogram, written with the symbol \(\text{kg}\). The gram \(\..."
+146,17.0%,A balance compares an unknown mass mainly by comparing it with,a standard length,a standard temperature,a standard mass,a standard time interval,A balance is used to compare the mass of an object with known standard masses. The comparison is meaningful because both...
+147,3.0%,"A small particle has mass \(3.0\,\text{u}\). Using \(1\,\text{u}=1.66\times10^{-27}\,\text{kg}\), its mass in \(\text{kg}\) is approximately","\(3.00\times10^{-27}\,\text{kg}\)","\(4.98\times10^{-27}\,\text{kg}\)","\(1.66\times10^{-27}\,\text{kg}\)","\(5.53\times10^{-27}\,\text{kg}\)","\( \textbf{Given data:} \) Mass \(=3.0\,\text{u}\), and \(1\,\text{u}=1.66\times10^{-27}\,\text{kg}\).
+\( \textbf{Requir..."
+148,2.0%,The atomic mass unit \(\text{u}\) is especially useful because,it replaces kilogram as the SI base unit of mass,it makes the mass of every atom dimensionless,it is the SI derived unit used for force,it is convenient for very small atomic masses,Atomic and molecular masses are extremely small on the kilogram scale. Writing such masses in \(\text{kg}\) often gives ...
+149,7.0%,"A mass is recorded as \(0.250\,\text{kg}\). Its value in \(\text{g}\) is","\(25.0\,\text{g}\)","\(250\,\text{g}\)","\(2.50\,\text{g}\)","\(0.250\,\text{g}\)","\( \textbf{Given value:} \) \(0.250\,\text{kg}\).
+\( \textbf{Unit relation:} \)
+\[
+1\,\text{kg}=1000\,\text{g}
+\]
+\( \te..."
+150,4.0%,"A statement says, “Mass and weight are always the same because both are measured with a balance.” The better interpretation is that",neither mass nor weight can be measured,"mass is in \(\text{kg}\), while weight is in \(\text{N}\)","weight is measured in \(\text{kg}\), while mass is measured in \(\text{s}\)",mass and weight are identical physical quantities,Mass and weight are related but not the same physical quantity. Mass measures the amount of matter or inertia of a body ...
+151,3.0%,"Study the mass-scale records below.
+<table class=""gkaim-mcq-table"">
+<tr><th>Record</th><th>Quantity range</th><th>Convenient unit</th></tr>
+<tr><td>P</td><td>Mass of a textbook</td><td>\(\text{kg}\)</td></tr>
+<tr><td>Q</td><td>Mass of an atom</td><td>\(\text{u}\)</td></tr>
+<tr><td>R</td><td>Mass of a small fruit</td><td>\(\text{g}\)</td></tr>
+<tr><td>S</td><td>Weight of a body as force</td><td>\(\text{kg}\)</td></tr>
+</table>
+The row that needs repair is",Q,R,S,P,"A textbook mass may conveniently be recorded in \(\text{kg}\), so row P is reasonable. Atomic masses are conveniently ex..."
+152,2.0%,The SI base unit used to measure time is,\(\text{s}\),\(\text{h}\),\(\text{min}\),\(\text{Hz}\),"Time is an SI base quantity, and its SI base unit is second, written as \(\text{s}\). Minutes and hours are common pract..."
+153,2.0%,"A periodic event repeats \(50\) times in \(10\,\text{s}\). Its frequency is","\(40\,\text{Hz}\)","\(5.0\,\text{Hz}\)","\(0.20\,\text{Hz}\)","\(500\,\text{Hz}\)","\( \textbf{Given data:} \) Number of repetitions \(N=50\), time interval \(t=10\,\text{s}\).
+\( \textbf{Required quantit..."
+154,2.0%,The period \(T\) and frequency \(f\) of a regular periodic motion are related by,\(T=\frac{f}{1}\),\(T=\frac{1}{f^2}\),\(T=\frac{1}{f}\),\(T=f\),The period \(T\) is the time taken for one complete repetition. Frequency \(f\) is the number of repetitions per unit ti...
+155,1.0%,"A sound source vibrates with frequency \(200\,\text{Hz}\). Its time period is","\(0.005\,\text{s}\)","\(5.0\,\text{s}\)","\(0.020\,\text{s}\)","\(0.002\,\text{s}\)","\( \textbf{Given data:} \) Frequency \(f=200\,\text{Hz}=200\,\text{s}^{-1}\).
+\( \textbf{Required quantity:} \) Time per..."
+156,4.0%,The difference between an instant and a time interval is that,both describe only one fixed reading of a clock,an instant is a moment; a time interval is a duration,an instant is a duration; a time interval is a moment,both must have the same numerical value,"An instant refers to a particular moment, such as the time at which an event starts. A time interval is the duration bet..."
+157,4.0%,Atomic clocks are used for highly precise time measurement because they depend on,irregular human reaction time,random changes in room temperature,the changing length of a metre scale,highly regular atomic oscillations,Atomic clocks are based on extremely regular atomic transitions or oscillations. A stable periodic process is needed for...
+158,19.0%,"A stopwatch records the start of an event at \(12.4\,\text{s}\) and the end at \(18.9\,\text{s}\). The time interval is","\(12.4\,\text{s}\)","\(18.9\,\text{s}\)","\(31.3\,\text{s}\)","\(6.5\,\text{s}\)","\( \textbf{Start instant:} \) \(t_1=12.4\,\text{s}\).
+\( \textbf{End instant:} \) \(t_2=18.9\,\text{s}\).
+\( \textbf{Req..."
+159,3.0%,"A graph description is given below.
+<div class=""gkaim-mcq-graph-desc"">For a periodic motion, a graph is plotted with frequency \(f\) on the vertical axis and reciprocal period \(\frac{1}{T}\) on the horizontal axis.</div>
+If the relation \(f=\frac{1}{T}\) holds, the graph should be",a line through the origin,a horizontal line with slope \(0\),a curve with \(fT=0\),"a vertical line at \(T=1\,\text{s}\)",The given horizontal-axis quantity is \(\frac{1}{T}\). The relation \(f=\frac{1}{T}\) can be read as \(f=1\times\left(\f...
+160,2.0%,"A timing record lists \(2.0\,\text{min}\) for an interval. In SI base unit form, this is","\(200\,\text{s}\)","\(2.0\,\text{s}\)","\(120\,\text{s}\)","\(20\,\text{s}\)","\( \textbf{Given interval:} \) \(2.0\,\text{min}\).
+\( \textbf{Unit relation:} \)
+\[
+1\,\text{min}=60\,\text{s}
+\]
+\( \t..."
+187,56.0%,"A set of five readings for a time interval is \(2.1\,\text{s}\), \(2.0\,\text{s}\), \(2.2\,\text{s}\), \(2.1\,\text{s}\), and \(2.1\,\text{s}\). The mean value is","\(2.0\,\text{s}\)","\(2.2\,\text{s}\)","\(10.5\,\text{s}\)","\(2.1\,\text{s}\)","\( \textbf{Given readings:} \) \(2.1\,\text{s}\), \(2.0\,\text{s}\), \(2.2\,\text{s}\), \(2.1\,\text{s}\), and \(2.1\,\t..."
+200,53.0%,"Four length readings are \(10.2\,\text{cm}\), \(10.4\,\text{cm}\), \(10.3\,\text{cm}\), and \(10.5\,\text{cm}\). The arithmetic mean is","\(10.3\,\text{cm}\)","\(10.2\,\text{cm}\)","\(10.35\,\text{cm}\)","\(41.4\,\text{cm}\)","\( \textbf{Given readings:} \) \(10.2\,\text{cm}\), \(10.4\,\text{cm}\), \(10.3\,\text{cm}\), and \(10.5\,\text{cm}\).
+\..."
+265,2.0%,The dimensional formula of a physical quantity expresses it in terms of,the brand name of the instrument,only the SI prefix attached to its unit,powers of fundamental dimensions,only its numerical value,"A dimensional formula represents a physical quantity using powers of fundamental dimensions such as \([M]\), \([L]\), an..."
+266,2.0%,The dimensional formula of area is,\([ML^{-3}]\),\([L^3]\),\([L^2]\),\([L]\),"Area is obtained by multiplying two lengths. For a rectangle, \(A=lb\), where both \(l\) and \(b\) have dimension \([L]\..."
+267,1.0%,"Using \(v=\frac{s}{t}\), the dimensional formula of velocity is",\([MLT^{-1}]\),\([L^{-1}T]\),\([LT]\),\([LT^{-1}]\),"\( \textbf{Relation used:} \)
+\[
+v=\frac{s}{t}
+\]
+\( \textbf{Dimension of displacement or distance:} \)
+\[
+[s]=[L]
+\]
+\(..."
+268,1.0%,The dimensional formula of acceleration follows from \(a=\frac{\Delta v}{\Delta t}\). It is,\([LT^{-1}]\),\([LT^{-2}]\),\([L^2T^{-1}]\),\([MLT^{-2}]\),"\( \textbf{Starting relation:} \)
+\[
+a=\frac{\Delta v}{\Delta t}
+\]
+Velocity has dimension \([LT^{-1}]\).
+Time interval ..."
+269,1.0%,"From \(F=ma\), the dimensional formula of force is",\([ML^{-1}T^{-2}]\),\([M^0LT^{-1}]\),\([ML^2T^{-2}]\),\([MLT^{-2}]\),"\( \textbf{Formula used:} \)
+\[
+F=ma
+\]
+Mass has dimension \([M]\).
+Acceleration has dimension \([LT^{-2}]\).
+Therefore,..."
+270,1.0%,"Work is given by \(W=Fs\), where \(F\) is force and \(s\) is displacement. The dimensional formula of work is",\([MLT^{-2}]\),\([M^2L^2T^{-2}]\),\([ML^2T^{-2}]\),\([ML^{-1}T^{-2}]\),"\( \textbf{Relation used:} \)
+\[
+W=Fs
+\]
+Force has dimensional formula \([MLT^{-2}]\).
+Displacement has dimension \([L]\..."
+271,1.0%,The dimension of pressure can be found from \(p=\frac{F}{A}\). The correct dimensional formula is,\([M^{-1}L^{1}T^{2}]\),\([ML^{-1}T^{-2}]\),\([ML^{1}T^{-2}]\),\([ML^{2}T^{-2}]\),"\( \textbf{Definition:} \) Pressure is force per unit area.
+\[
+p=\frac{F}{A}
+\]
+Force has dimension \([MLT^{-2}]\).
+Area..."
+272,2.0%,"A graph is plotted with force \(F\) on the vertical axis and acceleration \(a\) on the horizontal axis. If the graph is a straight line through the origin, the dimension of its slope is",\([T]\),\([MLT^{-2}]\),\([L]\),\([M]\),"\( \textbf{Slope meaning:} \) The slope of a graph is vertical-axis quantity divided by horizontal-axis quantity.
+Here,
+..."
+273,1.0%,Power is defined as work done per unit time. Its dimensional formula is,\([MLT^{-2}]\),\([ML^2T^{-2}]\),\([ML^{-1}T^{-2}]\),\([ML^2T^{-3}]\),"\( \textbf{Definition used:} \) Power is work done per unit time.
+\[
+P=\frac{W}{t}
+\]
+Work has dimensional formula \([ML..."
+274,2.0%,Density is defined as mass per unit volume. Its dimensional formula is,\([ML^{-2}T^{-1}]\),\([M^{-1}L^3]\),\([ML^{-3}]\),\([ML^3]\),Density tells how much mass is present per unit volume. Its defining relation is \(\rho=\frac{m}{V}\). Mass has dimensio...
+275,1.0%,Linear momentum is given by \(p=mv\). The dimensional formula of momentum is,\([ML^2T^{-2}]\),\([M^{-1}LT]\),\([MLT^{-1}]\),\([MLT^{-2}]\),"\( \textbf{Relation used:} \)
+\[
+p=mv
+\]
+Mass has dimension \([M]\).
+Velocity has dimension \([LT^{-1}]\).
+So,
+\[
+[p]=[M..."
+276,1.0%,Impulse is given by \(J=F\Delta t\). Its dimensional formula is the same as that of,pressure,power,momentum,force,"Impulse is the product of force and time interval. Force has dimensional formula \([MLT^{-2}]\), and time interval has d..."
+277,2.0%,The principle of homogeneity of dimensions states that,dimensions change when the unit system is changed,all valid equation terms have the same dimensions,every physical quantity must have dimension \([M]\),only numerical constants can appear in physical equations,"A physical equation can be meaningful only when quantities of the same dimensions are added, subtracted, or equated. For..."
+278,1.0%,The equation \(s=ut+\frac{1}{2}at^2\) is dimensionally valid because,the term \(\frac{1}{2}at^2\) is dimensionless,numerical constants change dimensions,all terms have the dimension of velocity,all terms have the dimension of length,"\( \textbf{Left side:} \) Displacement \(s\) has dimension \([L]\).
+\( \textbf{First term on right side:} \)
+\[
+[ut]=[LT..."
+279,2.0%,"The relation \(v=u+at^2\) cannot be dimensionally valid if \(v\) and \(u\) are velocities, because",acceleration and velocity have identical dimensions,\(u\) has acceleration dimension rather than velocity,\(v\) is dimensionless in this equation,"\(at^2\) is length, not velocity","The terms \(v\) and \(u\) are velocities, so each has dimension \([LT^{-1}]\). Acceleration has dimension \([LT^{-2}]\),..."
+280,1.0%,"In the relation \(F=kx\), where \(F\) is force and \(x\) is displacement, the dimensional formula of \(k\) is",\([MT^{-2}]\),\([ML^2T^{-2}]\),\([M^{-1}T^2]\),\([MLT^{-2}]\),"\( \textbf{Given relation:} \)
+\[
+F=kx
+\]
+Rearrange for \(k\):
+\[
+k=\frac{F}{x}
+\]
+Force has dimension \([MLT^{-2}]\), a..."
+281,2.0%,The expression \(T=2\pi\sqrt{\frac{l}{g}}\) is dimensionally suitable for a time period because,"\(\frac{l}{g}\) has \([T^2]\), so its square root has \([T]\)",\(2\pi\) supplies the dimension of time in the formula,\(g\) and \(l\) have identical dimensions in the ratio,"\(\frac{l}{g}\) has \([L]\), so its square root is also length-like","Length \(l\) has dimension \([L]\). Acceleration due to gravity \(g\) has dimension \([LT^{-2}]\). Therefore,
+\[
+\left[\..."
+282,1.0%,A graph has velocity \(v\) on the vertical axis and time \(t\) on the horizontal axis. The dimension of the slope is,\([LT^{-1}]\),\([T^{-1}]\),\([LT^{-2}]\),\([L]\),"\( \textbf{Slope of graph:} \) Slope is vertical-axis quantity divided by horizontal-axis quantity.
+Here,
+\[
+\text{slope..."
+283,1.0%,"In the relation \(v^2=Cx\), \(v\) is velocity and \(x\) is displacement. The dimensional formula of \(C\) is",\([L^{-1}T]\),\([L^2T^{-2}]\),\([T^{-2}]\),\([LT^{-2}]\),"\( \textbf{Given relation:} \)
+\[
+v^2=Cx
+\]
+Rearrange for \(C\):
+\[
+C=\frac{v^2}{x}
+\]
+Velocity has dimension \([LT^{-1}..."
+284,2.0%,"A proposed equation is \(E=mv^2+\frac{F}{x}\), where \(E\) is energy, \(m\) is mass, \(v\) is velocity, \(F\) is force, and \(x\) is displacement. The equation fails dimensional homogeneity because",\(\frac{F}{x}\) has the dimension of energy,the term \(\frac{F}{x}\) is not energy-dimensional,\(mv^2\) has no dimension,force and displacement always have the same dimensions,"Energy has dimensional formula \([ML^2T^{-2}]\). The term \(mv^2\) has dimension \([M][L^2T^{-2}]=[ML^2T^{-2}]\), so it ..."
+285,3.0%,Dimensional analysis can be used to,check the dimensional consistency of a physical equation,decide whether an experiment was performed carefully,find the exact numerical value of every dimensionless constant,replace measurement by guessing,Dimensional analysis is a useful method for checking whether the dimensions on both sides of an equation match. It can a...
+286,2.0%,The limitation of dimensional analysis is shown best by the fact that it cannot distinguish between,\(s=ut+\frac{1}{2}at^3\) and \(s=ut+3at^3\),\(s=ut\) and \(v=u+at\),\(s=ut+\frac{1}{2}at^2\) and \(s=ut+3at^2\),\(F=ma\) and \(p=\frac{F}{A}\),"Both \(\frac{1}{2}\) and \(3\) are pure numerical constants, so they have no dimensions. In both expressions, \(ut\) has..."
+287,1.0%,"A relation is proposed in the form \(T=k l^a g^b\), where \(T\) is time period, \(l\) is length, \(g\) is acceleration, and \(k\) is dimensionless. The values of \(a\) and \(b\) found by dimensional analysis are","\(a=-\frac{1}{2},\ b=\frac{1}{2}\)","\(a=\frac{1}{2},\ b=-\frac{1}{2}\)","\(a=0,\ b=1\)","\(a=1,\ b=1\)","\( \textbf{Given relation:} \)
+\[
+T=k l^a g^b
+\]
+Since \(k\) is dimensionless, it does not affect dimensions.
+\( \textbf..."
+288,2.0%,A dimensionless quantity is one whose dimensional formula is,\([M^0L^0T^0]\),\([M^1L^0T^0]\),\([M^0L^0T^1]\),\([M^0L^1T^0]\),"A dimensionless quantity has no net dependence on fundamental dimensions such as mass, length, and time. This is represe..."
+289,1.0%,Strain is defined as \(\frac{\text{change in length}}{\text{original length}}\). Its dimensional formula is,\([L]\),\([L^{-1}]\),\([M^0L^0T^0]\),\([ML^{-1}T^{-2}]\),"Strain is the ratio of two lengths. The change in length has dimension \([L]\), and the original length also has dimensi..."
+290,2.0%,The argument of a trigonometric function such as \(\sin \theta\) must be,a force,a quantity with dimension \([LT^{-1}]\),a quantity with dimension \([M]\),a dimensionless angle measure,The argument of a trigonometric function is treated as dimensionless in dimensional analysis. When \(\theta\) is measure...
+291,2.0%,The expression \(e^{-t/\tau}\) can appear in a physical relation only if,\(\tau\) is always dimensionless,\(t\) has dimension \([L]\) and \(\tau\) has dimension \([M]\),\(t/\tau\) has dimension \([T]\),\(t\) and \(\tau\) have the same dimensions,"The exponent of an exponential function must be dimensionless. In \(e^{-t/\tau}\), the exponent is \(-\frac{t}{\tau}\). ..."
+292,2.0%,"A proposed relation is \(y=A\sin(Bt)\), where \(y\) and \(A\) are lengths and \(t\) is time. The dimensional formula of \(B\) must be",\([L]\),\([T^{-1}]\),\([LT^{-1}]\),\([T]\),"\( \textbf{Given relation:} \)
+\[
+y=A\sin(Bt)
+\]
+Since \(\sin(Bt)\) is a trigonometric function, its argument \(Bt\) mus..."
+293,1.0%,"In the relation \(v=A+Bt\), \(v\) is velocity and \(t\) is time. The dimensions of \(A\) and \(B\), respectively, are",\([LT^{-2}]\) and \([LT^{-1}]\),\([M]\) and \([T]\),\([L]\) and \([LT^{-1}]\),\([LT^{-1}]\) and \([LT^{-2}]\),"\( \textbf{Given relation:} \)
+\[
+v=A+Bt
+\]
+By dimensional homogeneity, each term added to form \(v\) must have the dime..."
+294,1.0%,"A formula is written as \(s=At+Bt^2\), where \(s\) is displacement and \(t\) is time. The dimensions of \(A\) and \(B\), respectively, are",\([LT]\) and \([LT^2]\),\([LT^{-1}]\) and \([LT^{-2}]\),\([LT^{-2}]\) and \([LT^{-1}]\),\([L]\) and \([LT]\),"\( \textbf{Given equation:} \)
+\[
+s=At+Bt^2
+\]
+Displacement has dimension \([L]\), so both \(At\) and \(Bt^2\) must have..."
+295,1.0%,"In the relation \(P=\frac{a-bt^2}{x}\), \(P\) is pressure, \(t\) is time, and \(x\) is length. The dimensions of \(a\) and \(b\), respectively, are",\([ML^{-1}T^{-2}]\) and \([ML^{-1}T^{-4}]\),\([ML^0T^{-2}]\) and \([ML^0T^{-4}]\),\([ML^2T^{-2}]\) and \([ML^2T^{-4}]\),\([MLT^{-2}]\) and \([MLT^{-4}]\),"\( \textbf{Given relation:} \)
+\[
+P=\frac{a-bt^2}{x}
+\]
+Pressure has dimension \([ML^{-1}T^{-2}]\), and length \(x\) has..."
+296,2.0%,The relation \(E=\frac{1}{2}mv^2\) is dimensionally consistent with energy because,\(m\) and \(v\) have the same dimensions,the factor \(\frac{1}{2}\) supplies the dimension of energy,\(v^2\) is dimensionless,\(mv^2\) has dimensional formula \([ML^2T^{-2}]\),"Mass has dimension \([M]\), and velocity has dimension \([LT^{-1}]\). Therefore,
+\[
+[mv^2]=[M][LT^{-1}]^2
+\]
+\[
+=[M][L^2..."
+297,2.0%,A formula \(F=\frac{mv}{t}\) is proposed for force. Dimensional analysis shows that it is,invalid because it is dimensionless,invalid because it has dimension \([ML^2T^{-2}]\),dimensionally valid,invalid because it has dimension \([MLT^{-1}]\),"\( \textbf{Given expression:} \)
+\[
+\frac{mv}{t}
+\]
+Mass has dimension \([M]\), velocity has dimension \([LT^{-1}]\), an..."
+298,2.0%,"A dimensional check is applied to \(s=vt+\frac{a}{t}\), where \(s\) is displacement, \(v\) is velocity, \(a\) is acceleration, and \(t\) is time. The equation fails because",all terms have \([L]\) after simplification,"\(\frac{a}{t}\) is \([L]\), while \(vt\) is \([LT^{-1}]\)","\(vt\) is \([LT^{-2}]\), while \(s\) is \([L]\)","\(vt\) is \([L]\), but \(\frac{a}{t}\) is \([LT^{-3}]\)","The left side \(s\) has dimension \([L]\). The first term on the right side is
+\[
+[vt]=[LT^{-1}][T]=[L]
+\]
+so it matches..."
+299,2.0%,"A formula is proposed as \(T=C\rho^a r^b\), where \(T\) is time, \(\rho\) is density, \(r\) is length, and \(C\) is dimensionless. This form cannot represent time using only \(\rho\) and \(r\) because",dimensionless constants always change dimensions,no factor in \(\rho^a r^b\) can supply \([T]\),no factor in \(\rho^a r^b\) can supply \([C]\),density is always dimensionless,"Density has dimensional formula \([ML^{-3}]\), and length has dimension \([L]\). A product \(\rho^a r^b\) has dimensions..."
+300,3.0%,"To convert the numerical value of a quantity from one system of units to another, the dimensional formula is useful because it tells",the number of digits after the decimal point,how the unit depends on base units,the exact experimental error in every reading,the colour of the measuring instrument,"A dimensional formula shows the powers of base dimensions in a physical quantity. When base units of mass, length, and t..."
+301,2.0%,"A force is 1 N . Since 1 N = 10 5 dyne , the force in dyne is",10 − 5 dyne,10 3 dyne,10 5 dyne,10 0 dyne,"Given conversion: 1 N = 10 5 dyne The force is 1 N , so no additional scaling factor is needed. Therefore, 1 N = 10 5 dy..."
+302,2.0%,"A work value is 2 J . Using 1 J = 10 7 erg , its value in erg is",5 × 10 7 erg,2 × 10 − 7 erg,2 × 10 7 erg,2 × 10 5 erg,Given value: Work = 2 J . Conversion relation: 1 J = 10 7 erg Apply conversion: 2 J = 2 × 10 7 erg The erg is a smaller ...
+303,2.0%,"A pressure of 1 Pa is expressed in dyne cm − 2 . Given 1 N = 10 5 dyne and 1 m 2 = 10 4 cm 2 , the value is",10 2 dyne cm − 2,10 dyne cm − 2,10 9 dyne cm − 2,10 4 dyne cm − 2,"Starting unit: 1 Pa = 1 N m − 2 Use 1 N = 10 5 dyne and 1 m 2 = 10 4 cm 2 So, 1 N m − 2 = 10 5 dyne 10 4 cm 2 = 10 dyne ..."
+304,2.0%,A limitation of the dimensional method in deriving formulae is that it,cannot identify the dimensions of force,cannot find dimensionless constants,changes the physical quantity being studied,cannot be used to check any equation,"Dimensional analysis compares powers of fundamental dimensions on both sides of a relation. Pure numbers such as 2 , 1 2..."
+305,3.0%,"A derived unit is converted from one system to another using n 1 u 1 = n 2 u 2 . In this relation, n 1 and n 2 represent",names of two different physical quantities,errors of the measuring instrument only,dimensions of the physical quantity,numerical values in the two unit systems,A physical quantity remains the same when it is expressed in two different unit systems. If it is written as n 1 u 1 in ...
+306,2.0%,"A physical quantity has dimensional formula [ M 1 L 2 T − 2 ] . If the units of mass, length, and time become 10 times, 100 times, and unchanged respectively, the new numerical value becomes",10 3 times the old numerical value,10 5 times the old numerical value,10 − 5 times the old numerical value,10 − 3 times the old numerical value,"Dimensional formula: [ M 1 L 2 T − 2 ] . Let the new mass unit be 10 times the old mass unit, the new length unit be 100..."
+307,1.0%,"A quantity Q has dimensions [ M L T − 2 ] . It is 10 N in SI. Since 1 N = 10 5 dyne , the same quantity in dyne is",10 6 dyne,10 5 dyne,10 − 4 dyne,10 10 dyne,Given value: Q = 10 N . Conversion relation: 1 N = 10 5 dyne Multiply both sides by 10 : 10 N = 10 × 10 5 dyne = 10 6 dy...
+308,2.0%,A density is 1000 kg m − 3 . Its value in g cm − 3 is,0.001 g cm − 3,10 g cm − 3,1 g cm − 3,1000 g cm − 3,Given density: 1000 kg m − 3 . Convert the mass unit: 1 kg = 1000 g Convert the volume unit: 1 m = 100 cm 1 m 3 = ( 100 ...
+309,2.0%,A speed is 72 km h − 1 . Its value in m s − 1 is,10 m s − 1,72 m s − 1,25 m s − 1,20 m s − 1,"Given speed: 72 km h − 1 . Use 1 km = 1000 m and 1 h = 3600 s So, 72 km h − 1 = 72 × 1000 m 3600 s = 72 × 5 18 m s − 1 =..."
+310,1.0%,"A graph is plotted with work W on the vertical axis and displacement s on the horizontal axis. If the relation is W = F s , the dimension of the slope is",[ M L − 1 T − 2 ],[ M L 2 T − 2 ],[ L T − 1 ],[ M L T − 2 ],"Slope meaning: Slope is the ratio of vertical-axis quantity to horizontal-axis quantity. Here, slope = W s Work has dime..."
+311,2.0%,The area under a force-displacement graph has the dimension of,force,work,acceleration,pressure,Area under a graph is found by multiplying the vertical-axis quantity by the horizontal-axis quantity. For a force-displ...
+312,3.0%,A dimensionally valid equation may still be physically wrong because dimensional analysis,"it checks dimensions, not the full physical law",always gives the exact coefficient in the equation,ignores all dimensions of physical quantities,changes variables into unitless numbers,Dimensional analysis tests whether the dimensions on both sides of an equation agree. Passing this test is necessary for...
+313,1.0%,The equation v 2 = u 2 + 2 a s is dimensionally valid because every term has the dimension,[ L 1 T − 1 ],[ L 2 T − 2 ],[ L 1 T − 2 ],[ L 0 T − 2 ],"Velocity has dimension [ L T − 1 ] , so v 2 and u 2 each have dimension [ L 2 T − 2 ] . Acceleration has dimension [ L T..."
+314,1.0%,"The proposed relation v = u + a s , where v and u are velocities, a is acceleration, and s is displacement, is dimensionally invalid because a s has dimensions",[ L − 1 T 1 ],[ L 1 T − 1 ],[ L 1 T − 2 ],[ L 2 T − 2 ],The terms v and u have dimension [ L T − 1 ] . The product a s has dimension [ a s ] = [ L T − 2 ] [ L ] = [ L 2 T − 2 ]...
+315,1.0%,"A relation is proposed as E = A x 2 , where E is energy and x is displacement. The dimensional formula of A is",[ M L T − 2 ],[ M T − 2 ],[ M − 1 T 2 ],[ M L 2 T − 2 ],Given relation: E = A x 2 Rearrange for A : A = E x 2 Energy has dimensional formula [ M L 2 T − 2 ] . Displacement squa...
+316,2.0%,"In R = α L + β t , R is length, L is length, and t is time. The dimensions of α and β , respectively, are",[ L ] and [ T ],[ L T − 1 ] and [ M 0 L 0 T 0 ],[ M 0 L 0 T 0 ] and [ L T − 1 ],[ L − 1 ] and [ T − 1 ],"Given relation: R = α L + β t Since R is a length, each term on the right side must have dimension [ L ] . For α L : [ α..."
+317,2.0%,"A quantity Q is given by Q = P ρ g , where P is pressure, ρ is density, and g is acceleration. The dimensional formula of Q is",[ L ],[ T ],[ M ],[ L 2 ],"Given relation: Q = P ρ g Pressure has dimension [ M L − 1 T − 2 ] . Density has dimension [ M L − 3 ] , and acceleratio..."
+318,1.0%,"A relation has the form X = A cos ⁡ ( ω t ) , where X is displacement and t is time. The dimensions of A and ω , respectively, are",[ M ] and [ M 0 L 0 T 0 ],[ L ] and [ T − 1 ],[ T ] and [ L ],[ L T − 1 ] and [ T ],Given relation: X = A cos ⁡ ( ω t ) The cosine factor is dimensionless because the argument ω t must be dimensionless. S...
+319,2.0%,"A dimensionally consistent expression for a time using only l and g , where l is length and g is acceleration, must be proportional to",l g,g l,l g,1 l g,"Length has dimension [ L ] , and acceleration has dimension [ L T − 2 ] . The ratio l g has dimension [ L ] [ L T − 2 ] ..."
+320,2.0%,"A physical equation contains the term ln ⁡ ( x x 0 ) , where x and x 0 are lengths. This logarithmic term is dimensionally acceptable because",x x 0 is dimensionless,logarithms can take dimensional quantities directly,x alone is dimensionless,x 0 has dimension [ T ],"The argument of a logarithmic function must be dimensionless. In ln ⁡ ( x x 0 ) , both x and x 0 are lengths, so their r..."
+321,1.0%,"In Newton’s gravitational relation \(F=\frac{Gm_1m_2}{r^2}\), the dimensional formula of \(G\) is",\([M^{-1}L^3T^{-2}]\),\([M^{1}L^{-3}T^{2}]\),\([M^{1}L^3T^{-2}]\),\([M^{-1}L^1T^{-2}]\),"\( \textbf{Given relation:} \)
+\[
+F=\frac{Gm_1m_2}{r^2}
+\]
+Rearrange for \(G\):
+\[
+G=\frac{Fr^2}{m_1m_2}
+\]
+Force has di..."
+322,1.0%,"A resisting force is written as \(F=av+bv^2\), where \(v\) is speed. The dimensions of \(a\) and \(b\), respectively, are",\([M^0L^0T^0]\) and \([MLT^{-2}]\),\([ML^{-1}]\) and \([MT^{-1}]\),\([MLT^{-2}]\) and \([MT^{-1}]\),\([MT^{-1}]\) and \([ML^{-1}]\),"\( \textbf{Given equation:} \)
+\[
+F=av+bv^2
+\]
+Each term on the right must have the dimension of force \([MLT^{-2}]\).
+F..."
+323,1.0%,"For a mass-spring system, \(T=2\pi\sqrt{\frac{m}{k}}\), where \(T\) is time period and \(m\) is mass. The dimensional formula of \(k\) must be",\([M^{-1}T^2]\),\([MLT^{-2}]\),\([ML^2T^{-2}]\),\([MT^{-2}]\),"\( \textbf{Given relation:} \)
+\[
+T=2\pi\sqrt{\frac{m}{k}}
+\]
+The factor \(2\pi\) is dimensionless.
+For the expression u..."
+324,1.0%,"A proposed equation is \(x=Ae^{-bt}\), where \(x\) and \(A\) are lengths and \(t\) is time. The dimensional formula of \(b\) is",\([T^{-1}]\),\([T]\),\([LT^{-1}]\),\([L]\),"\( \textbf{Given equation:} \)
+\[
+x=Ae^{-bt}
+\]
+The exponential factor \(e^{-bt}\) must be dimensionless because an expo..."
+325,2.0%,"A formula sheet lists some dimension-based statements.
+<table class=""gkaim-mcq-table"">
+<tr><th>Row</th><th>Statement</th></tr>
+<tr><td>P</td><td>Arguments of \(\sin\), \(\cos\), \(e^x\), and \(\ln x\) must be dimensionless.</td></tr>
+<tr><td>Q</td><td>Only quantities with the same dimensions can be added or subtracted.</td></tr>
+<tr><td>R</td><td>A dimensionally correct equation is always a complete physical law.</td></tr>
+<tr><td>S</td><td>Dimensional analysis cannot determine pure numerical constants.</td></tr>
+</table>
+The row that needs correction is",Q,P,S,R,"Row P is valid because the arguments of trigonometric, exponential, and logarithmic functions must be pure numbers. Row ..."
+326,2.0%,"A quantity \(Y\) is given by \(Y=\frac{E}{V}\), where \(E\) is energy and \(V\) is volume. The dimensional formula of \(Y\) is",\([M^{-1}L^{1}T^{2}]\),\([ML^{2}T^{-2}]\),\([ML^{-1}T^{-2}]\),\([ML^{5}T^{-2}]\),"\( \textbf{Given relation:} \)
+\[
+Y=\frac{E}{V}
+\]
+Energy has dimensional formula \([ML^2T^{-2}]\).
+Volume has dimension..."
+327,2.0%,"In a graph with momentum \(p\) on the vertical axis and velocity \(v\) on the horizontal axis, the slope has the dimension of",mass,energy,force,pressure,"The slope of a graph is the vertical-axis quantity divided by the horizontal-axis quantity. Here,
+\[
+\text{slope}=\frac{..."
+328,1.0%,The area under a power-time graph has the dimension of,force,acceleration,energy,pressure,The area under a graph is found by multiplying the vertical-axis quantity by the horizontal-axis quantity. For a power-t...
+329,1.0%,"A formula \(R=\frac{V}{I}\) defines resistance using potential difference \(V\) and current \(I\). If \(V\) has dimensions \([ML^2T^{-3}A^{-1}]\), the dimensional formula of \(R\) is",\([ML^2T^{-3}A^{-1}]\),\([M^{-1}L^{-2}T^3A^2]\),\([MLT^{-2}A^{-1}]\),\([ML^2T^{-3}A^{-2}]\),"\( \textbf{Given relation:} \)
+\[
+R=\frac{V}{I}
+\]
+Potential difference has dimensions \([ML^2T^{-3}A^{-1}]\).
+Current h..."
+330,1.0%,"A physical relation is proposed as \(Q=A+B\), where \(Q\) has dimensions \([ML^2T^{-2}]\) and \(A\) has dimensions \([ML^2T^{-2}]\). For the equation to be dimensionally meaningful, \(B\) must have dimensions",\([M^0L^0T^0]\),\([MLT^{-2}]\),\([ML^2T^{-2}]\),\([ML^{-1}T^{-2}]\),"In the equation \(Q=A+B\), the terms \(A\) and \(B\) are being added. By the principle of dimensional homogeneity, quant..."
+331,1.0%,"A relation has the form \(s=ut+ct^3\), where \(s\) is displacement, \(u\) is velocity, and \(t\) is time. The dimensional formula of \(c\) is",\([LT^{-1}]\),\([LT^{-3}]\),\([LT^{-2}]\),\([L^3T^{-1}]\),"\( \textbf{Given relation:} \)
+\[
+s=ut+ct^3
+\]
+Displacement \(s\) has dimension \([L]\).
+The term \(ut\) has dimension
+\..."
+332,2.0%,"A value of acceleration is \(980\,\text{cm s}^{-2}\). In \(\text{m s}^{-2}\), this is","\(9.8\,\text{m s}^{-2}\)","\(0.98\,\text{m s}^{-2}\)","\(9800\,\text{m s}^{-2}\)","\(98\,\text{m s}^{-2}\)","\( \textbf{Given acceleration:} \) \(980\,\text{cm s}^{-2}\).
+Only the length unit needs conversion here because the tim..."
+333,3.0%,"A volume is \(2.0\,\text{m}^3\). Its value in \(\text{cm}^3\) is","\(2.0\times10^{-6}\,\text{cm}^3\)","\(2.0\times10^6\,\text{cm}^3\)","\(2.0\times10^4\,\text{cm}^3\)","\(2.0\times10^2\,\text{cm}^3\)","\( \textbf{Given volume:} \) \(2.0\,\text{m}^3\).
+The conversion of length is
+\[
+1\,\text{m}=100\,\text{cm}
+\]
+For volum..."
+334,2.0%,"A relation is given as \(P=A\rho^x v^y\), where \(P\) is pressure, \(\rho\) is density, \(v\) is speed, and \(A\) is dimensionless. The values of \(x\) and \(y\) are","\(x=-1,\ y=2\)","\(x=1,\ y=1\)","\(x=2,\ y=1\)","\(x=1,\ y=2\)","\( \textbf{Given relation:} \)
+\[
+P=A\rho^x v^y
+\]
+Pressure has dimensions \([ML^{-1}T^{-2}]\).
+Density has dimensions \..."
+335,2.0%,A quantity \(Z\) has dimensions \([M^0L^0T^{-1}]\). A suitable SI unit for it is,\(\text{m}^{-1}\),\(\text{s}^{-1}\),\(\text{N}^{-1}\),\(\text{kg}^{-1}\),The dimensional formula \([M^0L^0T^{-1}]\) means the quantity depends only on inverse time. A common example is frequenc...
+336,4.0%,The broad role of dimensional analysis is best summarized as helping to,replace all direct measurements by dimensional estimates,"connect dimensions with units, equations, and conversions",decide exact values of all physical constants,remove uncertainty from every experimental measurement result,"Dimensional analysis connects the structure of physical quantities with their units. It helps write derived dimensions, ..."
+337,2.0%,"Use the graph description below.
+<div class=""gkaim-mcq-graph-desc"">A straight-line graph is plotted with displacement \(s\) on the vertical axis and time \(t\) on the horizontal axis. The line cuts the vertical axis at \(s_0\) and has constant slope.</div>
+The unit of the intercept and the unit of the slope are respectively",\(\text{m s}^{-1}\) and \(\text{m}\),\(\text{s}\) and \(\text{m s}^{-2}\),\(\text{m}^2\) and \(\text{s}^{-1}\),\(\text{m}\) and \(\text{m s}^{-1}\),"The vertical-axis quantity is displacement \(s\), so the vertical intercept \(s_0\) has the same unit as displacement. T..."
+340,2.0%,"A parallax experiment uses a baseline of \(5.0\,\text{m}\). The measured parallax angle is \(0.057^\circ\), and \(1^\circ\approx1.745\times10^{-2}\,\text{rad}\). The distance of the object is approximately","\(5.0\times10^5\,\text{m}\)","\(5.0\times10^2\,\text{m}\)","\(5.0\times10^4\,\text{m}\)","\(5.0\times10^3\,\text{m}\)","\( \textbf{Given data:} \) Baseline \(b=5.0\,\text{m}\), angle \(\theta=0.057^\circ\), and \(1^\circ\approx1.745\times10..."
+345,1.0%,"A relation is assumed in the form \(v=kF^a m^b s^c\), where \(v\) is speed, \(F\) is force, \(m\) is mass, \(s\) is displacement, and \(k\) is dimensionless. The powers \(a\), \(b\), and \(c\) are","\(a=\frac{1}{2},\ b=-\frac{1}{2},\ c=\frac{1}{2}\)","\(a=-\frac{1}{2},\ b=\frac{1}{2},\ c=\frac{1}{2}\)","\(a=1,\ b=-1,\ c=0\)","\(a=\frac{1}{2},\ b=\frac{1}{2},\ c=-\frac{1}{2}\)","\( \textbf{Assumed relation:} \)
+\[
+v=kF^a m^b s^c
+\]
+Since \(k\) is dimensionless, it does not affect dimensions.
+Use
+\..."
+349,1.0%,"A physical quantity has dimensions \([ML^2T^{-2}]\). Its value is \(3.0\) in a system where the units of mass, length, and time are \(\text{kg}\), \(\text{m}\), and \(\text{s}\). In a new system, the units are \(\text{g}\), \(\text{cm}\), and \(\text{s}\). The numerical value becomes",\(3.0\times10^7\),\(3.0\times10^3\),\(3.0\times10^{-3}\),\(3.0\times10^{-7}\),"The dimensional formula \([ML^2T^{-2}]\) corresponds to energy-like quantities.
+Convert the old base units into the new ..."
+350,2.0%,"A graph is plotted with \(\frac{1}{T^2}\) on the vertical axis and \(g\) on the horizontal axis, where \(T\) is time period and \(g\) is acceleration. The dimension of the slope is",\([LT^{-2}]\),\([L^{-1}]\),\([L]\),\([T^{-2}]\),"The slope of a graph is vertical-axis quantity divided by horizontal-axis quantity.
+Here,
+\[
+\text{slope}=\frac{\frac{1}..."
+359,1.0%,"A physical quantity \(Q\) has dimensional formula \([M^1L^{-1}T^{-2}]\). Its value is \(4.0\) in SI units. Expressed in a system using \(\text{g}\), \(\text{cm}\), and \(\text{s}\), its numerical value becomes",\(40\),\(4.0\times10^4\),\(4.0\times10^5\),\(400\),"\( \textbf{Dimensional formula:} \) \([ML^{-1}T^{-2}]\), which is pressure-like.
+Convert SI base units into CGS base uni..."
+360,5.0%,"A graph is plotted with \(\frac{1}{T^2}\) on the vertical axis and \(g\) on the horizontal axis for pendulum data. The slope is measured as \(0.025\,\text{cm}^{-1}\). Expressed in \(\text{m}^{-1}\), this slope is","\(0.00025\,\text{m}^{-1}\)","\(250\,\text{m}^{-1}\)","\(2.5\,\text{m}^{-1}\)","\(0.0025\,\text{m}^{-1}\)","\( \textbf{Given slope:} \) \(0.025\,\text{cm}^{-1}\).
+The slope dimension is inverse length, so the unit conversion mus..."
+361,1.0%,"A quantity \(X\) is assumed to depend on force \(F\), area \(A\), and time \(t\) as \(X=kF^aA^bt^c\), where \(k\) is dimensionless. If \(X\) has the dimensions of power, the values of \(a\), \(b\), and \(c\) are","\(a=1,\ b=\frac{1}{2},\ c=-1\)","\(a=\frac{3}{2},\ b=\frac{1}{2},\ c=-2\)","\(a=\frac{1}{2},\ b=1,\ c=-1\)","\(a=\frac{3}{2},\ b=-\frac{1}{2},\ c=-1\)","\( \textbf{Required dimension:} \) Power has dimensional formula \([ML^2T^{-3}]\).
+The assumed relation is
+\[
+X=kF^aA^bt..."
+362,60.0%,"A speed is measured as \(18.0\,\text{km h}^{-1}\) with a maximum uncertainty of \(0.2\,\text{km h}^{-1}\). Expressed in \(\text{m s}^{-1}\), the speed and uncertainty are","\(5.00\pm0.056\,\text{m s}^{-1}\)","\(64.8\pm0.72\,\text{m s}^{-1}\)","\(5.00\pm0.20\,\text{m s}^{-1}\)","\(18.0\pm0.2\,\text{m s}^{-1}\)","\( \textbf{Given speed:} \) \(18.0\pm0.2\,\text{km h}^{-1}\).
+Use
+\[
+1\,\text{km h}^{-1}=\frac{1000\,\text{m}}{3600\,\te..."
+363,18.0%,"A distance is found by parallax using \(D=\frac{b}{\theta}\). The baseline is \(2.00\pm0.02\,\text{m}\), and the angle is \((4.0\pm0.1)\times10^{-4}\,\text{rad}\). The distance and maximum percentage error are approximately","\(8.0\times10^{-4}\,\text{m}\) and \(3.5\%\)","\(5.0\times10^3\,\text{m}\) and \(3.5\%\)","\(2.0\times10^4\,\text{m}\) and \(2.5\%\)","\(5.0\times10^3\,\text{m}\) and \(1.5\%\)","\( \textbf{Given data:} \) \(b=2.00\,\text{m}\), \(\Delta b=0.02\,\text{m}\), \(\theta=4.0\times10^{-4}\,\text{rad}\), a..."
+365,1.0%,"A formula is proposed as \(R=C\rho^a\eta^b v^c\), where \(R\) is radius, \(\rho\) is density \([ML^{-3}]\), \(\eta\) has dimensions \([ML^{-1}T^{-1}]\), \(v\) is speed, and \(C\) is dimensionless. The values of \(a\), \(b\), and \(c\) are","\(a=1,\ b=-1,\ c=1\)","\(a=1,\ b=1,\ c=-1\)","\(a=-1,\ b=1,\ c=-1\)","\(a=-1,\ b=1,\ c=1\)","\( \textbf{Given relation:} \)
+\[
+R=C\rho^a\eta^b v^c
+\]
+Radius has dimension \([L]\).
+Use
+\[
+[\rho]=[ML^{-3}],\quad [\e..."
+371,2.0%,"A spring constant \(k\) has SI unit \(\text{N m}^{-1}\). If \(k=25\,\text{N m}^{-1}\), its value in \(\text{dyne cm}^{-1}\) is","\(2.5\times10^3\,\text{dyne cm}^{-1}\)","\(2.5\times10^5\,\text{dyne cm}^{-1}\)","\(2.5\times10^4\,\text{dyne cm}^{-1}\)","\(2.5\times10^2\,\text{dyne cm}^{-1}\)","\( \textbf{Given value:} \) \(k=25\,\text{N m}^{-1}\).
+Use
+\[
+1\,\text{N}=10^5\,\text{dyne}
+\]
+and
+\[
+1\,\text{m}=100\,\..."
+373,12.0%,"A parallax measurement uses baseline \(b=3.00\pm0.03\,\text{m}\). The measured angle is \(0.0344^\circ\), with uncertainty \(0.0004^\circ\). Taking \(1^\circ=1.745\times10^{-2}\,\text{rad}\), the distance is approximately and the maximum percentage error is approximately","\(5.0\times10^3\,\text{m}\) and \(3.2\%\)","\(3.0\times10^4\,\text{m}\) and \(2.2\%\)","\(5.0\times10^3\,\text{m}\) and \(2.2\%\)","\(3.0\times10^4\,\text{m}\) and \(3.2\%\)","\( \textbf{Convert angle to radians:} \)
+\[
+\theta=0.0344\times1.745\times10^{-2}\,\text{rad}
+\]
+\[
+\theta\approx6.00\ti..."
+375,1.0%,"A quantity \(Q\) has dimensional formula \([M^2L^{-1}T^{-3}]\). Its value is \(6.0\) in a system with base units \(\text{kg}\), \(\text{m}\), and \(\text{s}\). In a new system, the base units are \(10\,\text{kg}\), \(0.01\,\text{m}\), and \(2\,\text{s}\). The new numerical value is",\(0.4800\),\(0.0480\),\(4.800\),\(0.0048\),"\( \textbf{Dimensional formula:} \) \([M^2L^{-1}T^{-3}]\).
+Let the new base units compared with old units be
+\[
+M_2=10M_..."
+376,2.0%,"A formula for a time period is assumed as \(T=k m^a r^b F^c\), where \(m\) is mass, \(r\) is length, \(F\) is force, and \(k\) is dimensionless. The values of \(a\), \(b\), and \(c\) are","\(a=\frac{1}{2},\ b=-\frac{1}{2},\ c=-\frac{1}{2}\)","\(a=\frac{1}{2},\ b=\frac{1}{2},\ c=-\frac{1}{2}\)","\(a=-\frac{1}{2},\ b=\frac{1}{2},\ c=\frac{1}{2}\)","\(a=1,\ b=1,\ c=-1\)","\( \textbf{Assumed relation:} \)
+\[
+T=k m^a r^b F^c
+\]
+Use
+\[
+[T]=[M]^a[L]^b[MLT^{-2}]^c
+\]
+\[
+[T]=[M^{a+c}L^{b+c}T^{-2c..."
+382,1.0%,"A quantity \(Y\) has SI unit \(\text{kg m}^2\text{s}^{-3}\text{A}^{-1}\). Its value is \(12\) in SI. If it is expressed using \(\text{g}\), \(\text{cm}\), \(\text{s}\), and \(\text{A}\), its numerical value becomes",\(1.2\times10^{11}\),\(1.2\times10^4\),\(1.2\times10^8\),\(1.2\times10^{10}\),"\( \textbf{Dimensional unit form:} \)
+\[
+\text{kg m}^2\text{s}^{-3}\text{A}^{-1}
+\]
+Convert base units:
+\[
+1\,\text{kg}=..."
+384,1.0%,"A dimensionally derived relation for a quantity \(R\) is \(R=kP^a\rho^bg^c\), where \(P\) is pressure, \(\rho\) is density, \(g\) is acceleration, \(R\) is length, and \(k\) is dimensionless. The powers \(a\), \(b\), and \(c\) are","\(a=1,\ b=-1,\ c=-1\)","\(a=1,\ b=1,\ c=-1\)","\(a=\frac{1}{2},\ b=-\frac{1}{2},\ c=-1\)","\(a=-1,\ b=1,\ c=1\)","\( \textbf{Assumed relation:} \)
+\[
+R=kP^a\rho^bg^c
+\]
+Use
+\[
+[R]=[L]
+\]
+\[
+[P]=[ML^{-1}T^{-2}],\quad [\rho]=[ML^{-3}],\..."
+389,2.0%,"A physical quantity \(Q\) has dimensions \([M^1L^2T^{-3}]\). Its numerical value is \(8.0\) in a system where the base units are \(\text{kg}\), \(\text{m}\), and \(\text{s}\). If a new system uses \(500\,\text{g}\), \(20\,\text{cm}\), and \(0.5\,\text{s}\) as base units, the new numerical value of \(Q\) is",\(0.32\),\(50\),\(3.2\),\(320\),"\( \textbf{Dimensional formula:} \) \([ML^2T^{-3}]\).
+Convert the new base units into old SI base units:
+\[
+M_2=500\,\te..."
+393,1.0%,"A quantity \(X\) is assumed to depend on energy \(E\), mass \(m\), and time \(t\) as \(X=kE^am^bt^c\), where \(k\) is dimensionless. If \(X\) has dimensions of length, the powers \(a\), \(b\), and \(c\) are","\(a=\frac{1}{2},\ b=\frac{1}{2},\ c=-1\)","\(a=\frac{1}{2},\ b=-\frac{1}{2},\ c=1\)","\(a=1,\ b=-1,\ c=1\)","\(a=-\frac{1}{2},\ b=\frac{1}{2},\ c=-1\)","\( \textbf{Assumed relation:} \)
+\[
+X=kE^am^bt^c
+\]
+Since \(X\) has dimensions of length,
+\[
+[X]=[L]
+\]
+Energy has dimen..."
